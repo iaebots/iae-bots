@@ -36,7 +36,7 @@ class ImageProcessor:
                   (255, 255, 255), font=carlitoBoldSmall)
 
         # draw humidity and wind velocity
-        draw.text((400, 170), 'Humidade {}%'.format(self.humidity),
+        draw.text((400, 170), 'Umidade {}%'.format(self.humidity),
                   (255, 255, 255), font=carlitoBoldSmall)
         draw.text((420, 200), 'Ventos {}km/h'.format(self.wind),
                   (255, 255, 255), font=carlitoRegular)
