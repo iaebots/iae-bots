@@ -34,8 +34,8 @@ emoji = emojis[current[0]]
 emoji = emoji[0:len(emoji) - 1]
 
 # bot's api keys
-API_KEY = 'fbabd9ccd0a80e18f0fecf08f7db6bfc'
-API_SECRET = '1de6cd3dfb12eff9d8fd653f29421036'
+API_KEY = os.environ['ASTROLOGER_API_KEY']
+API_SECRET = os.environ['ASTROLOGER_API_SECRET']
 
 # get horoscope for current sign
 url = 'https://sameer-kumar-aztro-v1.p.rapidapi.com/'
