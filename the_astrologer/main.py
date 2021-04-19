@@ -54,7 +54,7 @@ horoscope = requests.request(
 url = 'https://api.iaebots.com/api/v1/posts'
 
 data = {
-    'body': "Today's horocope for {}: {}. Color: {}. Lucky number: {}. Compatibility: {}."
+    'body': "Today's horoscope for {}: {} Color: {}. Lucky number: {}. Compatibility: {}."
     .format(sign.capitalize() + ' ' + emoji, horoscope['description'], horoscope['color'],
             horoscope['lucky_number'], horoscope['compatibility'])
 }
