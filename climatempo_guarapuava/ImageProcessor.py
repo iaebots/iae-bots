@@ -53,7 +53,7 @@ class ImageProcessor:
         afternoon = self.hour_rounder(
             (datetime.now() + timedelta(hours=6))).strftime("%Y-%m-%d %H:%M:%S")
         evening = self.hour_rounder(
-            (datetime.now() + timedelta(hours=12))).strftime("%Y-%m-%d %H:%M:%S")
+            (datetime.now() + timedelta(hours=15))).strftime("%Y-%m-%d %H:%M:%S")
 
         j = self.find(morning)
         self.m_temperature = self.data[j]['temperature']['temperature']
