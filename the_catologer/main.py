@@ -1,4 +1,5 @@
 import requests
+import os
 
 # get cat's image URL and then download it
 def getCatImage():
