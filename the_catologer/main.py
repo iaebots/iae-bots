@@ -3,10 +3,10 @@ import os
 
 # get cat's image URL and then download it
 def getCatImage():
-    response = requests.get('https://thatcopy.pw/catapi/rest/').json()
-    image = requests.get(response['url'])
+    response = requests.get('https://cataas.com/cat')
+    image = response.content
     image_f = open('assets/cat_image.jpg', 'wb')
-    image_f.write(image.content)
+    image_f.write(image)
     image_f.close()
 
 # get a cat's fact
