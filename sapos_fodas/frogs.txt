@@ -1,0 +1,3702 @@
+Phasmahyla guttata,Spotted Leaf Frog,Hylidae,Anura,0
+Stumpffia angeluci,,Microhylidae,Anura,1
+Cardioglossa oreas,,Arthroleptidae,Anura,0
+Dendropsophus coffeus,,Hylidae,Anura,0
+Rhinella hoogmoedi,,Bufonidae,Anura,0
+Philautus amoenus,,Rhacophoridae,Anura,0
+Pristimantis quaquaversus,,Strabomantidae,Anura,0
+Alytes obstetricans,Midwife Toad,Alytidae,Anura,0
+Ptychohyla legleri,,Hylidae,Anura,0
+Ingerophrynus quadriporcatus,,Bufonidae,Anura,1
+Oreobates quixensis,,Strabomantidae,Anura,0
+Meristogenys penrissenensis,,Ranidae,Anura,0
+Bryophryne nubilosus,,Strabomantidae,Anura,0
+Microhyla aurantiventris,Orange-bellied narrow-mouth frog; Nhái bầu bụng vàng,Microhylidae,Anura,0
+Platymantis corrugatus,Rough-Backed Forest Frog,Ceratobatrachidae,Anura,0
+Ptychadena aequiplicata,,Ptychadenidae,Anura,0
+Gastrophryne olivacea,Great Plains Narrow-mouthed Toad,Microhylidae,Anura,1
+Acanthixalus spinosus,,Hyperoliidae,Anura,0
+Atelopus laetissimus,Sierra Nevada Harlequin Frog,Bufonidae,Anura,0
+Eleutherodactylus principalis,Oriente Greenish-yellow Frog,Eleutherodactylidae,Anura,0
+Sclerophrys camerunensis,,Bufonidae,Anura,0
+Anaxyrus boreas,Western Toad,Bufonidae,Anura,1
+Afrixalus nigeriensis,,Hyperoliidae,Anura,0
+Odorrana graminea,,Ranidae,Anura,0
+Sylvirana guentheri,Guenther's Frog,Ranidae,Anura,1
+Philautus everetti,Everett's Tree Frog,Rhacophoridae,Anura,0
+Ingerophrynus parvus,Lesser Toad,Bufonidae,Anura,1
+Leptomantis gadingensis,,Rhacophoridae,Anura,0
+Limnonectes kadarsani,,Dicroglossidae,Anura,0
+Gastrotheca nicefori,,Hemiphractidae,Anura,0
+Rana kauffeldi,Atlantic Coast Leopard Frog,Ranidae,Anura,1
+Eleutherodactylus johnstonei,Lesser Antillean Frog,Eleutherodactylidae,Anura,0
+Hyperolius leucotaenius,,Hyperoliidae,Anura,0
+Barbourula kalimantanensis,Kalimantan Jungle Toad,Bombinatoridae,Anura,0
+Boophis tasymena,,Mantellidae,Anura,1
+Leptobrachella mjobergi,,Megophryidae,Anura,0
+Eleutherodactylus antillensis,Puerto Rican Red-eyed Frog,Eleutherodactylidae,Anura,0
+Plectrohyla quecchi,,Hylidae,Anura,0
+Beduka tigerina,,Bufonidae,Anura,0
+Eleutherodactylus gossei,Jamaican Forest Frog,Eleutherodactylidae,Anura,0
+Pristimantis acutirostris,,Strabomantidae,Anura,0
+Boophis rufioculis,,Mantellidae,Anura,1
+Dendropsophus padreluna,,Hylidae,Anura,1
+Rhacophorus calcadensis,,Rhacophoridae,Anura,0
+Proceratophrys concavitympanum,,Odontophrynidae,Anura,0
+Boophis englaenderi,,Mantellidae,Anura,1
+Limnonectes dammermani,,Dicroglossidae,Anura,0
+Gastrotheca psychrophila,,Hemiphractidae,Anura,0
+Cruziohyla calcarifer,,Hylidae,Anura,0
+Elachistocleis surinamensis,Northeastern Oval Frog,Microhylidae,Anura,0
+Cardioglossa alsco,,Arthroleptidae,Anura,0
+Dendropsophus elianeae,,Hylidae,Anura,1
+Nyctibatrachus robinmoorei,Robin Moore's Night Frog,Nyctibatrachidae,Anura,0
+Gastrotheca phelloderma,,Hemiphractidae,Anura,0
+Nectophrynoides tornieri,Tornier’s Forest Toad,Bufonidae,Anura,1
+Pristimantis hybotragus,,Strabomantidae,Anura,0
+Gephyromantis horridus,,Mantellidae,Anura,0
+Hyperolius cinereus,,Hyperoliidae,Anura,0
+Bryophryne quellokunka,,Strabomantidae,Anura,0
+Litoria microbelos,Javelin Frog,Hylidae,Anura,1
+Peltophryne fustiger,Western Cuba Giant Toad,Bufonidae,Anura,0
+Crinia remota,Remote Froglet,Myobatrachidae,Anura,0
+Sarcohyla thorectes,,Hylidae,Anura,0
+Zachaenus parvulus,Rio Bug-eyed Frog,Cycloramphidae,Anura,0
+Anaxyrus compactilis,,Bufonidae,Anura,0
+Leptomantis belalongensis,,Rhacophoridae,Anura,0
+Hyperolius nitidulus,,Hyperoliidae,Anura,0
+Hyperolius mariae,,Hyperoliidae,Anura,0
+Hyperolius ocellatus,Golden-eyed Reed Frog,Hyperoliidae,Anura,0
+Rana muscosa,Southern Mountain Yellow-legged Frog,Ranidae,Anura,1
+Stumpffia analanjirofo,,Microhylidae,Anura,0
+Scinax pachycrus,,Hylidae,Anura,0
+Leptodactylus podicipinus,,Leptodactylidae,Anura,1
+Callulina dawida,Taita Warty Frog,Brevicipitidae,Anura,0
+Hyperolius acuticeps,,Hyperoliidae,Anura,0
+Osteocephalus deridens,,Hylidae,Anura,0
+Phrynopus capitalis,,Strabomantidae,Anura,0
+Craugastor fitzingeri,,Craugastoridae,Anura,0
+Physalaemus henselii,,Leptodactylidae,Anura,0
+Dendropsophus cachimbo,,Hylidae,Anura,1
+Pseudophilautus wynaadensis,,Rhacophoridae,Anura,0
+Leptobrachium ailaonicum,,Megophryidae,Anura,0
+Limnonectes dabanus,,Dicroglossidae,Anura,0
+Sclerophrys taiensis,,Bufonidae,Anura,0
+Dendropsophus bipunctatus,,Hylidae,Anura,0
+Isthmohyla infucata,,Hylidae,Anura,0
+Cophixalus mcdonaldi,McDonald's Frog,Microhylidae,Anura,0
+Oreobates sanctaecrucis,,Strabomantidae,Anura,0
+Aglyptodactylus securifer,,Mantellidae,Anura,1
+Cornufer vitiensis,Fiji Tree Frog,Ceratobatrachidae,Anura,0
+Philoria kundagungan,Mountain Frog,Myobatrachidae,Anura,0
+Phyllomedusa hypochondrialis,,Hylidae,Anura,0
+Boana latistriata,,Hylidae,Anura,0
+Dendropsophus minusculus,Pallid Dwarf Treefrog,Hylidae,Anura,0
+Hylarana macrodactyla,,Ranidae,Anura,0
+Philautus acutirostris,Pointed-Snouted Tree Frog,Rhacophoridae,Anura,0
+Physalaemus riograndensis,,Leptodactylidae,Anura,0
+Boana goiana,,Hylidae,Anura,0
+Hyloxalus vergeli,,Dendrobatidae,Anura,0
+Limnonectes malesianus,,Dicroglossidae,Anura,0
+Boana exastis,,Hylidae,Anura,0
+Oophaga lehmanni,Lehmann's Frog,Dendrobatidae,Anura,0
+Pseudophilautus decoris,Elegant Shrub Frog,Rhacophoridae,Anura,0
+Stumpffia grandis,,Microhylidae,Anura,0
+Hyloxalus vertebralis,,Dendrobatidae,Anura,0
+Cophixalus aenigma,Tapping Nursery-frog,Microhylidae,Anura,0
+Scinax boulengeri,Boulenger's Treefrog,Hylidae,Anura,0
+Craugastor rayo,,Craugastoridae,Anura,0
+Boana riojana,,Hylidae,Anura,0
+Boophis marojezensis,,Mantellidae,Anura,1
+Kaloula pulchra,Asian Painted Frog,Microhylidae,Anura,1
+Breviceps adspersus,Common rain frog,Brevicipitidae,Anura,0
+Agalychnis saltator,Parachuting Red-eyed Leaf Frog,Hylidae,Anura,0
+Astylosternus rheophilus,,Arthroleptidae,Anura,0
+Nyctibatrachus jog,Jog’s Night Frog,Nyctibatrachidae,Anura,0
+Anaxyrus fowleri,Fowler's Toad,Bufonidae,Anura,1
+Pristimantis calcaratus,,Strabomantidae,Anura,0
+Melanobatrachus indicus,Black Microhylid Frog,Microhylidae,Anura,0
+Centrolene altitudinalis,,Centrolenidae,Anura,0
+Rana onca,Relict Leopard Frog,Ranidae,Anura,1
+Polypedates colletti,,Rhacophoridae,Anura,0
+Meristogenys stenocephalus,,Ranidae,Anura,0
+Pseudophilautus lunatus,Afro-Asian Tree Frog,Rhacophoridae,Anura,0
+Proceratophrys redacta,,Odontophrynidae,Anura,0
+Scinax acuminatus,,Hylidae,Anura,0
+Adenomera coca,,Leptodactylidae,Anura,1
+Cophixalus pakayakulangun,Golden-capped Boulder-frog,Microhylidae,Anura,0
+Pseudophilautus asankai,,Rhacophoridae,Anura,0
+Pipa carvalhoi,Carvalho's Surinam Toad,Pipidae,Anura,0
+Oreobates ayacucho,,Strabomantidae,Anura,0
+Nanorana yunnanensis,Yunnan Spiny Frog,Dicroglossidae,Anura,0
+Bryophryne cophites,Cusco Andes Frog,Strabomantidae,Anura,0
+Rupirana cardosoi,,Leptodactylidae,Anura,0
+Boana lemai,,Hylidae,Anura,0
+Ghatixalus asterops,,Rhacophoridae,Anura,0
+Alsodes verrucosus,,Alsodidae,Anura,0
+Dendropsophus gryllatus,,Hylidae,Anura,0
+Gastrotheca marsupiata,,Hemiphractidae,Anura,0
+Ptychadena mascareniensis,Mascarene ridged frog,Ptychadenidae,Anura,0
+Glyphoglossus guttulatus,,Microhylidae,Anura,0
+Brachytarsophrys intermedia,Annam Short-Legged Toad (in English) / Yue Nan Duan Tui Chan 越南短腿蟾,Megophryidae,Anura,0
+Pristimantis nyctophylax,,Strabomantidae,Anura,0
+Limnonectes fastigatus,,Dicroglossidae,Anura,0
+Glyphoglossus flavus,,Microhylidae,Anura,0
+Clinotarsus penelope,Penelope's Tadpole Frog,Ranidae,Anura,0
+Atelopus barbotini,,Bufonidae,Anura,0
+Kassina decorata,,Hyperoliidae,Anura,0
+Rhinella ornata,,Bufonidae,Anura,1
+Bufotes baturae,,Bufonidae,Anura,0
+Leptodactylus camaquara,,Leptodactylidae,Anura,0
+Cochranella guayasamini,,Centrolenidae,Anura,0
+Boana dentei,,Hylidae,Anura,0
+Heterixalus punctatus,,Hyperoliidae,Anura,1
+Eupsophus roseus,,Alsodidae,Anura,0
+Physalaemus albifrons,,Leptodactylidae,Anura,0
+Probreviceps macrodactylus,,Brevicipitidae,Anura,0
+Rhinella cerradensis,,Bufonidae,Anura,0
+Ptychadena mossambica,Mozambique ridged frog,Ptychadenidae,Anura,0
+Leptodactylus labrosus,,Leptodactylidae,Anura,0
+Ischnocnema manezinho,,Brachycephalidae,Anura,0
+Incilius coniferus,Green Climbing Toad,Bufonidae,Anura,0
+Rhinella manu,,Bufonidae,Anura,0
+Brachycephalus nodoterga,,Brachycephalidae,Anura,0
+Sarcohyla robertsorum,,Hylidae,Anura,0
+Diasporus ventrimaculatus,,Eleutherodactylidae,Anura,0
+Bufotes surdus,Iranian Toad,Bufonidae,Anura,0
+Boana alfaroi,Alfaro's Treefrog,Hylidae,Anura,0
+Mantidactylus zolitschka,,Mantellidae,Anura,0
+Arthroleptis tanneri,,Arthroleptidae,Anura,0
+Pseudacris illinoensis,Illinois Chorus Frog,Hylidae,Anura,0
+Scinax auratus,,Hylidae,Anura,0
+Leptobrachella crocea,,Megophryidae,Anura,0
+Pleurodema tucumanum,,Leptodactylidae,Anura,0
+Vitreorana uranoscopa,Humboldt's Glass Frog,Centrolenidae,Anura,1
+Huia sumatrana,,Ranidae,Anura,0
+Scinax hayii,,Hylidae,Anura,1
+Duellmanohyla salvavida,Honduran Brook Frog,Hylidae,Anura,0
+Phrynobatrachus dendrobates,,Phrynobatrachidae,Anura,0
+Mantella manery,,Mantellidae,Anura,0
+Austrochaperina fryi,Fry's Frog,Microhylidae,Anura,1
+Craugastor tarahumaraensis,,Craugastoridae,Anura,0
+Limnonectes ibanorum,,Dicroglossidae,Anura,0
+Hyperolius olivaceus,Olive Reed Frog,Hyperoliidae,Anura,0
+Xenopus fraseri,Fraser’s Clawed Frog,Pipidae,Anura,0
+Platypelis barbouri,,Microhylidae,Anura,1
+Mantella laevigata,Malagasy Climbing Mantella,Mantellidae,Anura,1
+Ptychadena porosissima,Grassland ridged frog,Ptychadenidae,Anura,0
+Hyperolius ademetzi,,Hyperoliidae,Anura,0
+Incilius aurarius,Cuchumatan Golden Toad,Bufonidae,Anura,0
+Hyperolius pardalis,,Hyperoliidae,Anura,0
+Phrynobatrachus sandersoni,,Phrynobatrachidae,Anura,0
+Gastrotheca ruizi,,Hemiphractidae,Anura,0
+Hyloxalus leucophaeus,,Dendrobatidae,Anura,0
+Hyperolius camerunensis,,Hyperoliidae,Anura,0
+Litoria jungguy,,Hylidae,Anura,0
+Ptychadena longirostris,,Ptychadenidae,Anura,0
+Litoria bella,Cape York Graceful Treefrog,Hylidae,Anura,0
+Pristimantis minutulus,,Strabomantidae,Anura,0
+Oreolalax sterlingae,Sterling's Toothed Toad,Megophryidae,Anura,0
+Hyperolius occidentalis,,Hyperoliidae,Anura,0
+Kassina somalica,,Hyperoliidae,Anura,0
+Mantella milotympanum,,Mantellidae,Anura,1
+Litoria meiriana,Rockhole Frog,Hylidae,Anura,0
+Rhacophorus annamensis,,Rhacophoridae,Anura,0
+Rhinella margaritifera,South American Common Toad,Bufonidae,Anura,0
+Nymphargus anomalus,Napo Cochran Frog,Centrolenidae,Anura,0
+Atelopus mindoensis,Mindo Stubfoot Toad,Bufonidae,Anura,0
+Andinobates cassidyhornae,,Dendrobatidae,Anura,0
+Pristimantis elegans,,Strabomantidae,Anura,0
+Phlyctimantis boulengeri,,Hyperoliidae,Anura,0
+Physalaemus biligonigerus,,Leptodactylidae,Anura,0
+Spinomantis tavaratra,,Mantellidae,Anura,0
+Arthroleptis schubotzi,,Arthroleptidae,Anura,0
+Ansonia jeetsukumarani,Jeet Sukumaran’s Torrent-Dwelling Toad,Bufonidae,Anura,0
+Phrynobatrachus werneri,,Phrynobatrachidae,Anura,0
+Ptychohyla zophodes,,Hylidae,Anura,0
+Lechriodus fletcheri,Black-soled Frog,Myobatrachidae,Anura,0
+Myersiella microps,Rio Elongated Frog,Microhylidae,Anura,0
+Hyperolius nimbae,,Hyperoliidae,Anura,0
+Elachistocleis pearsei,,Microhylidae,Anura,0
+Pristimantis lynchi,,Strabomantidae,Anura,0
+Raorchestes glandulosus,,Rhacophoridae,Anura,0
+Boophis sibilans,,Mantellidae,Anura,1
+Scinax ictericus,,Hylidae,Anura,0
+Pseudopaludicola ameghini,,Leptodactylidae,Anura,1
+Engystomops coloradorum,,Leptodactylidae,Anura,0
+Hyla japonica,Japanese Tree Frog,Hylidae,Anura,0
+Leptobrachella applebyi,Appleby's Asian Toad,Megophryidae,Anura,0
+Pristimantis frater,,Strabomantidae,Anura,0
+Ischnocnema juipoca,,Brachycephalidae,Anura,0
+Boana calcarata,Convict Treefrog,Hylidae,Anura,0
+Brachycephalus guarani,,Brachycephalidae,Anura,0
+Minervarya cepfi,CEPF Burrowing Frog,Dicroglossidae,Anura,0
+Dendropsophus ozzyi,,Hylidae,Anura,0
+Nanorana medogensis,,Dicroglossidae,Anura,0
+Sclerophrys tihamica,,Bufonidae,Anura,0
+Cycloramphus asper,Werner's Button Frog,Cycloramphidae,Anura,0
+Litoria everetti,,Hylidae,Anura,0
+Melanophryniscus rubriventris,,Bufonidae,Anura,0
+Hyla euphorbiacea,,Hylidae,Anura,0
+Gracixalus trieng,Trieng tree frog (English). Ếch cây giẻ triêng (Vietnamese),Rhacophoridae,Anura,0
+Pristimantis myersi,,Strabomantidae,Anura,0
+Vandijkophrynus robinsoni,Paradise Toad,Bufonidae,Anura,0
+Osteocephalus alboguttatus,,Hylidae,Anura,0
+Hyperolius rubrovermiculatus,,Hyperoliidae,Anura,0
+Polypedates discantus,Malayan Slender Treefrog,Rhacophoridae,Anura,0
+Hyperolius jackie,Jackie's Reed Frog,Hyperoliidae,Anura,0
+Pyxicephalus adspersus,African bullfrog,Pyxicephalidae,Anura,0
+Litoria kroombitensis,Kroombit Treefrog,Hylidae,Anura,0
+Litoria inermis,Peter's Frog,Hylidae,Anura,1
+Panophrys brachykolos,,Megophryidae,Anura,0
+Oreobates heterodactylus,,Strabomantidae,Anura,0
+Rhinella achalensis,,Bufonidae,Anura,0
+Amolops chunganensis,,Ranidae,Anura,0
+Allobates masniger,,Dendrobatidae,Anura,0
+Hyloxalus pulcherrimus,,Dendrobatidae,Anura,0
+Micryletta steinegeri,Stejneger's Paddy Frog,Microhylidae,Anura,0
+Phrynopus personatus,,Strabomantidae,Anura,0
+Adenomera marmorata,,Leptodactylidae,Anura,1
+Isthmohyla calypsa,,Hylidae,Anura,0
+Guibemantis milingilingy,,Mantellidae,Anura,0
+Pelophylax plancyi,,Ranidae,Anura,0
+Phyllomedusa rohdei,,Hylidae,Anura,0
+Guibemantis liber,,Mantellidae,Anura,1
+Dendrophryniscus brevipollicatus,,Bufonidae,Anura,0
+Conraua derooi,,Conrauidae,Anura,0
+Indosylvirana temporalis,,Ranidae,Anura,0
+Rana graeca,Greek frog,Ranidae,Anura,0
+Phyllodytes wuchereri,,Hylidae,Anura,0
+Aglyptodactylus chorus,,Mantellidae,Anura,0
+Pristimantis paramerus,,Strabomantidae,Anura,0
+Kassina maculifer,,Hyperoliidae,Anura,0
+Papurana papua,,Ranidae,Anura,0
+Duttaphrynus stomaticus,Indus Valley Toad,Bufonidae,Anura,0
+Eleutherodactylus coqui,Puerto Rican Coqui,Eleutherodactylidae,Anura,1
+Pyxicephalus edulis,Edible bullfrog,Pyxicephalidae,Anura,0
+Trachycephalus typhonius,Pepper Treefrog,Hylidae,Anura,1
+Litoria olongburensis,Olongburra Frog,Hylidae,Anura,0
+Taruga eques,Saddled Tree frog,Rhacophoridae,Anura,1
+Bokermannohyla ahenea,,Hylidae,Anura,0
+Craugastor aurilegulus,,Craugastoridae,Anura,0
+Dendropsophus brevifrons,,Hylidae,Anura,1
+Stereocyclops incrassatus,,Microhylidae,Anura,0
+Litoria serrata,Green-eyed treefrog,Hylidae,Anura,0
+Crinia georgiana,Quacking Frog,Myobatrachidae,Anura,0
+Minervarya pierrei,,Dicroglossidae,Anura,0
+Stumpffia fusca,,Microhylidae,Anura,0
+Pelophylax cypriensis,Cyprus water frog,Ranidae,Anura,0
+Raorchestes annandalii,,Rhacophoridae,Anura,0
+Pseudophilautus cuspis,,Rhacophoridae,Anura,1
+Hyalinobatrachium dianae,Diane's bare-hearted glassfrog,Centrolenidae,Anura,0
+Hylodes asper,Brazilian Torrent Frog,Hylodidae,Anura,1
+Pseudacris kalmi,New Jersey Chorus Frog,Hylidae,Anura,0
+Pseudopaludicola giarettai,,Leptodactylidae,Anura,1
+Osteocephalus helenae,,Hylidae,Anura,0
+Phyllobates terribilis,Golden Poison Frog,Dendrobatidae,Anura,0
+Allobates nidicola,,Dendrobatidae,Anura,0
+Aplastodiscus eugenioi,,Hylidae,Anura,0
+Leptopelis uluguruensis,,Arthroleptidae,Anura,1
+Nannophrys ceylonensis,Sri Lanka Rock Frog,Dicroglossidae,Anura,1
+Eleutherodactylus teretistes,,Eleutherodactylidae,Anura,0
+Cornufer guentheri,Gunther's Triangle Frog,Ceratobatrachidae,Anura,0
+Ameerega altamazonica,Tarapoto Poison Frog,Dendrobatidae,Anura,1
+Boophis popi,,Mantellidae,Anura,0
+Craugastor nefrens,,Craugastoridae,Anura,0
+Limnonectes timorensis,,Dicroglossidae,Anura,0
+Charadrahyla chaneque,,Hylidae,Anura,0
+Lysapsus boliviana,,Hylidae,Anura,0
+Hyloxalus sauli,,Dendrobatidae,Anura,0
+Arthroleptella drewesii,Drewes' moss frog,Pyxicephalidae,Anura,0
+Charadrahyla sakbah,Mixteca Cloud-forest Treefrog,Hylidae,Anura,0
+Chalcorana eschatia,Peninsular Copper-cheeked Frog,Ranidae,Anura,0
+Elachistocleis haroi,,Microhylidae,Anura,0
+Platypelis tetra,Four-spotted tree cophyline frog (English),Microhylidae,Anura,1
+Pristimantis colomai,,Strabomantidae,Anura,0
+Sclerophrys dodsoni,Dodson's Toad,Bufonidae,Anura,0
+Anaxyrus cognatus,Great Plains Toad,Bufonidae,Anura,1
+Phyllobates lugubris,Striped Poison-Dart Frog,Dendrobatidae,Anura,0
+Raorchestes nerostagona,,Rhacophoridae,Anura,0
+Aplastodiscus arildae,,Hylidae,Anura,1
+Crinia sloanei,Sloane's Froglet,Myobatrachidae,Anura,0
+Platymantis luzonensis,Luzon Forest Frog,Ceratobatrachidae,Anura,0
+Astylosternus occidentalis,,Arthroleptidae,Anura,0
+Odorrana splendida,Amami-Ishikawa_Gaeru,Ranidae,Anura,0
+Allobates myersi,Myers' Poison Frog,Dendrobatidae,Anura,0
+Hyperolius schoutedeni,,Hyperoliidae,Anura,0
+Scinax cabralensis,,Hylidae,Anura,0
+Bufotes sitibundus,,Bufonidae,Anura,0
+Ingerophrynus celebensis,,Bufonidae,Anura,0
+Amazophrynella vote,,Bufonidae,Anura,0
+Meristogenys maryatiae,,Ranidae,Anura,0
+Boana leucocheila,,Hylidae,Anura,0
+Breviceps montanus,Mountain rain frog,Brevicipitidae,Anura,0
+Pleurodema diplolister,Peters’ Four-eyed Frog,Leptodactylidae,Anura,1
+Pristimantis infraguttatus,,Strabomantidae,Anura,0
+Staurois natator,Rock Frog,Ranidae,Anura,0
+Bufo japonicus,Japanese Common Toad,Bufonidae,Anura,0
+Anodonthyla vallani,,Microhylidae,Anura,0
+Physalaemus marmoratus,,Leptodactylidae,Anura,1
+Pristimantis cerasinus,,Strabomantidae,Anura,0
+Pristimantis silverstonei,,Strabomantidae,Anura,0
+Notaden nichollsi,Desert Spadefoot Toad,Myobatrachidae,Anura,0
+Nymphargus phenax,,Centrolenidae,Anura,0
+Phrynobatrachus manengoubensis,,Phrynobatrachidae,Anura,0
+Hildebrandtia ornata,Ornate frog,Ptychadenidae,Anura,0
+Hyperolius cinnamomeoventris,Cinnamon-bellied Reed Frog,Hyperoliidae,Anura,0
+Pristimantis moro,,Strabomantidae,Anura,0
+Engystomops puyango,,Leptodactylidae,Anura,0
+Sphaenorhynchus carneus,,Hylidae,Anura,0
+Pseudopaludicola boliviana,Bolivian Swamp Frog,Leptodactylidae,Anura,0
+Centrolene medemi,Medem’s Glassfrog,Centrolenidae,Anura,0
+Afrixalus fornasini,Fornasini's Spiny Reed Frog,Hyperoliidae,Anura,0
+Brachycephalus didactylus,,Brachycephalidae,Anura,0
+Scinax tymbamirim,,Hylidae,Anura,0
+Mannophryne olmonae,Tobagp Poison Frog,Dendrobatidae,Anura,0
+Dendropsophus haddadi,,Hylidae,Anura,0
+Scinax iquitorum,,Hylidae,Anura,0
+Sphaerotheca dobsonii,,Dicroglossidae,Anura,0
+Leptobrachella tengchongensis,Tengchong Leaf Litter Toad,Megophryidae,Anura,1
+Craugastor raniformis,,Craugastoridae,Anura,0
+Boophis quasiboehmei,,Mantellidae,Anura,0
+Gephyromantis silvanus,,Mantellidae,Anura,1
+Phyllomedusa sauvagii,Waxy Monkey Tree Frog,Hylidae,Anura,0
+Sphaenorhynchus platycephalus,,Hylidae,Anura,0
+Limnonectes hascheanus,,Dicroglossidae,Anura,1
+Noblella ritarasquinae,,Strabomantidae,Anura,0
+Paradoxophyla tiarano,,Microhylidae,Anura,0
+Osteopilus dominicensis,Hispaniolan Laughing Treefrog,Hylidae,Anura,0
+Gephyromantis webbi,,Mantellidae,Anura,1
+Hyalinobatrachium duranti,,Centrolenidae,Anura,0
+Leptopelis karissimbensis,,Arthroleptidae,Anura,0
+Hyperolius torrentis,,Hyperoliidae,Anura,0
+Eleutherodactylus bartonsmithi,Boca de Yumuri Frog,Eleutherodactylidae,Anura,0
+Arthroleptis stenodactylus,Common Squeaker,Arthroleptidae,Anura,0
+Hyloscirtus palmeri,,Hylidae,Anura,0
+Cophixalus hosmeri,Hosmer's Frog,Microhylidae,Anura,1
+Hyalinobatrachium orientale,Eastern Glass Frog,Centrolenidae,Anura,0
+Liuixalus calcarius,,Rhacophoridae,Anura,0
+Eleutherodactylus maurus,,Eleutherodactylidae,Anura,1
+Hemiphractus proboscideus,Sumaco Horned Treefrog,Hemiphractidae,Anura,0
+Atelopus longirostris,,Bufonidae,Anura,0
+Leptopelis mtoewaate,Kabembe Treefrog,Arthroleptidae,Anura,0
+Ptychadena cooperi,,Ptychadenidae,Anura,0
+Mantidactylus ambreensis,,Mantellidae,Anura,1
+Pristimantis lymani,,Strabomantidae,Anura,0
+Duellmanohyla uranochroa,Red-eyed Stream Frog,Hylidae,Anura,0
+Leptopelis nordequatorialis,,Arthroleptidae,Anura,0
+Didynamipus sjostedti,Four-digit Toad,Bufonidae,Anura,0
+Pelophryne api,,Bufonidae,Anura,0
+Pelophylax bedriagae,Levante water frog,Ranidae,Anura,0
+Boana rufitela,,Hylidae,Anura,0
+Hoplophryne rogersi,,Microhylidae,Anura,0
+Hylodes sazimai,,Hylodidae,Anura,0
+Uperodon palmatus,Half-webbed pug-snouted frog,Microhylidae,Anura,0
+Pristimantis acerus,,Strabomantidae,Anura,0
+Craugastor aphanus,,Craugastoridae,Anura,0
+Phyllodytes luteolus,,Hylidae,Anura,0
+Leptodactylus fragilis,Mexican White-lipped Frog,Leptodactylidae,Anura,0
+Phyllobates aurotaenia,Kõkoé,Dendrobatidae,Anura,0
+Heleioporus australiacus,Giant Burrowing Frog,Myobatrachidae,Anura,0
+Leptobrachella aerea,,Megophryidae,Anura,0
+Sclerophrys brauni,,Bufonidae,Anura,0
+Pristimantis illotus,,Strabomantidae,Anura,0
+Dendrophryniscus carvalhoi,,Bufonidae,Anura,0
+Dyscophus insularis,,Microhylidae,Anura,1
+Pristimantis museosus,,Strabomantidae,Anura,0
+Kurixalus banaensis,,Rhacophoridae,Anura,0
+Ghatophryne ornata,Black Torrent Toad,Bufonidae,Anura,0
+Scinax squalirostris,,Hylidae,Anura,1
+Pseudophilautus mittermeieri,Mittermeier's Shrub Frog,Rhacophoridae,Anura,0
+Leptodactylus troglodytes,,Leptodactylidae,Anura,0
+Eupsophus vertebralis,,Alsodidae,Anura,0
+Amietia tenuoplicata,Amani River Frog,Pyxicephalidae,Anura,0
+Pristimantis caprifer,,Strabomantidae,Anura,0
+Leptodactylus fuscus,South American White-lipped Grassfrog,Leptodactylidae,Anura,1
+Bufotes viridis,Green Toad,Bufonidae,Anura,0
+Ranitomeya amazonica,,Dendrobatidae,Anura,0
+Hylarana attigua,,Ranidae,Anura,0
+Eleutherodactylus tetajulia,Cuban Stripeless Leaf-litter Frog,Eleutherodactylidae,Anura,0
+Proceratophrys appendiculata,,Odontophrynidae,Anura,0
+Pristimantis charlottevillensis,Charlotteville Leaf-litter Frog,Strabomantidae,Anura,0
+Hyloscirtus psarolaimus,,Hylidae,Anura,0
+Eleutherodactylus jaumei,Orange Long-nosed Frog,Eleutherodactylidae,Anura,0
+Rana sierrae,Sierra Nevada Yellow-legged Frog,Ranidae,Anura,1
+Oreophryne lemur,,Microhylidae,Anura,1
+Guibemantis albolineatus,,Mantellidae,Anura,0
+Nanorana ventripunctata,,Dicroglossidae,Anura,0
+Amolops tuberodepressus,,Ranidae,Anura,0
+Pseudobufo subasper,,Bufonidae,Anura,0
+Scinax fuscovarius,,Hylidae,Anura,1
+Osteocephalus planiceps,,Hylidae,Anura,0
+Limnonectes poilani,,Dicroglossidae,Anura,0
+Kurixalus viridescens,,Rhacophoridae,Anura,0
+Proceratophrys cristiceps,,Odontophrynidae,Anura,0
+Dendropsophus nanus,,Hylidae,Anura,1
+Pelophylax esculentus,Edible Frog,Ranidae,Anura,0
+Hyperolius constellatus,,Hyperoliidae,Anura,0
+Pristimantis jaguensis,,Strabomantidae,Anura,0
+Arlequinus krebsi,,Hyperoliidae,Anura,0
+Leptodactylus latinasus,,Leptodactylidae,Anura,0
+Litoria infrafrenata,White-lipped Tree Frog,Hylidae,Anura,1
+Ptychadena pumilio,,Ptychadenidae,Anura,1
+Centrolene antioquiense,,Centrolenidae,Anura,0
+Pristimantis marmoratus,,Strabomantidae,Anura,0
+Microhyla mantheyi,Manthey's Narrow-mouth Frog,Microhylidae,Anura,0
+Duellmanohyla schmidtorum,,Hylidae,Anura,0
+Crinia bilingua,Bilingual Frog,Myobatrachidae,Anura,0
+Atelopus mittermeieri,,Bufonidae,Anura,0
+Pristimantis diadematus,,Strabomantidae,Anura,0
+Dendropsophus cruzi,,Hylidae,Anura,0
+Andinobates bombetes,Cauca Poison Frog,Dendrobatidae,Anura,0
+Boana caipora,,Hylidae,Anura,1
+Mantidactylus madecassus,,Mantellidae,Anura,0
+Otophryne steyermarki,,Microhylidae,Anura,0
+Boophis bottae,,Mantellidae,Anura,1
+Nectophrynoides asperginis,Kihansi Spray Toad,Bufonidae,Anura,0
+Peltophryne taladai,Cuban Spotted Toad,Bufonidae,Anura,0
+Rana johnsi,,Ranidae,Anura,0
+Gastrotheca pulchra,,Hemiphractidae,Anura,0
+Philoria richmondensis,,Myobatrachidae,Anura,0
+Leptodactylus fallax,Middle American White-lipped Frog,Leptodactylidae,Anura,0
+Pelophylax perezi,Iberian Green Frog,Ranidae,Anura,0
+Hyloscirtus lindae,,Hylidae,Anura,0
+Hyperolius chlorosteus,,Hyperoliidae,Anura,0
+Theloderma horridum,,Rhacophoridae,Anura,0
+Boana ericae,,Hylidae,Anura,0
+Pseudhymenochirus merlini,Merlin's Clawed Frog,Pipidae,Anura,0
+Ischnocnema henselii,,Brachycephalidae,Anura,0
+Microhyla annamensis,,Microhylidae,Anura,0
+Leptobrachella heteropus,,Megophryidae,Anura,1
+Leptopelis viridis,,Arthroleptidae,Anura,1
+Leptodactylodon mertensi,,Arthroleptidae,Anura,0
+Pristimantis subsigillatus,,Strabomantidae,Anura,0
+Hyalinobatrachium aureoguttatum,Sun Glassfrog,Centrolenidae,Anura,0
+Pulchrana baramica,,Ranidae,Anura,1
+Leptopelis aubryi,,Arthroleptidae,Anura,0
+Pristimantis paululus,,Strabomantidae,Anura,0
+Theloderma nebulosum,Misty Moss Frog,Rhacophoridae,Anura,0
+Leptopelis macrotis,,Arthroleptidae,Anura,0
+Pleurodema brachyops,Stout Four-eyed Frog,Leptodactylidae,Anura,0
+Boana benitezi,,Hylidae,Anura,0
+Afrixalus orophilus,,Hyperoliidae,Anura,0
+Gastrotheca pachachacae,,Hemiphractidae,Anura,0
+Hyperolius drewesi,Drewes' Reed Frog,Hyperoliidae,Anura,0
+Atelopus spurrelli,,Bufonidae,Anura,0
+Atelopus franciscus,,Bufonidae,Anura,0
+Craugastor persimilis,,Craugastoridae,Anura,0
+Dendropsophus kamagarini,,Hylidae,Anura,0
+Theloderma leporosum,,Rhacophoridae,Anura,0
+Sachatamia ilex,Ghost Glass Frog,Centrolenidae,Anura,0
+Gastrotheca dunni,,Hemiphractidae,Anura,0
+Eupsophus insularis,,Alsodidae,Anura,0
+Charadrahyla nephila,Oaxacan Cloud-Forest Treefrog,Hylidae,Anura,0
+Astylosternus montanus,,Arthroleptidae,Anura,0
+Indosylvirana nicobariensis,Nicobar Island Frog,Ranidae,Anura,1
+Ansonia platysoma,,Bufonidae,Anura,0
+Pseudophilautus stictomerus,,Rhacophoridae,Anura,0
+Smilisca fodiens,Northern Casquehead Frog,Hylidae,Anura,0
+Leptopelis gramineus,,Arthroleptidae,Anura,0
+Pseudophilautus singu,,Rhacophoridae,Anura,0
+Physalaemus bokermanni,,Leptodactylidae,Anura,1
+Anodonthyla moramora,,Microhylidae,Anura,1
+Ingerophrynus biporcatus,Crested Toad,Bufonidae,Anura,0
+Arthroleptis xenodactylus,,Arthroleptidae,Anura,0
+Boana rubracyla,,Hylidae,Anura,0
+Dryaderces pearsoni,,Hylidae,Anura,0
+Bombina bombina,Fire-Bellied Toad,Bombinatoridae,Anura,0
+Hoplobatrachus crassus,Jerdon`s Bullfrog,Dicroglossidae,Anura,0
+Zhangixalus chenfui,,Rhacophoridae,Anura,0
+Atelopus glyphus,Pirri Harlequin Frog,Bufonidae,Anura,0
+Hyperolius endjami,,Hyperoliidae,Anura,0
+Uperodon obscurus,Grey-brown pug-snouted frog,Microhylidae,Anura,1
+Panophrys omeimontis,,Megophryidae,Anura,0
+Vitreorana baliomma,,Centrolenidae,Anura,0
+Crinia subinsignifera,Small Western Froglet,Myobatrachidae,Anura,0
+Pipa parva,,Pipidae,Anura,1
+Oophaga andresi,,Dendrobatidae,Anura,0
+Liurana xizangensis,,Ceratobatrachidae,Anura,0
+Limnonectes liui,,Dicroglossidae,Anura,1
+Smilisca puma,Cross-banded Treefrog,Hylidae,Anura,0
+Rheobates palmatus,,Dendrobatidae,Anura,0
+Leptomantis fasciatus,,Rhacophoridae,Anura,0
+Kalophrynus baluensis,Balu Sticky Frog,Microhylidae,Anura,0
+Discoglossus sardus,Tyrrhenian painted frog,Alytidae,Anura,0
+Craugastor fleischmanni,,Craugastoridae,Anura,0
+Polypedates braueri,,Rhacophoridae,Anura,0
+Scutiger sikimmensis,Sikkim Alpine Toad,Megophryidae,Anura,0
+Stumpffia edmondsi,,Microhylidae,Anura,0
+Eleutherodactylus emiliae,Trinidad Groin-spotted Frog,Eleutherodactylidae,Anura,0
+Amolops himalayanus,,Ranidae,Anura,0
+Pristimantis citriogaster,,Strabomantidae,Anura,0
+Liuixalus catbaensis,,Rhacophoridae,Anura,0
+Leptodactylus cunicularius,Rabbit-burrow Frog,Leptodactylidae,Anura,0
+Philautus vermiculatus,,Rhacophoridae,Anura,1
+Incilius fastidiosus,Pico Blanco Toad,Bufonidae,Anura,0
+Afrixalus morerei,,Hyperoliidae,Anura,0
+Fejervarya moodiei,Crab-eating Frog,Dicroglossidae,Anura,0
+Duttaphrynus stuarti,,Bufonidae,Anura,0
+Leptobrachella botsfordi,,Megophryidae,Anura,0
+Leptobrachium boringii,,Megophryidae,Anura,0
+Pelodytes caucasicus,Caucasian Parsley Frog,Pelodytidae,Anura,0
+Ischnocnema verrucosa,,Brachycephalidae,Anura,0
+Pristimantis martiae,,Strabomantidae,Anura,0
+Boana callipleura,,Hylidae,Anura,0
+Rana areolata,Crawfish Frog,Ranidae,Anura,0
+Gastrotheca riobambae,Riobamba Marsupial Frog,Hemiphractidae,Anura,0
+Physalaemus centralis,Central Dwarf Frog; rãzinha,Leptodactylidae,Anura,1
+Sachatamia punctulata,,Centrolenidae,Anura,0
+Eleutherodactylus albolabris,,Eleutherodactylidae,Anura,0
+Eleutherodactylus maestrensis,Sierra Maestra Long-legged Frog,Eleutherodactylidae,Anura,0
+Afrixalus weidholzi,,Hyperoliidae,Anura,1
+Pelophylax grafi,Graf's hybrid frog,Ranidae,Anura,0
+Boana crepitans,,Hylidae,Anura,1
+Hoplobatrachus rugulosus,Asian Rugose Bullfrog,Dicroglossidae,Anura,0
+Dendrophryniscus leucomystax,,Bufonidae,Anura,0
+Pulchrana signata,,Ranidae,Anura,1
+Eleutherodactylus leberi,Oriente Yellow-bellied Frog,Eleutherodactylidae,Anura,0
+Conraua goliath,Goliath frog,Conrauidae,Anura,0
+Rhinella rubescens,,Bufonidae,Anura,0
+Pseudis fusca,,Hylidae,Anura,0
+Plectrohyla hartwegi,,Hylidae,Anura,0
+Rhinella merianae,,Bufonidae,Anura,0
+Leptopelis flavomaculatus,Yellow-spotted tree frog,Arthroleptidae,Anura,0
+Hyloxalus bocagei,,Dendrobatidae,Anura,0
+Hyalinobatrachium colymbiphyllum,,Centrolenidae,Anura,0
+Mantella cowanii,Harlequin Mantella,Mantellidae,Anura,1
+Phyllomedusa nordestina,,Hylidae,Anura,0
+Sclerophrys latifrons,,Bufonidae,Anura,0
+Pseudophilautus folicola,,Rhacophoridae,Anura,0
+Scinax hiemalis,,Hylidae,Anura,0
+Leptodactylus caatingae,,Leptodactylidae,Anura,0
+Stumpffia miovaova,,Microhylidae,Anura,0
+Leptodactylus syphax,,Leptodactylidae,Anura,0
+Edalorhina perezi,Perez's Snouted Frog,Leptodactylidae,Anura,0
+Dendropsophus decipiens,,Hylidae,Anura,0
+Feihyla palpebralis,,Rhacophoridae,Anura,0
+Physalaemus nanus,,Leptodactylidae,Anura,1
+Rhinella quechua,,Bufonidae,Anura,0
+Oreophryne loriae,,Microhylidae,Anura,1
+Sooglossus thomasseti,,Sooglossidae,Anura,0
+Staurois parvus,,Ranidae,Anura,0
+Microhyla berdmorei,,Microhylidae,Anura,0
+Cacosternum boettgeri,Boettger's dainty frog,Pyxicephalidae,Anura,0
+Eleutherodactylus marnockii,Cliff Chirping Frog,Eleutherodactylidae,Anura,1
+Boophis feonnyala,,Mantellidae,Anura,1
+Xenopus laevis,Common Plantanna,Pipidae,Anura,1
+Dendropsophus stingi,,Hylidae,Anura,1
+Nyctibatrachus sabarimalai,Sabarimala Night Frog,Nyctibatrachidae,Anura,0
+Mini scule,,Microhylidae,Anura,0
+Bokermannohyla circumdata,,Hylidae,Anura,1
+Raorchestes dubois,Kodaikanal Bush Frog,Rhacophoridae,Anura,0
+Dendropsophus gaucheri,,Hylidae,Anura,0
+Pulchrana laterimaculata,,Ranidae,Anura,1
+Centrolene geckoideum,Gecko Glassfrog,Centrolenidae,Anura,0
+Adenomera thomei,,Leptodactylidae,Anura,1
+Plethodontohyla guentheri,,Microhylidae,Anura,0
+Pristimantis orcus,,Strabomantidae,Anura,0
+Leptopelis calcaratus,,Arthroleptidae,Anura,0
+Rana catesbeiana,Bullfrog,Ranidae,Anura,1
+Mantella ebenaui,,Mantellidae,Anura,1
+Physalaemus cuvieri,,Leptodactylidae,Anura,1
+Pristimantis anotis,,Strabomantidae,Anura,0
+Atelopus elegans,Elegant stubfoot toad,Bufonidae,Anura,0
+Craugastor rostralis,,Craugastoridae,Anura,0
+Sclerophrys superciliaris,,Bufonidae,Anura,0
+Microhyla borneensis,Borneo Rice Frog,Microhylidae,Anura,0
+Aparasphenodon bokermanni,,Hylidae,Anura,0
+Sallywalkerana leptodactyla,Slender-toed Leaping Frog,Ranixalidae,Anura,0
+Amolops torrentis,,Ranidae,Anura,0
+Scinax berthae,,Hylidae,Anura,1
+Phrynomantis bifasciatus,Red-Banded Rubber Frog,Microhylidae,Anura,0
+Ansonia fuliginea,,Bufonidae,Anura,0
+Scinax sugillatus,,Hylidae,Anura,0
+Stumpffia analamaina,,Microhylidae,Anura,1
+Ameerega silverstonei,Silverstone's Poison Frog,Dendrobatidae,Anura,0
+Sclerophrys tuberosa,,Bufonidae,Anura,0
+Leptopelis ocellatus,,Arthroleptidae,Anura,0
+Aplastodiscus weygoldti,,Hylidae,Anura,0
+Minervarya greenii,Sri Lanka paddy field frog,Dicroglossidae,Anura,0
+Phyllomedusa vaillantii,,Hylidae,Anura,0
+Cochranella nola,,Centrolenidae,Anura,0
+Notaden bennettii,Holy Cross Frog,Myobatrachidae,Anura,0
+Leptodactylus leptodactyloides,,Leptodactylidae,Anura,0
+Boana lundii,,Hylidae,Anura,1
+Pelophryne misera,,Bufonidae,Anura,0
+Amolops larutensis,Larut Torrent Frog,Ranidae,Anura,0
+Philautus petersi,,Rhacophoridae,Anura,0
+Centrolene heloderma,Bumpy Glassfrog,Centrolenidae,Anura,0
+Pristimantis pycnodermis,,Strabomantidae,Anura,0
+Breviceps namaquensis,Namaqua rain frog,Brevicipitidae,Anura,0
+Ceratophrys cornuta,Surinam Horned Frog,Ceratophryidae,Anura,1
+Hyperolius zonatus,,Hyperoliidae,Anura,0
+Pristimantis boulengeri,,Strabomantidae,Anura,0
+Litoria freycineti,Wallum Rocketfrog,Hylidae,Anura,0
+Litoria angiana,,Hylidae,Anura,0
+Philautus juliandringi,,Rhacophoridae,Anura,0
+Gastrotheca plumbea,,Hemiphractidae,Anura,0
+Hyperolius dintelmanni,,Hyperoliidae,Anura,0
+Leptopelis boulengeri,,Arthroleptidae,Anura,0
+Eleutherodactylus ronaldi,Cuban Khaki Frog,Eleutherodactylidae,Anura,0
+Pseudacris feriarum,Upland Chorus Frog,Hylidae,Anura,0
+Uperoleia mimula,Mimic Toadlet,Myobatrachidae,Anura,1
+Melanophryniscus cambaraensis,,Bufonidae,Anura,0
+Kassina schioetzi,Schiøtz's Running Frog,Hyperoliidae,Anura,0
+Phyllomedusa atelopoides,,Hylidae,Anura,0
+Allobates kingsburyi,,Dendrobatidae,Anura,0
+Rana sphenocephala,Southern Leopard Frog (,Ranidae,Anura,1
+Pristimantis luteolateralis,,Strabomantidae,Anura,0
+Craugastor alfredi,,Craugastoridae,Anura,0
+Craugastor omiltemanus,,Craugastoridae,Anura,0
+Limnodynastes terraereginae,Northern Bullfrog,Myobatrachidae,Anura,1
+Ceratophrys cranwelli,Cranwell’s Horned Frog,Ceratophryidae,Anura,0
+Boophis fayi,,Mantellidae,Anura,0
+Pseudophilautus pleurotaenia,,Rhacophoridae,Anura,0
+Teratohyla midas,Midas’ Glassfrog,Centrolenidae,Anura,0
+Raorchestes parvulus,,Rhacophoridae,Anura,0
+Rana chensinensis,Chinese Brown Frog,Ranidae,Anura,0
+Limnonectes plicatellus,,Dicroglossidae,Anura,0
+Polypedates otilophus,File-Eared Tree Frog,Rhacophoridae,Anura,0
+Calyptocephalella gayi,Helmeted Water Toad,Calyptocephalellidae,Anura,0
+Ameerega rubriventris,,Dendrobatidae,Anura,0
+Craugastor pygmaeus,,Craugastoridae,Anura,0
+Pleurodema guayapae,,Leptodactylidae,Anura,0
+Nymphargus mixomaculatus,,Centrolenidae,Anura,0
+Agalychnis medinae,,Hylidae,Anura,0
+Raorchestes jayarami,,Rhacophoridae,Anura,0
+Bokermannohyla ibitiguara,,Hylidae,Anura,1
+Anaxyrus hemiophrys,Canadian Toad,Bufonidae,Anura,0
+Ameerega petersi,,Dendrobatidae,Anura,1
+Boana cinerascens,,Hylidae,Anura,1
+Incilius chompipe,,Bufonidae,Anura,0
+Plethodontohyla ocellata,,Microhylidae,Anura,0
+Arenophryne rotunda,Northern Sandhill Frog,Myobatrachidae,Anura,0
+Ctenophryne aterrima,Black Narrow-Mouthed Frog,Microhylidae,Anura,0
+Craugastor andi,,Craugastoridae,Anura,0
+Pseudophilautus hoipolloi,,Rhacophoridae,Anura,0
+Noblella thiuni,,Strabomantidae,Anura,0
+Gastrotheca splendens,,Hemiphractidae,Anura,0
+Physalaemus fischeri,,Leptodactylidae,Anura,0
+Limnonectes fujianensis,,Dicroglossidae,Anura,0
+Pristimantis aureolineatus,,Strabomantidae,Anura,0
+Limnonectes kuhlii,,Dicroglossidae,Anura,0
+Hyperolius thomensis,Sao Tome Giant Treefrog,Hyperoliidae,Anura,0
+Duellmanohyla chamulae,,Hylidae,Anura,0
+Craugastor brocchi,,Craugastoridae,Anura,0
+Hylarana tytleri,,Ranidae,Anura,0
+Gastrophryne mazatlanensis,Mazatlan Narrow-mouthed Toad,Microhylidae,Anura,0
+Ophryophryne microstoma,,Megophryidae,Anura,0
+Pristimantis pharangobates,,Strabomantidae,Anura,0
+Gastrophrynoides borneensis,,Microhylidae,Anura,0
+Rhinella humboldti,,Bufonidae,Anura,0
+Liuixalus romeri,Romer’s tree frog,Rhacophoridae,Anura,0
+Dendropsophus ruschii,,Hylidae,Anura,0
+Panophrys rubrimera,Red-thighed horned frog,Megophryidae,Anura,0
+Pristimantis croceoinguinis,,Strabomantidae,Anura,0
+Litoria booroolongensis,Booroolong Frog,Hylidae,Anura,0
+Hyperolius semidiscus,Yellow-striped Reed Frog,Hyperoliidae,Anura,0
+Odorrana schmackeri,Piebald odorous frog,Ranidae,Anura,0
+Cryptothylax greshoffii,,Hyperoliidae,Anura,0
+Cardioglossa gratiosa,,Arthroleptidae,Anura,0
+Osteocephalus buckleyi,,Hylidae,Anura,1
+Amazophrynella manaos,,Bufonidae,Anura,0
+Eupsophus calcaratus,,Alsodidae,Anura,0
+Taudactylus diurnus,Southern Day Frog,Myobatrachidae,Anura,0
+Hyperolius kivuensis,Kivu Reed Frog,Hyperoliidae,Anura,0
+Isthmohyla debilis,,Hylidae,Anura,0
+Gastrotheca piperata,,Hemiphractidae,Anura,0
+Dendropsophus luddeckei,,Hylidae,Anura,1
+Philautus refugii,,Rhacophoridae,Anura,0
+Pleurodema marmoratum,Marbled Four-eyed Frog,Leptodactylidae,Anura,0
+Hyloscirtus chlorosteus,,Hylidae,Anura,0
+Feihyla fuhua,,Rhacophoridae,Anura,0
+Litoria phyllochroa,Leaf Green Tree Frog,Hylidae,Anura,0
+Leptobrachium pullum,,Megophryidae,Anura,0
+Xenopus victorianus,,Pipidae,Anura,1
+Gephyromantis pseudoasper,,Mantellidae,Anura,1
+Ascaphus truei,Pacific Tailed Frog,Ascaphidae,Anura,0
+Ansonia leptopus,,Bufonidae,Anura,0
+Micryletta erythropoda,,Microhylidae,Anura,0
+Craugastor decoratus,,Craugastoridae,Anura,0
+Boophis idae,,Mantellidae,Anura,1
+Dendropsophus bifurcus,,Hylidae,Anura,0
+Pristimantis latidiscus,,Strabomantidae,Anura,0
+Boana jaguariaivensis,,Hylidae,Anura,0
+Hyperolius picturatus,,Hyperoliidae,Anura,0
+Acris blanchardi,Blanchard's Cricket Frog,Hylidae,Anura,1
+Rhombophryne mangabensis,,Microhylidae,Anura,0
+Eleutherodactylus auriculatus,Cuban Telegraphic Frog,Eleutherodactylidae,Anura,0
+Mantidactylus biporus,,Mantellidae,Anura,0
+Nectophryne batesii,,Bufonidae,Anura,0
+Dendropsophus berthalutzae,,Hylidae,Anura,0
+Microhyla karunaratnei,Karunaratne's Narrow-mouthed Frog,Microhylidae,Anura,0
+Isthmohyla pseudopuma,Meadow Treefrog,Hylidae,Anura,0
+Ischnocnema nasuta,,Brachycephalidae,Anura,0
+Uperoleia arenicola,Jabiru Toadlet,Myobatrachidae,Anura,0
+Phantasmarana apuana,,Hylodidae,Anura,0
+Ingerana borealis,,Dicroglossidae,Anura,0
+Excidobates condor,,Dendrobatidae,Anura,0
+Raorchestes ghatei,Ghate's Shrub Frog,Rhacophoridae,Anura,0
+Stumpffia staffordi,,Microhylidae,Anura,0
+Ranitomeya summersi,,Dendrobatidae,Anura,1
+Phrynoglossus martensii,Malayan Puddlefrog,Dicroglossidae,Anura,1
+Eleutherodactylus saxatilis,,Eleutherodactylidae,Anura,0
+Litoria splendida,Splendid Treefrog,Hylidae,Anura,0
+Sachatamia albomaculata,Yellow-flecked Cascade Glassfrog White-spotted glassfrog,Centrolenidae,Anura,0
+Pseudis minuta,,Hylidae,Anura,0
+Brachycephalus ephippium,Pumpkin Toadlet,Brachycephalidae,Anura,0
+Astylosternus schioetzi,,Arthroleptidae,Anura,0
+Hyalinobatrachium munozorum,Muñoz’s Glassfrog,Centrolenidae,Anura,0
+Pseudophilautus cavirostris,,Rhacophoridae,Anura,1
+Hyloscirtus callipeza,,Hylidae,Anura,0
+Melanophryniscus montevidensis,,Bufonidae,Anura,0
+Hyperolius parkeri,Parker's Reed Frog,Hyperoliidae,Anura,0
+Atelopus mucubajiensis,,Bufonidae,Anura,0
+Chiasmocleis leucosticta,,Microhylidae,Anura,0
+Mertensophryne micranotis,,Bufonidae,Anura,0
+Pseudacris crucifer,Spring Peeper,Hylidae,Anura,1
+Cophixalus infacetus,Inelegant Frog,Microhylidae,Anura,1
+Sclerophrys steindachneri,,Bufonidae,Anura,0
+Cophyla phyllodactyla,,Microhylidae,Anura,1
+Nymphargus wileyi,Wiley’s Glassfrog,Centrolenidae,Anura,0
+Tepuihyla obscura,,Hylidae,Anura,0
+Limnonectes phuyenensis,English: Phu Yen Wart Frog; Vietnamese: Ếch nhẽo phú yên,Dicroglossidae,Anura,0
+Platypelis tsaratananaensis,,Microhylidae,Anura,0
+Pristimantis altamazonicus,,Strabomantidae,Anura,0
+Rana tsushimensis,Tsushima Brown Frog,Ranidae,Anura,0
+Hyperolius spinigularis,Spiny-throated Reed Frog,Hyperoliidae,Anura,0
+Aubria masako,Masako fishing frog,Pyxicephalidae,Anura,0
+Boana marianitae,,Hylidae,Anura,0
+Dendropsophus tritaeniatus,,Hylidae,Anura,1
+Anaxyrus microscaphus,Arizona Toad,Bufonidae,Anura,1
+Gastrotheca antoniiochoai,,Hemiphractidae,Anura,1
+Hyperolius orkarkarri,,Hyperoliidae,Anura,0
+Boophis nauticus,,Mantellidae,Anura,0
+Sphaerotheca swani,,Dicroglossidae,Anura,0
+Rhombophryne proportionalis,,Microhylidae,Anura,0
+Agalychnis lemur,Lemur Leaf Frog,Hylidae,Anura,0
+Poyntonophrynus lughensis,,Bufonidae,Anura,0
+Eleutherodactylus brevirostris,Short-nosed Green Frog,Eleutherodactylidae,Anura,0
+Uperodon triangularis,,Microhylidae,Anura,0
+Microkayla illimani,,Strabomantidae,Anura,0
+Uperodon rohani,Rohan's Globular Frog,Microhylidae,Anura,0
+Chiromantis doriae,,Rhacophoridae,Anura,0
+Uperodon variegatus,White-bellied Pug-snout Frog,Microhylidae,Anura,0
+Litoria subglandulosa,New England Tree Frog,Hylidae,Anura,0
+Pseudacris streckeri,Strecker's Chorus Frog,Hylidae,Anura,0
+Pristimantis buckleyi,,Strabomantidae,Anura,0
+Pristimantis deyi,,Strabomantidae,Anura,0
+Stumpffia miery,,Microhylidae,Anura,1
+Andinobates daleswansoni,,Dendrobatidae,Anura,0
+Cardioglossa cyaneospila,,Arthroleptidae,Anura,0
+Pristimantis pulchridormientes,Sleeping Beauty Rain Frog,Strabomantidae,Anura,0
+Odorrana ishikawae,Ishikawa's frog,Ranidae,Anura,0
+Boana palaestes,,Hylidae,Anura,0
+Hyperolius poweri,Power's reed frog,Hyperoliidae,Anura,0
+Mannophryne riveroi,,Dendrobatidae,Anura,0
+Micryletta nigromaculata,Black-spotted Paddy Frog; Nhái bầu hông đen,Microhylidae,Anura,0
+Craugastor chingopetaca,,Craugastoridae,Anura,0
+Quasipaa boulengeri,,Dicroglossidae,Anura,0
+Boana beckeri,Perereca-de-pijama,Hylidae,Anura,0
+Leptopelis parkeri,,Arthroleptidae,Anura,0
+Sclerophrys xeros,,Bufonidae,Anura,0
+Incilius macrocristatus,,Bufonidae,Anura,0
+Ingerophrynus divergens,Crested Toad,Bufonidae,Anura,0
+Heterixalus andrakata,,Hyperoliidae,Anura,1
+Pseudophilautus hypomelas,Webless pygmy tree frog,Rhacophoridae,Anura,0
+Ghatixalus variabilis,,Rhacophoridae,Anura,0
+Allobates cepedai,,Dendrobatidae,Anura,0
+Scinax rizibilis,,Hylidae,Anura,0
+Nyctibatrachus anamallaiensis,Anamallai Night Frog,Nyctibatrachidae,Anura,0
+Eleutherodactylus varians,Cuban Bromeliad Frog,Eleutherodactylidae,Anura,0
+Leptobrachella firthi,,Megophryidae,Anura,0
+Dendropsophus bilobatus,,Hylidae,Anura,0
+Phrynobatrachus acridoides,Eastern puddle frog,Phrynobatrachidae,Anura,0
+Dendropsophus minutus,Lesser Treefrog,Hylidae,Anura,1
+Leptopelis notatus,,Arthroleptidae,Anura,0
+Alcalus baluensis,,Ceratobatrachidae,Anura,0
+Litoria watjulumensis,Watjulum Frog,Hylidae,Anura,0
+Leptodactylus latrans,South American Spotted Grassfrog,Leptodactylidae,Anura,0
+Phyllomedusa duellmani,,Hylidae,Anura,0
+Hyperolius nasutus,Long Reed Frog,Hyperoliidae,Anura,1
+Andinobates virolinensis,,Dendrobatidae,Anura,0
+Epipedobates tricolor,Phantasmal Poison Frog,Dendrobatidae,Anura,0
+Craugastor occidentalis,,Craugastoridae,Anura,0
+Cryptobatrachus fuhrmanni,,Hemiphractidae,Anura,0
+Pelophylax fukienensis,,Ranidae,Anura,0
+Rhinella dapsilis,,Bufonidae,Anura,0
+Oreophryne anser,,Microhylidae,Anura,1
+Xenopus allofraseri,False Fraser's Clawed Frog,Pipidae,Anura,1
+Boophis rhodoscelis,,Mantellidae,Anura,1
+Pristimantis rhodostichus,,Strabomantidae,Anura,0
+Pristimantis paulodutrai,,Strabomantidae,Anura,0
+Litoria rheocola,Common Mistfrog,Hylidae,Anura,1
+Leptopelis natalensis,Natal Tree Frog,Arthroleptidae,Anura,0
+Mantidactylus bourgati,,Mantellidae,Anura,0
+Eleutherodactylus gundlachi,Turquino Spiny Frog,Eleutherodactylidae,Anura,0
+Pristimantis dundeei,,Strabomantidae,Anura,0
+Capensibufo selenophos,Moonlight Mountain Toadlet,Bufonidae,Anura,0
+Nyctibatrachus petraeus,Castle Rock Night Frog,Nyctibatrachidae,Anura,0
+Arthroleptis crusculum,Guinea Screeching Frog,Arthroleptidae,Anura,0
+Craugastor underwoodi,Underwood’s Litter Frog,Craugastoridae,Anura,0
+Scinax arduous,,Hylidae,Anura,0
+Sachatamia electrops,,Centrolenidae,Anura,0
+Dendropsophus meridensis,,Hylidae,Anura,0
+Hydrophylax gracilis,Sri Lanka wood frog,Ranidae,Anura,0
+Trachycephalus nigromaculatus,,Hylidae,Anura,0
+Glyphoglossus molossus,Blunt-headed Burrowing Frog,Microhylidae,Anura,0
+Rana sevosa,Dusky Gopher Frog,Ranidae,Anura,0
+Theloderma corticale,,Rhacophoridae,Anura,1
+Boophis tsilomaro,,Mantellidae,Anura,0
+Stumpffia larinki,,Microhylidae,Anura,0
+Leptobrachella ventripunctata,,Megophryidae,Anura,0
+Bokermannohyla capra,,Hylidae,Anura,0
+Platymantis batantae,,Ceratobatrachidae,Anura,0
+Gastrophryne carolinensis,Eastern Narrow-mouthed Toad,Microhylidae,Anura,0
+Amolops monticola,,Ranidae,Anura,0
+Ranitomeya sirensis,Sira Poison Frog,Dendrobatidae,Anura,0
+Odontophrynus cultripes,Rio Grande Escuerzo,Odontophrynidae,Anura,0
+Craugastor chac,,Craugastoridae,Anura,0
+Tsingymantis antitra,,Mantellidae,Anura,0
+Nannophrys marmorata,Kirthisinghe's Rock Frog,Dicroglossidae,Anura,0
+Hyloscirtus caucanus,,Hylidae,Anura,0
+Leptobrachella picta,,Megophryidae,Anura,0
+Rhombophryne vaventy,,Microhylidae,Anura,0
+Rhacophorus hoabinhensis,Hoa Binh Treefrog,Rhacophoridae,Anura,0
+Stefania satelles,,Hemiphractidae,Anura,0
+Pleurodema thaul,Chilean Four-eyed Frog,Leptodactylidae,Anura,0
+Leptobrachium chapaense,,Megophryidae,Anura,0
+Anomaloglossus wothuja,,Dendrobatidae,Anura,0
+Leptopelis vannutellii,,Arthroleptidae,Anura,0
+Leptomantis rufipes,,Rhacophoridae,Anura,0
+Oreophryne aurora,,Microhylidae,Anura,1
+Hyperolius substriatus,,Hyperoliidae,Anura,0
+Stumpffia diutissima,,Microhylidae,Anura,1
+Proceratophrys paviotii,,Odontophrynidae,Anura,0
+Limnonectes nguyenorum,,Dicroglossidae,Anura,0
+Polypedates leucomystax,Common Tree Frog,Rhacophoridae,Anura,1
+Theloderma licin,,Rhacophoridae,Anura,0
+Cardioglossa escalerae,,Arthroleptidae,Anura,0
+Kalophrynus interlineatus,Striped Sticky Frog,Microhylidae,Anura,0
+Amazophrynella siona,,Bufonidae,Anura,0
+Boana faber,Blacksmith Treefrog,Hylidae,Anura,1
+Sylvirana annamitica,,Ranidae,Anura,0
+Pristimantis schultei,,Strabomantidae,Anura,0
+Craugastor tabasarae,,Craugastoridae,Anura,0
+Sylvirana cubitalis,,Ranidae,Anura,0
+Limnonectes cintalubang,,Dicroglossidae,Anura,0
+Heterixalus tricolor,,Hyperoliidae,Anura,1
+Pelophylax terentievi,Terentjev's Frog,Ranidae,Anura,0
+Mantidactylus majori,,Mantellidae,Anura,0
+Pristimantis quantus,,Strabomantidae,Anura,0
+Atelopus peruensis,Peru Stubfoot Toad,Bufonidae,Anura,0
+Hyperolius mosaicus,,Hyperoliidae,Anura,0
+Hyloxalus sylvaticus,,Dendrobatidae,Anura,0
+Aparasphenodon brunoi,Bruno's Casque-Headed Frog,Hylidae,Anura,0
+Rheobatrachus silus,Southern Gastric Brooding Frog,Myobatrachidae,Anura,0
+Scinax ranki,,Hylidae,Anura,0
+Uperoleia laevigata,Smooth Toadlet,Myobatrachidae,Anura,0
+Pristimantis pyrrhomerus,,Strabomantidae,Anura,0
+Gracixalus gracilipes,,Rhacophoridae,Anura,0
+Elachistocleis piauiensis,,Microhylidae,Anura,0
+Paracassina obscura,,Hyperoliidae,Anura,0
+Litoria coplandi,Copland's Rock Frog,Hylidae,Anura,0
+Rhinella leptoscelis,,Bufonidae,Anura,0
+Gracixalus lumarius,Thorny tree frog; Ech cay gai,Rhacophoridae,Anura,0
+Craugastor opimus,,Craugastoridae,Anura,0
+Sclerophrys pusilla,,Bufonidae,Anura,0
+Ptychadena levenorum,,Ptychadenidae,Anura,0
+Alsodes vanzolinii,Vanzolini's Spiny-Chest Frog,Alsodidae,Anura,0
+Ptychadena erlangeri,,Ptychadenidae,Anura,0
+Boana aguilari,,Hylidae,Anura,0
+Aplastodiscus leucopygius,Guinle Treefrog,Hylidae,Anura,1
+Leptodactylus knudseni,Knudsen's thin-toed frog,Leptodactylidae,Anura,1
+Pseudophilautus silvaticus,,Rhacophoridae,Anura,0
+Plethodontohyla bipunctata,,Microhylidae,Anura,0
+Boana semiguttata,,Hylidae,Anura,0
+Natalobatrachus bonebergi,Boneberg's frog,Pyxicephalidae,Anura,0
+Dendropsophus oliveirai,,Hylidae,Anura,0
+Mantella madagascariensis,,Mantellidae,Anura,0
+Boophis andreonei,,Mantellidae,Anura,1
+Afrixalus sylvaticus,,Hyperoliidae,Anura,0
+Dendropsophus acreanus,,Hylidae,Anura,0
+Amolops assamensis,,Ranidae,Anura,0
+Alexteroon obstetricans,,Hyperoliidae,Anura,0
+Hyla orientalis,,Hylidae,Anura,1
+Cophixalus australis,Southern Ornate Nursery-frog,Microhylidae,Anura,0
+Eleutherodactylus etheridgei,Oriente Coastal Frog,Eleutherodactylidae,Anura,0
+Stumpffia meikeae,,Microhylidae,Anura,0
+Indosylvirana serendipi,Sri Lankan Golden-backed frog,Ranidae,Anura,0
+Boana melanopleura,,Hylidae,Anura,0
+Oreophrynella seegobini,Seegobin's Tepui Toad,Bufonidae,Anura,0
+Pristimantis delius,,Strabomantidae,Anura,0
+Pulchrana picturata,,Ranidae,Anura,0
+Chiasmocleis devriesi,,Microhylidae,Anura,0
+Gephyromantis spiniferus,,Mantellidae,Anura,0
+Eleutherodactylus rivularis,Short-legged Streamside Frog,Eleutherodactylidae,Anura,0
+Scinax v-signatus,,Hylidae,Anura,0
+Mannophryne lamarcai,,Dendrobatidae,Anura,0
+Astylosternus perreti,,Arthroleptidae,Anura,0
+Guibemantis diphonus,,Mantellidae,Anura,0
+Leptopelis modestus,,Arthroleptidae,Anura,0
+Hyalinobatrachium tatayoi,,Centrolenidae,Anura,0
+Isthmohyla tica,,Hylidae,Anura,0
+Leptodactylus turimiquensis,Calf frog,Leptodactylidae,Anura,0
+Bryophryne zonalis,,Strabomantidae,Anura,0
+Hylodes nasus,,Hylodidae,Anura,1
+Hoplobatrachus litoralis,,Dicroglossidae,Anura,0
+Dendrobates auratus,Green and Black Poison Frog,Dendrobatidae,Anura,0
+Leptophryne borbonica,Hourglass Toad,Bufonidae,Anura,1
+Afrixalus clarkei,,Hyperoliidae,Anura,0
+Diasporus citrinobapheus,Yellow Dyer Rainfrog,Eleutherodactylidae,Anura,1
+Amolops minutus,,Ranidae,Anura,0
+Mixophyes carbinensis,,Myobatrachidae,Anura,0
+Pelophylax hispanicus,,Ranidae,Anura,0
+Oreobates ibischi,,Strabomantidae,Anura,0
+Stumpffia maledicta,,Microhylidae,Anura,1
+Odorrana versabilis,,Ranidae,Anura,0
+Pristimantis gloria,English: Gloria’s Rain Frog. Spanish: Cutín de Gloria,Strabomantidae,Anura,0
+Pristimantis restrepoi,,Strabomantidae,Anura,0
+Dendropsophus sarayacuensis,Sarayacu Treefrog,Hylidae,Anura,1
+Theloderma stellatum,,Rhacophoridae,Anura,0
+Dendropsophus robertmertensi,,Hylidae,Anura,0
+Amolops splendissimus,,Ranidae,Anura,0
+Hyperolius kachalolae,Kachalola Reed Frog,Hyperoliidae,Anura,0
+Stumpffia obscoena,,Microhylidae,Anura,1
+Pseudophilautus stellatus,,Rhacophoridae,Anura,0
+Adenomera cotuba,,Leptodactylidae,Anura,1
+Microhyla mihintalei,Mihintale Red Narrow-mouthed Frog,Microhylidae,Anura,0
+Colostethus agilis,,Dendrobatidae,Anura,0
+Pristimantis ignicolor,,Strabomantidae,Anura,0
+Trichobatrachus robustus,Hairy Frog,Arthroleptidae,Anura,0
+Leptodactylus vastus,Northeastern pepper frog,Leptodactylidae,Anura,0
+Mantidactylus albofrenatus,,Mantellidae,Anura,1
+Osteocephalus cannatellai,,Hylidae,Anura,0
+Litoria chloris,Red-eyed Tree Frog,Hylidae,Anura,0
+Allobates sumtuosus,,Dendrobatidae,Anura,0
+Barycholos pulcher,,Strabomantidae,Anura,0
+Cryptobatrachus boulengeri,,Hemiphractidae,Anura,0
+Incilius marmoreus,,Bufonidae,Anura,0
+Physalaemus santafecinus,Santa Fe Dwarf Frog,Leptodactylidae,Anura,0
+Physalaemus obtectus,,Leptodactylidae,Anura,0
+Teratohyla spinosa,Dwarf Glassfrog,Centrolenidae,Anura,0
+Dendropsophus bokermanni,,Hylidae,Anura,0
+Hylodes meridionalis,,Hylodidae,Anura,0
+Hylodes lateristrigatus,,Hylodidae,Anura,0
+Bombina orientalis,Oriental Fire-Bellied Toad,Bombinatoridae,Anura,0
+Panophrys jingdongensis,Jingdong Horned Toad,Megophryidae,Anura,0
+Rulyrana susatamai,,Centrolenidae,Anura,0
+Hyperolius raymondi,Raymond's Reed Frog,Hyperoliidae,Anura,0
+Leptodactylodon axillaris,,Arthroleptidae,Anura,0
+Boana pombali,,Hylidae,Anura,0
+Nidirana daunchina,Emei Music Frog,Ranidae,Anura,0
+Stumpffia davidattenboroughi,,Microhylidae,Anura,0
+Ansonia inthanon,,Bufonidae,Anura,0
+Agalychnis annae,Blue-sided Tree Frog,Hylidae,Anura,0
+Petropedetes vulpiae,,Petropedetidae,Anura,0
+Atelopus lynchi,,Bufonidae,Anura,0
+Boana bandeirantes,,Hylidae,Anura,0
+Cophixalus ornatus,Ornate Frog,Microhylidae,Anura,1
+Paradoxophyla palmata,,Microhylidae,Anura,1
+Hemiphractus panamensis,,Hemiphractidae,Anura,0
+Brachytarsophrys feae,Fea ’s Short-Legged Toad (in English),Megophryidae,Anura,0
+Oreophryne gagneorum,,Microhylidae,Anura,1
+Minervarya mudduraja,Muddu Raja Fejervarya,Dicroglossidae,Anura,0
+Gastrotheca ochoai,,Hemiphractidae,Anura,0
+Gastrotheca albolineata,,Hemiphractidae,Anura,0
+Limnonectes kong,,Dicroglossidae,Anura,0
+Leptopelis mackayi,,Arthroleptidae,Anura,0
+Ceratophrys stolzmanni,,Ceratophryidae,Anura,0
+Craugastor guerreroensis,,Craugastoridae,Anura,0
+Micrixalus phyllophilus,Nilgiri Dancing Frog,Micrixalidae,Anura,0
+Ecnomiohyla veraguensis,Santa Fe Fringe-limbed Treefrog,Hylidae,Anura,0
+Pristimantis curtipes,,Strabomantidae,Anura,0
+Anodonthyla montana,,Microhylidae,Anura,0
+Tomopterna kachowskii,,Pyxicephalidae,Anura,0
+Leptodactylodon ovatus,,Arthroleptidae,Anura,0
+Oophaga pumilio,Strawberry Poison Frog,Dendrobatidae,Anura,1
+Pseudacris brimleyi,Brimley's Chorus Frog,Hylidae,Anura,0
+Oreophryne banshee,,Microhylidae,Anura,1
+Adenomera martinezi,,Leptodactylidae,Anura,1
+Hyloxalus shuar,,Dendrobatidae,Anura,0
+Pulchrana grandocula,Big-eyed Frog,Ranidae,Anura,0
+Litoria peronii,Peron's Tree Frog,Hylidae,Anura,1
+Plectrohyla sagorum,,Hylidae,Anura,0
+Physalaemus signifer,,Leptodactylidae,Anura,0
+Rhinella major,,Bufonidae,Anura,0
+Theloderma palliatum,Cloaked Moss Frog; Éch cây sân trá hinh,Rhacophoridae,Anura,0
+Leptopelis millsoni,,Arthroleptidae,Anura,0
+Hamptophryne boliviana,,Microhylidae,Anura,0
+Leptobrachium leucops,,Megophryidae,Anura,0
+Platypelis mavomavo,Yellowish Tree Cophyline Frog (English),Microhylidae,Anura,0
+Gephyromantis enki,,Mantellidae,Anura,1
+Pseudophryne coriacea,Red-backed Toadlet,Myobatrachidae,Anura,0
+Gastrotheca ovifera,,Hemiphractidae,Anura,1
+Hyla felixarabica,,Hylidae,Anura,0
+Duttaphrynus scaber,,Bufonidae,Anura,0
+Pristimantis lutzae,English: Lutz’s Rain Frog. Spanish: Cutín de Lutz,Strabomantidae,Anura,0
+Discoglossus galganoi,Iberian Painted Frog,Alytidae,Anura,0
+Litoria dayi,Lace-eyed Tree Frog,Hylidae,Anura,1
+Atelognathus praebasalticus,,Batrachylidae,Anura,0
+Leptopelis oryi,,Arthroleptidae,Anura,0
+Craugastor laticeps,,Craugastoridae,Anura,0
+Arthroleptis adelphus,,Arthroleptidae,Anura,0
+Craugastor loki,,Craugastoridae,Anura,0
+Pseudophilautus hankeni,,Rhacophoridae,Anura,0
+Hyperolius lateralis,,Hyperoliidae,Anura,0
+Papurana kreffti,,Ranidae,Anura,0
+Hylodes phyllodes,,Hylodidae,Anura,1
+Eleutherodactylus zugi,Rosario Red-legged Frog,Eleutherodactylidae,Anura,0
+Dendropsophus soaresi,,Hylidae,Anura,0
+Leptodactylus natalensis,,Leptodactylidae,Anura,0
+Pristimantis crucifer,,Strabomantidae,Anura,0
+Guibemantis annulatus,Ring-wearing Tree Frog,Mantellidae,Anura,0
+Tlalocohyla godmani,,Hylidae,Anura,0
+Liuixalus ocellatus,,Rhacophoridae,Anura,0
+Rana tagoi,,Ranidae,Anura,0
+Cophyla occultans,,Microhylidae,Anura,1
+Craugastor monnichorum,,Craugastoridae,Anura,0
+Hyla carthaginiensis,Carthaginian tree frog (English),Hylidae,Anura,0
+Hyloxalus infraguttatus,,Dendrobatidae,Anura,0
+Chiasmocleis haddadi,,Microhylidae,Anura,0
+Boophis obscurus,,Mantellidae,Anura,0
+Duellmanohyla soralia,Copan Brook Frog,Hylidae,Anura,0
+Gastrotheca cornuta,,Hemiphractidae,Anura,0
+Nidirana adenopleura,,Ranidae,Anura,0
+Pristimantis renjiforum,,Strabomantidae,Anura,0
+Limnodynastes convexiusculus,Marbled Frog,Myobatrachidae,Anura,1
+Phrynobatrachus irangi,,Phrynobatrachidae,Anura,0
+Barycholos ternetzi,,Strabomantidae,Anura,1
+Phrynoglossus laevis,Puddle Frog,Dicroglossidae,Anura,1
+Rana heckscheri,River Frog,Ranidae,Anura,0
+Sphaerotheca breviceps,Burrowing frog,Dicroglossidae,Anura,0
+Paracassina kounhiensis,,Hyperoliidae,Anura,0
+Petropedetes palmipes,,Petropedetidae,Anura,0
+Trachycephalus coriaceus,Surinam Goldeneye Tree Frog,Hylidae,Anura,0
+Oreobates discoidalis,,Strabomantidae,Anura,0
+Indosylvirana aurantiaca,Small Wood frog,Ranidae,Anura,0
+Duttaphrynus noellerti,Noellert`s Toad,Bufonidae,Anura,0
+Leptodactylus lithonaetes,,Leptodactylidae,Anura,0
+Dendropsophus nahdereri,,Hylidae,Anura,0
+Ameerega pongoensis,,Dendrobatidae,Anura,0
+Kalophrynus calciphilus,Limestone Sticky Frog,Microhylidae,Anura,0
+Niceforonia nana,,Strabomantidae,Anura,0
+Isthmohyla rivularis,,Hylidae,Anura,1
+Bufotes pewzowi,,Bufonidae,Anura,0
+Pelophylax lessonae,Pool Frog,Ranidae,Anura,0
+Rana dalmatina,Agile Frog,Ranidae,Anura,0
+Dendropsophus microps,,Hylidae,Anura,1
+Litoria gracilenta,Dainty Green Tree Frog,Hylidae,Anura,1
+Craugastor charadra,,Craugastoridae,Anura,0
+Leptopelis bufonides,,Arthroleptidae,Anura,0
+Microkayla wettsteini,,Strabomantidae,Anura,0
+Phyllomedusa distincta,,Hylidae,Anura,0
+Philautus bunitus,,Rhacophoridae,Anura,0
+Pristimantis appendiculatus,,Strabomantidae,Anura,0
+Hyperolius adspersus,,Hyperoliidae,Anura,0
+Phrynella pulchra,,Microhylidae,Anura,0
+Microhyla rubra,,Microhylidae,Anura,0
+Plethodontohyla inguinalis,,Microhylidae,Anura,0
+Aglyptodactylus inguinalis,,Mantellidae,Anura,0
+Phrynobatrachus parvulus,,Phrynobatrachidae,Anura,0
+Laliostoma labrosum,,Mantellidae,Anura,1
+Pseudopaludicola pusilla,,Leptodactylidae,Anura,0
+Adelophryne adiastola,,Eleutherodactylidae,Anura,0
+Bufotes boulengeri,Sicilian Green Toad,Bufonidae,Anura,0
+Blommersia angolafa,,Mantellidae,Anura,0
+Trachycephalus imitatrix,,Hylidae,Anura,0
+Hyloxalus lehmanni,,Dendrobatidae,Anura,0
+Ceuthomantis smaragdinus,,Ceuthomantidae,Anura,0
+Kaloula conjuncta,Truncate-Toed Chorus Frog,Microhylidae,Anura,0
+Rhinella arunco,,Bufonidae,Anura,0
+Raorchestes gryllus,,Rhacophoridae,Anura,0
+Ischnocnema hoehnei,,Brachycephalidae,Anura,0
+Ceratophrys joazeirensis,,Ceratophryidae,Anura,0
+Pristimantis leucorrhinus,,Strabomantidae,Anura,0
+Pristimantis brevifrons,,Strabomantidae,Anura,0
+Pelobatrachus nasuta,Long-nosed Horned Frog,Megophryidae,Anura,0
+Nyctibatrachus vrijeuni,VUB Night Frog,Nyctibatrachidae,Anura,0
+Conraua crassipes,,Conrauidae,Anura,0
+Callulina shengena,,Brevicipitidae,Anura,0
+Ansonia longidigita,,Bufonidae,Anura,0
+Pseudophilautus viridis,,Rhacophoridae,Anura,0
+Rhinella mirandaribeiroi,,Bufonidae,Anura,0
+Gephyromantis rivicola,,Mantellidae,Anura,1
+Oophaga histrionica,Harlequin Poison Frog,Dendrobatidae,Anura,0
+Trachycephalus hadroceps,,Hylidae,Anura,0
+Gastrotheca andaquiensis,,Hemiphractidae,Anura,0
+Sclerophrys poweri,Power's Toad,Bufonidae,Anura,0
+Adenomera heyeri,,Leptodactylidae,Anura,0
+Atelopus varius,Harlequin Frog,Bufonidae,Anura,0
+Incilius bocourti,,Bufonidae,Anura,0
+Gastrotheca monticola,,Hemiphractidae,Anura,0
+Gephyromantis asper,,Mantellidae,Anura,1
+Stumpffia nigrorubra,,Microhylidae,Anura,1
+Hyperolius marmoratus,Painted Reed Frog,Hyperoliidae,Anura,0
+Sphaenorhynchus palustris,,Hylidae,Anura,0
+Pseudophryne bibronii,Bibron's Toadlet,Myobatrachidae,Anura,0
+Gephyromantis atsingy,,Mantellidae,Anura,0
+Noblella madreselva,,Strabomantidae,Anura,0
+Espadarana andina,Andes Giant Glass Frog,Centrolenidae,Anura,1
+Epipedobates narinensis,Narino Poison Frog,Dendrobatidae,Anura,0
+Rentapia hosii,Rentap's Asian Tree Toad,Bufonidae,Anura,1
+Pristimantis chomskyi,English: Chomsky’s Rain Frog. Spanish: Cutín de Chomsky,Strabomantidae,Anura,0
+Spinomantis peraccae,,Mantellidae,Anura,1
+Chiromantis petersii,,Rhacophoridae,Anura,0
+Mantidactylus delormei,,Mantellidae,Anura,1
+Eleutherodactylus richmondi,Puerto Rican Bronze Frog,Eleutherodactylidae,Anura,0
+Feihyla vittata,,Rhacophoridae,Anura,0
+Glandirana tientaiensis,,Ranidae,Anura,0
+Ameerega pulchripecta,,Dendrobatidae,Anura,0
+Platypelis grandis,,Microhylidae,Anura,1
+Cophixalus bombiens,Buzzing Frog,Microhylidae,Anura,0
+Plectrohyla dasypus,,Hylidae,Anura,0
+Hyla plicata,,Hylidae,Anura,0
+Boophis baetkei,,Mantellidae,Anura,0
+Scaphiophryne matsoko,,Microhylidae,Anura,0
+Boophis vittatus,,Mantellidae,Anura,1
+Silverstoneia nubicola,,Dendrobatidae,Anura,0
+Brachytarsophrys chuannanensis,Southern Sichuan Short-Legged Toad (in English),Megophryidae,Anura,0
+Rhacophorus norhayatii,Norhayati's Gliding Frog,Rhacophoridae,Anura,1
+Leptomantis gauni,,Rhacophoridae,Anura,0
+Eleutherodactylus ionthus,Ranita,Eleutherodactylidae,Anura,0
+Pristimantis orphnolaimus,,Strabomantidae,Anura,0
+Atelognathus patagonicus,Patagonia Frog,Batrachylidae,Anura,0
+Microhyla petrigena,,Microhylidae,Anura,0
+Lysapsus caraya,,Hylidae,Anura,0
+Leptomantis angulirostris,Masked Tree Frog,Rhacophoridae,Anura,0
+Hyalinobatrachium cappellei,,Centrolenidae,Anura,0
+Leptopelis spiritusnoctis,,Arthroleptidae,Anura,0
+Pristimantis rubicundus,,Strabomantidae,Anura,0
+Centrolene lynchi,Lynch’s Glassfrog,Centrolenidae,Anura,0
+Pseudophilautus fulvus,,Rhacophoridae,Anura,0
+Pristimantis percnopterus,,Strabomantidae,Anura,0
+Physalaemus gracilis,,Leptodactylidae,Anura,0
+Nyctibatrachus major,,Nyctibatrachidae,Anura,0
+Allobates talamancae,Striped Rocket Frog,Dendrobatidae,Anura,0
+Cophixalus neglectus,Neglected Frog,Microhylidae,Anura,0
+Dendropsophus branneri,,Hylidae,Anura,0
+Craugastor augusti,Barking Frog,Craugastoridae,Anura,0
+Rhacophorus malabaricus,,Rhacophoridae,Anura,0
+Pristimantis ardalonychus,,Strabomantidae,Anura,0
+Otophryne pyburni,Pyburn's Pancake Frog,Microhylidae,Anura,0
+Xenophrys ancrae,,Megophryidae,Anura,0
+Phrynobatrachus liberiensis,,Phrynobatrachidae,Anura,0
+Rhacophorus bipunctatus,Double-spotted Orange-webbed Treefrog,Rhacophoridae,Anura,1
+Zhangixalus dorsoviridis,,Rhacophoridae,Anura,0
+Afrixalus wittei,De Witte's spiny reed frog,Hyperoliidae,Anura,0
+Microhyla picta,,Microhylidae,Anura,0
+Mantidactylus pauliani,,Mantellidae,Anura,0
+Hemiphractus johnsoni,Johnson's Horned Treefrog,Hemiphractidae,Anura,0
+Microhyla nilphamariensis,,Microhylidae,Anura,0
+Cacosternum nanum,Dwarf dainty frog,Pyxicephalidae,Anura,0
+Adelophryne glandulata,Teresensis Flea Frog; Razinha-Pulga Teresensis,Eleutherodactylidae,Anura,0
+Espadarana prosoblepon,Emerald Glass Frog,Centrolenidae,Anura,0
+Physalaemus albonotatus,,Leptodactylidae,Anura,0
+Gastrotheca rebeccae,,Hemiphractidae,Anura,0
+Scinax alter,,Hylidae,Anura,0
+Cochranella euknemos,Fringe-Limbed Tree Frog,Centrolenidae,Anura,0
+Philautus ingeri,,Rhacophoridae,Anura,0
+Heterixalus carbonei,,Hyperoliidae,Anura,1
+Gephyromantis tschenki,,Mantellidae,Anura,1
+Nannophryne variegata,,Bufonidae,Anura,0
+Sarcohyla bistincta,,Hylidae,Anura,0
+Oreophrynella nigra,Sapito rugoso del Kukenán; Venezeulan pebble toad,Bufonidae,Anura,0
+Eleutherodactylus cubanus,Turquino Red-armed Frog,Eleutherodactylidae,Anura,0
+Peltophryne peltocephala,Eastern Cuba Giant Toad,Bufonidae,Anura,0
+Platymantis dorsalis,Common Forest Frog,Ceratobatrachidae,Anura,0
+Theloderma truongsonense,,Rhacophoridae,Anura,0
+Rana neovolcanica,,Ranidae,Anura,0
+Pristimantis ortizi,,Strabomantidae,Anura,0
+Stumpffia tetradactyla,,Microhylidae,Anura,1
+Pristimantis acuminatus,,Strabomantidae,Anura,0
+Sclerophrys arabica,,Bufonidae,Anura,0
+Adelphobates quinquevittatus,,Dendrobatidae,Anura,0
+Heleioporus eyrei,Moaning Frog,Myobatrachidae,Anura,0
+Gephyromantis cornutus,,Mantellidae,Anura,1
+Ecnomiohyla miotympanum,,Hylidae,Anura,0
+Philautus larutensis,,Rhacophoridae,Anura,0
+Pristimantis luscombei,,Strabomantidae,Anura,0
+Anodonthyla boulengerii,,Microhylidae,Anura,1
+Breviceps verrucosus,Plaintive Rain Frog,Brevicipitidae,Anura,0
+Odorrana margaretae,Green Odorous Frog,Ranidae,Anura,0
+Scaphiopus couchii,Couch's Spadefoot,Scaphiopodidae,Anura,1
+Hyalinobatrachium valerioi,Reticulated Glass Frog,Centrolenidae,Anura,0
+Pristimantis pataikos,,Strabomantidae,Anura,0
+Chiasmocleis tridactyla,,Microhylidae,Anura,0
+Pseudacris triseriata,Midland Chorus Frog,Hylidae,Anura,1
+Mantidactylus ambony,,Mantellidae,Anura,0
+Bromeliohyla melacaena,,Hylidae,Anura,0
+Agalychnis spurrelli,Gliding Leaf Frog,Hylidae,Anura,0
+Blommersia domerguei,,Mantellidae,Anura,1
+Plethodontohyla notosticta,,Microhylidae,Anura,1
+Pulchrana siberu,Siberut Island Frog,Ranidae,Anura,0
+Gracixalus supercornutus,,Rhacophoridae,Anura,0
+Leptomantis penanorum,,Rhacophoridae,Anura,0
+Cycloramphus dubius,Sao Paulo Button Frog,Cycloramphidae,Anura,0
+Gephyromantis striatus,,Mantellidae,Anura,1
+Boana joaquini,,Hylidae,Anura,0
+Dendropsophus parviceps,,Hylidae,Anura,0
+Craugastor punctariolus,Bob's Robber Frog,Craugastoridae,Anura,0
+Plectrohyla tecunumani,,Hylidae,Anura,0
+Theloderma laeve,,Rhacophoridae,Anura,0
+Arthroleptis taeniatus,,Arthroleptidae,Anura,0
+Rhinella veredas,,Bufonidae,Anura,0
+Leptobrachella tuberosa,,Megophryidae,Anura,0
+Boophis albipunctatus,,Mantellidae,Anura,1
+Phlyctimantis maculatus,Red-legged kassina,Hyperoliidae,Anura,0
+Boophis anjanaharibeensis,,Mantellidae,Anura,1
+Hyla avivoca,Bird-voiced Treefrog,Hylidae,Anura,1
+Rana blairi,Plains Leopard Frog,Ranidae,Anura,0
+Leptobrachella petrops,,Megophryidae,Anura,0
+Mantidactylus curtus,,Mantellidae,Anura,0
+Staurois latopalmatus,,Ranidae,Anura,0
+Rana luteiventris,Columbia Spotted Frog,Ranidae,Anura,1
+Pseudophilautus caeruleus,,Rhacophoridae,Anura,0
+Philautus tectus,,Rhacophoridae,Anura,0
+Litoria electrica,Buzzing Tree Frog,Hylidae,Anura,0
+Phrynobatrachus cricogaster,,Phrynobatrachidae,Anura,0
+Phrynobatrachus natalensis,Natal puddle frog,Phrynobatrachidae,Anura,1
+Mannophryne collaris,,Dendrobatidae,Anura,0
+Hyloxalus pulchellus,,Dendrobatidae,Anura,0
+Leptodactylus apepyta,,Leptodactylidae,Anura,0
+Meristogenys whiteheadi,,Ranidae,Anura,0
+Bufotes turanensis,,Bufonidae,Anura,0
+Hyperolius laurenti,,Hyperoliidae,Anura,0
+Adenomera saci,,Leptodactylidae,Anura,1
+Haddadus binotatus,,Craugastoridae,Anura,1
+Pristimantis incomptus,,Strabomantidae,Anura,0
+Xenopus muelleri,,Pipidae,Anura,0
+Blommersia variabilis,,Mantellidae,Anura,0
+Heleophryne regis,Royal ghost frog,Heleophrynidae,Anura,0
+Boophis sambirano,,Mantellidae,Anura,1
+Bufo spinosus,Spiny Toad,Bufonidae,Anura,0
+Amolops mantzorum,,Ranidae,Anura,0
+Zhangixalus suffry,,Rhacophoridae,Anura,0
+Chalcorana raniceps,,Ranidae,Anura,0
+Allopaa hazarensis,Hazara torrent frog,Dicroglossidae,Anura,0
+Kalophrynus pleurostigma,Black-Spotted Narrow-Mouthed Frog,Microhylidae,Anura,0
+Leptodactylus mystacinus,Mustached Frog,Leptodactylidae,Anura,1
+Dyscophus guineti,,Microhylidae,Anura,1
+Gastrotheca griswoldi,,Hemiphractidae,Anura,0
+Odorrana swinhoana,,Ranidae,Anura,0
+Physalaemus deimaticus,,Leptodactylidae,Anura,0
+Charadrahyla pinorum,,Hylidae,Anura,0
+Leptopelis aubryioides,,Arthroleptidae,Anura,0
+Micryletta inornata,,Microhylidae,Anura,0
+Pristimantis bogotensis,Bogota Robber Frog,Strabomantidae,Anura,1
+Philautus umbra,,Rhacophoridae,Anura,0
+Dendropsophus meridianus,,Hylidae,Anura,0
+Hylodes heyeri,,Hylodidae,Anura,0
+Amolops kaulbacki,,Ranidae,Anura,0
+Papurana arfaki,,Ranidae,Anura,0
+Hemiphractus helioi,,Hemiphractidae,Anura,0
+Nymphargus megacheirus,Large-handed Glassfrog,Centrolenidae,Anura,0
+Kassina kuvangensis,Kuvangu kassina,Hyperoliidae,Anura,0
+Tomopterna krugerensis,Knocking sand frog,Pyxicephalidae,Anura,0
+Centrolene ballux,Burrowes' Giant Glass Frog,Centrolenidae,Anura,0
+Nymphargus truebae,,Centrolenidae,Anura,0
+Rhinella beebei,North Coastal Granular Toad,Bufonidae,Anura,0
+Boophis luciae,,Mantellidae,Anura,0
+Breviceps acutirostris,Strawberry rain frog,Brevicipitidae,Anura,0
+Dendropsophus werneri,,Hylidae,Anura,0
+Cardioglossa leucomystax,,Arthroleptidae,Anura,0
+Chiasmocleis lacrimae,,Microhylidae,Anura,0
+Elachistocleis bicolor,Two-colored Oval Frog,Microhylidae,Anura,1
+Euphlyctis hexadactylus,Indian Five-fingered Frog,Dicroglossidae,Anura,0
+Rhinella achavali,,Bufonidae,Anura,0
+Adenomera araucaria,,Leptodactylidae,Anura,0
+Boophis periegetes,,Mantellidae,Anura,1
+Taruga fastigo,,Rhacophoridae,Anura,0
+Cacosternum platys,Flat Dainty frog,Pyxicephalidae,Anura,0
+Leptobrachella parva,,Megophryidae,Anura,0
+Mannophryne trinitatis,Trinidad Poison Frog,Dendrobatidae,Anura,0
+Alsodes hugoi,,Alsodidae,Anura,0
+Pseudophilautus hoffmanni,,Rhacophoridae,Anura,0
+Notaden melanoscaphus,Northern Spadefoot Toad,Myobatrachidae,Anura,1
+Mantella viridis,,Mantellidae,Anura,1
+Ameerega picta,,Dendrobatidae,Anura,1
+Chiasmocleis shudikarensis,,Microhylidae,Anura,0
+Stumpffia tridactyla,,Microhylidae,Anura,1
+Raorchestes kakachi,Kakachi shrub frog,Rhacophoridae,Anura,1
+Craugastor rugulosus,Rugulose rainfrog,Craugastoridae,Anura,0
+Scinax catharinae,,Hylidae,Anura,0
+Scinax trapicheiroi,,Hylidae,Anura,0
+Physalaemus erikae,,Leptodactylidae,Anura,0
+Astylosternus laticephalus,,Arthroleptidae,Anura,0
+Nanorana vicina,Murree Hill’s frog,Dicroglossidae,Anura,0
+Sechellophryne pipilodryas,,Sooglossidae,Anura,0
+Sphaenorhynchus dorisae,,Hylidae,Anura,0
+Indirana semipalmata,Half-webbed Leaping Frog,Ranixalidae,Anura,0
+Cardioglossa gracilis,,Arthroleptidae,Anura,0
+Plectrohyla pokomchi,,Hylidae,Anura,0
+Litoria staccato,,Hylidae,Anura,0
+Engystomops petersi,,Leptodactylidae,Anura,0
+Gephyromantis boulengeri,,Mantellidae,Anura,1
+Phrynopus tribulosus,,Strabomantidae,Anura,0
+Sphaerotheca maskeyi,,Dicroglossidae,Anura,0
+Hyloscirtus pantostictus,,Hylidae,Anura,0
+Leptopelis concolor,,Arthroleptidae,Anura,0
+Amietia wittei,De Witte's River Frog,Pyxicephalidae,Anura,0
+Panophrys sangzhiensis,,Megophryidae,Anura,0
+Mantella haraldmeieri,,Mantellidae,Anura,1
+Scinax jolyi,,Hylidae,Anura,0
+Diasporus diastema,,Eleutherodactylidae,Anura,0
+Mantidactylus guttulatus,,Mantellidae,Anura,1
+Indirana chiravasi,Amboli leaping frog,Ranixalidae,Anura,0
+Rhinella justinianoi,,Bufonidae,Anura,0
+Afrixalus uluguruensis,,Hyperoliidae,Anura,0
+Leptodactylus laticeps,,Leptodactylidae,Anura,0
+Sclerophrys togoensis,,Bufonidae,Anura,0
+Polypedates maculatus,Chunam Tree Frog,Rhacophoridae,Anura,0
+Scinax proboscideus,,Hylidae,Anura,0
+Aglyptodactylus madagascariensis,,Mantellidae,Anura,1
+Hylodes perplicatus,,Hylodidae,Anura,0
+Pristimantis conspicillatus,,Strabomantidae,Anura,0
+Elachistocleis magnus,,Microhylidae,Anura,0
+Scinax kennedyi,,Hylidae,Anura,0
+Amolops daorum,small,Ranidae,Anura,0
+Scinax carnevallii,,Hylidae,Anura,0
+Litoria genimaculata,Green-eyed Treefrog,Hylidae,Anura,1
+Kurixalus eiffingeri,Eiffinger's Tree Frog,Rhacophoridae,Anura,0
+Leptodactylus poecilochilus,,Leptodactylidae,Anura,0
+Gracixalus sapaensis,,Rhacophoridae,Anura,0
+Bombina microdeladigitora,Small-webbed Bell Toad,Bombinatoridae,Anura,0
+Colostethus panamensis,Panama rocket frog,Dendrobatidae,Anura,0
+Dendropsophus anceps,,Hylidae,Anura,1
+Xenopus kobeli,Kobel's clawed frog,Pipidae,Anura,1
+Rheobates pseudopalmatus,,Dendrobatidae,Anura,0
+Lynchius nebulanastes,,Strabomantidae,Anura,0
+Phrynoglossus semipalmatus,,Dicroglossidae,Anura,0
+Niceforonia mantipa,,Strabomantidae,Anura,0
+Rana chiricahuensis,Chiricahua Leopard Frog,Ranidae,Anura,1
+Bokermannohyla nanuzae,,Hylidae,Anura,1
+Limnodynastes fletcheri,Barking Frog,Myobatrachidae,Anura,0
+Rhinella marina,South American Cane Toad,Bufonidae,Anura,1
+Scinax boesemani,,Hylidae,Anura,1
+Leptopelis yaldeni,,Arthroleptidae,Anura,0
+Pelobates cultripes,Western Spadefoot,Pelobatidae,Anura,0
+Atelopus limosus,Limosa Harlequin Frog,Bufonidae,Anura,0
+Boana paranaiba,,Hylidae,Anura,1
+Rhinella chullachaki,English: Chullachaki Beaked Toad; Spanish: Sapo picudo Chullachaki.,Bufonidae,Anura,0
+Sclerophrys regularis,Common African toad,Bufonidae,Anura,1
+Rana palmipes,,Ranidae,Anura,0
+Dendropsophus jimi,,Hylidae,Anura,1
+Eleutherodactylus greyi,Cuban Gray Frog,Eleutherodactylidae,Anura,0
+Frostius erythrophthalmus,,Bufonidae,Anura,0
+Microhyla marmorata,,Microhylidae,Anura,0
+Scinax funereus,,Hylidae,Anura,0
+Leptobrachium lunatum,,Megophryidae,Anura,0
+Xenophrys aceras,,Megophryidae,Anura,0
+Tlalocohyla loquax,Mahogany Treefrog,Hylidae,Anura,0
+Chalcorana labialis,,Ranidae,Anura,0
+Adenomera juikitam,,Leptodactylidae,Anura,1
+Pristimantis achatinus,,Strabomantidae,Anura,0
+Physalaemus evangelistai,,Leptodactylidae,Anura,0
+Rana cascadae,Cascades Frog,Ranidae,Anura,1
+Mantella aurantiaca,Golden Mantella,Mantellidae,Anura,1
+Scinax quinquefasciatus,,Hylidae,Anura,0
+Spea intermontana,Great Basin Spadefoot,Scaphiopodidae,Anura,1
+Chiasmocleis magnova,,Microhylidae,Anura,0
+Ranitomeya uakarii,,Dendrobatidae,Anura,0
+Ikakogi tayrona,Magdalena Giant Glass Frog,Centrolenidae,Anura,0
+Tomopterna tandyi,Tandy's sand frog,Pyxicephalidae,Anura,0
+Gephyromantis klemmeri,Klemmer's Madagascar Frog,Mantellidae,Anura,1
+Leptobrachium ngoclinhense,,Megophryidae,Anura,0
+Boophis guibei,,Mantellidae,Anura,1
+Scinax duartei,,Hylidae,Anura,0
+Rhacophorus helenae,Helen’s Tree Frog,Rhacophoridae,Anura,0
+Pristimantis rivasi,,Strabomantidae,Anura,0
+Pristimantis piceus,,Strabomantidae,Anura,0
+Poyntonophrynus dombensis,Dombe Toad,Bufonidae,Anura,0
+Limnodynastes lignarius,Woodworker Frog,Myobatrachidae,Anura,0
+Humerana miopus,,Ranidae,Anura,0
+Kassina arboricola,,Hyperoliidae,Anura,0
+Bokermannohyla pseudopseudis,,Hylidae,Anura,0
+Espadarana callistomma,Beautiful eyes Glassfrog,Centrolenidae,Anura,0
+Nymphargus balionotus,,Centrolenidae,Anura,0
+Osteocephalus vilarsi,,Hylidae,Anura,0
+Pristimantis cremnobates,,Strabomantidae,Anura,0
+Rana dunni,,Ranidae,Anura,0
+Gastrotheca orophylax,,Hemiphractidae,Anura,0
+Ranitomeya ventrimaculata,Amazonian Poison Frog,Dendrobatidae,Anura,0
+Zhangixalus prominanus,,Rhacophoridae,Anura,1
+Babina subaspera,Otton frog,Ranidae,Anura,0
+Pristimantis medemi,,Strabomantidae,Anura,0
+Argenteohyla siemersi,,Hylidae,Anura,0
+Pristimantis ginesi,,Strabomantidae,Anura,0
+Proceratophrys goyana,,Odontophrynidae,Anura,0
+Rana huanrensis,Huanren Frog,Ranidae,Anura,0
+Nectophrynoides vestergaardi,Vestergaard's Forest Toad,Bufonidae,Anura,0
+Bufo gargarizans,Asiatic Toad,Bufonidae,Anura,0
+Gephyromantis angano,,Mantellidae,Anura,0
+Cornufer schmidti,,Ceratobatrachidae,Anura,0
+Incilius canaliferus,,Bufonidae,Anura,0
+Eleutherodactylus pinarensis,Cuban Pineland Frog,Eleutherodactylidae,Anura,0
+Smilisca cyanosticta,,Hylidae,Anura,0
+Rhinella castaneotica,,Bufonidae,Anura,0
+Dendrobates leucomelas,Yellow-headed Poison Frog,Dendrobatidae,Anura,0
+Pseudophilautus limbus,,Rhacophoridae,Anura,0
+Bufo bufo,Common Toad,Bufonidae,Anura,0
+Eleutherodactylus albipes,Turquino White-footed Frog,Eleutherodactylidae,Anura,0
+Raorchestes tinniens,,Rhacophoridae,Anura,0
+Eleutherodactylus grandis,,Eleutherodactylidae,Anura,1
+Breviceps macrops,Desert rain frog,Brevicipitidae,Anura,0
+Crossodactylus trachystomus,,Hylodidae,Anura,0
+Litoria cyclorhyncha,,Hylidae,Anura,0
+Pristimantis danae,,Strabomantidae,Anura,0
+Leptodactylus riveroi,,Leptodactylidae,Anura,1
+Pseudophilautus reticulatus,Reticulate tree frog,Rhacophoridae,Anura,0
+Incilius valliceps,Southern Gulf Coast Toad,Bufonidae,Anura,0
+Rhinella tacana,,Bufonidae,Anura,0
+Leptopelis argenteus,Silvery Tree Frog,Arthroleptidae,Anura,0
+Cophyla berara,,Microhylidae,Anura,1
+Minervarya kirtisinghei,Mountain Paddy Field Frog,Dicroglossidae,Anura,0
+Sarcohyla charadricola,,Hylidae,Anura,0
+Fejervarya multistriata,Grassfrog,Dicroglossidae,Anura,0
+Gastrotheca recava,,Hemiphractidae,Anura,0
+Meristogenys poecilus,,Ranidae,Anura,0
+Eleutherodactylus schwartzi,Virgin Islands Khaki Frog,Eleutherodactylidae,Anura,0
+Amazophrynella minuta,,Bufonidae,Anura,1
+Sclerophrys pentoni,Penton's toad,Bufonidae,Anura,0
+Theloderma bicolor,,Rhacophoridae,Anura,0
+Rhacophorus vampyrus,Vampire Flying Frog,Rhacophoridae,Anura,0
+Litoria pygmaea,,Hylidae,Anura,0
+Hyperolius spatzi,,Hyperoliidae,Anura,0
+Hyperolius glandicolor,,Hyperoliidae,Anura,0
+Sclerophrys blanfordii,,Bufonidae,Anura,0
+Xenopus parafraseri,Upland Clawed Frog,Pipidae,Anura,1
+Pristimantis riveroi,,Strabomantidae,Anura,0
+Cardioglossa elegans,,Arthroleptidae,Anura,0
+Boophis williamsi,,Mantellidae,Anura,0
+Mixophyes fasciolatus,Great Barred-Frog,Myobatrachidae,Anura,0
+Scinax danae,,Hylidae,Anura,0
+Scinax cruentommus,,Hylidae,Anura,0
+Hyperolius baumanni,,Hyperoliidae,Anura,0
+Sclerophrys maculata,Flat-backed Toad,Bufonidae,Anura,1
+Ameerega bilinguis,,Dendrobatidae,Anura,0
+Chiasmocleis albopunctata,,Microhylidae,Anura,1
+Microhyla ornata,Ornate Narrow-Mouthed Toad,Microhylidae,Anura,0
+Hyperolius kihangensis,,Hyperoliidae,Anura,0
+Espadarana audax,Napo Giant Glass Frog,Centrolenidae,Anura,0
+Platypelis ando,,Microhylidae,Anura,0
+Theloderma lateriticum,Brick-red Bug-eyed Frog,Rhacophoridae,Anura,0
+Phrynopus dumicola,,Strabomantidae,Anura,0
+Hyloxalus exasperatus,,Dendrobatidae,Anura,0
+Amolops granulosus,,Ranidae,Anura,0
+Teratohyla pulverata,Dusty Glassfrog,Centrolenidae,Anura,0
+Incilius alvarius,Sonoran Desert Toad,Bufonidae,Anura,1
+Eleutherodactylus mariposa,Cuban Butterfly-marked Frog,Eleutherodactylidae,Anura,0
+Litoria myola,Kuranda Tree Frog,Hylidae,Anura,0
+Pristimantis penelopus,,Strabomantidae,Anura,0
+Pristimantis melanogaster,,Strabomantidae,Anura,0
+Rana juliani,,Ranidae,Anura,0
+Synapturanus rabus,,Microhylidae,Anura,0
+Scinax manriquei,,Hylidae,Anura,0
+Hyperolius riggenbachi,Riggenbach's Reed Frog,Hyperoliidae,Anura,0
+Hyla simplex,,Hylidae,Anura,0
+Pristimantis chiastonotus,,Strabomantidae,Anura,0
+Bokermannohyla oxente,,Hylidae,Anura,0
+Proceratophrys vielliardi,,Odontophrynidae,Anura,0
+Trachycephalus cunauaru,,Hylidae,Anura,0
+Physalaemus lisei,,Leptodactylidae,Anura,0
+Crossodactylus caramaschii,,Hylodidae,Anura,0
+Assa darlingtoni,Pouched Frog,Myobatrachidae,Anura,0
+Mantidactylus alutus,,Mantellidae,Anura,1
+Hyperolius concolor,Variable Reed Frog,Hyperoliidae,Anura,0
+Pseudophryne australis,Red-crowned Toadlet,Myobatrachidae,Anura,0
+Pristimantis sanctaemartae,,Strabomantidae,Anura,0
+Craugastor lineatus,,Craugastoridae,Anura,0
+Glyphoglossus smithi,,Microhylidae,Anura,0
+Odontophrynus occidentalis,,Odontophrynidae,Anura,0
+Hydrophylax malabaricus,,Ranidae,Anura,0
+Anaxyrus baxteri,Wyoming Toad,Bufonidae,Anura,0
+Litoria cavernicola,Cave-dwelling Frog,Hylidae,Anura,0
+Duttaphrynus kotagamai,Kotagama's Dwarf Toad,Bufonidae,Anura,0
+Amietia poyntoni,Poynton's River Frog,Pyxicephalidae,Anura,0
+Rana iberica,Iberian Frog,Ranidae,Anura,0
+Batrachyla taeniata,,Batrachylidae,Anura,0
+Dendropsophus salli,,Hylidae,Anura,0
+Pseudis cardosoi,,Hylidae,Anura,0
+Atelopus carrikeri,,Bufonidae,Anura,0
+Epipedobates machalilla,,Dendrobatidae,Anura,0
+Microhyla fissipes,Ornate Chorus Frog,Microhylidae,Anura,1
+Ceratophrys aurita,,Ceratophryidae,Anura,0
+Boana fasciata,Gunther's Banded Treefrog,Hylidae,Anura,0
+Limnonectes gyldenstolpei,,Dicroglossidae,Anura,0
+Proceratophrys branti,,Odontophrynidae,Anura,0
+Tomopterna cryptotis,Cryptic sand frog,Pyxicephalidae,Anura,0
+Craugastor gabbi,Gabb's Dirt Frog,Craugastoridae,Anura,0
+Phrynobatrachus intermedius,,Phrynobatrachidae,Anura,0
+Hyperolius viridiflavus,,Hyperoliidae,Anura,1
+Polypedates pseudocruciger,,Rhacophoridae,Anura,0
+Philautus kerangae,,Rhacophoridae,Anura,1
+Hyloscirtus alytolylax,,Hylidae,Anura,0
+Pseudophilautus sarasinorum,,Rhacophoridae,Anura,0
+Boophis tampoka,,Mantellidae,Anura,0
+Mertensophryne nyikae,Nyika Dwarf Toad,Bufonidae,Anura,0
+Raorchestes bombayensis,,Rhacophoridae,Anura,0
+Hyloscirtus tigrinus,,Hylidae,Anura,0
+Cacosternum namaquense,Namaqua dainty frog,Pyxicephalidae,Anura,0
+Atelognathus solitarius,,Batrachylidae,Anura,0
+Bokermannohyla alvarengai,,Hylidae,Anura,0
+Zhangixalus dugritei,,Rhacophoridae,Anura,0
+Ecnomiohyla valancifer,San Martin Fringe-Limbed Treefrog,Hylidae,Anura,0
+Spinomantis brunae,Bruna's Madagascan stream frog,Mantellidae,Anura,0
+Pseudophilautus procax,,Rhacophoridae,Anura,0
+Craugastor stuarti,,Craugastoridae,Anura,0
+Phrynobatrachus perpalmatus,,Phrynobatrachidae,Anura,0
+Leptopelis christyi,,Arthroleptidae,Anura,0
+Dendropsophus pseudomeridianus,,Hylidae,Anura,0
+Dendropsophus luteoocellatus,,Hylidae,Anura,1
+Centrolene paezorum,,Centrolenidae,Anura,0
+Petropedetes cameronensis,,Petropedetidae,Anura,0
+Craugastor laevissimus,,Craugastoridae,Anura,0
+Boophis opisthodon,,Mantellidae,Anura,1
+Phrynobatrachus ruthbeateae,Ruth Beate's Puddle Frog,Phrynobatrachidae,Anura,0
+Taruga longinasus,Sharp-snout saddled tree frog,Rhacophoridae,Anura,0
+Boophis reticulatus,,Mantellidae,Anura,1
+Raorchestes thodai,,Rhacophoridae,Anura,0
+Quasipaa spinosa,,Dicroglossidae,Anura,0
+Dendropsophus garagoensis,,Hylidae,Anura,0
+Indosylvirana indica,Indian Golden-backed frog,Ranidae,Anura,0
+Ameerega macero,,Dendrobatidae,Anura,0
+Diasporus anthrax,,Eleutherodactylidae,Anura,0
+Osteocephalus sangay,Sangay Casqued Treefrog,Hylidae,Anura,0
+Tomopterna damarensis,,Pyxicephalidae,Anura,0
+Hyloscirtus armatus,,Hylidae,Anura,0
+Proceratophrys laticeps,,Odontophrynidae,Anura,0
+Noblella losamigos,Los Amigos Leaf Frog,Strabomantidae,Anura,0
+Amolops marmoratus,Pegu torrent frog,Ranidae,Anura,0
+Litoria nigrofrenata,Bridle Frog,Hylidae,Anura,0
+Phyllomedusa camba,,Hylidae,Anura,0
+Hyperolius bolifambae,,Hyperoliidae,Anura,0
+Allobates hodli,,Dendrobatidae,Anura,0
+Agalychnis moreletii,Black-eyed Tree Frog,Hylidae,Anura,0
+Sumaterana montana,Mountain Cascade Frog,Ranidae,Anura,0
+Nyctimantis galeata,,Hylidae,Anura,0
+Rana asiatica,Central Asiatic Frog,Ranidae,Anura,0
+Limnonectes blythii,Blyth's River Frog,Dicroglossidae,Anura,0
+Rulyrana mcdiarmidi,McDiarmid’s Glassfrog,Centrolenidae,Anura,0
+Scinax heyeri,,Hylidae,Anura,0
+Rana sierramadrensis,,Ranidae,Anura,0
+Boophis asquithi,,Mantellidae,Anura,0
+Scinax machadoi,,Hylidae,Anura,0
+Euphlyctis aloysii,,Dicroglossidae,Anura,0
+Dendropsophus timbeba,,Hylidae,Anura,0
+Pseudophilautus sordidus,,Rhacophoridae,Anura,0
+Anomaloglossus surinamensis,Suriname Rocket Frog,Dendrobatidae,Anura,0
+Hyloscirtus lynchi,,Hylidae,Anura,0
+Proceratophrys cururu,,Odontophrynidae,Anura,0
+Rentapia everetti,Marbled Tree Toad,Bufonidae,Anura,0
+Hyalinobatrachium lemur,,Centrolenidae,Anura,0
+Zhangixalus viridis,Okinawa Green Tree Frog,Rhacophoridae,Anura,0
+Amazophrynella bokermanni,,Bufonidae,Anura,0
+Leptodactylus rhodonotus,,Leptodactylidae,Anura,0
+Leptodactylus savagei,Savage's thin-toed frog,Leptodactylidae,Anura,0
+Arthroleptis lonnbergi,,Arthroleptidae,Anura,0
+Boana albomarginata,,Hylidae,Anura,1
+Gastrotheca litonedis,,Hemiphractidae,Anura,0
+Ptychadena trinodis,,Ptychadenidae,Anura,1
+Pristimantis altae,,Strabomantidae,Anura,0
+Ansonia hanitschi,,Bufonidae,Anura,0
+Theloderma gordoni,,Rhacophoridae,Anura,0
+Pristimantis gaigei,,Strabomantidae,Anura,0
+Chiasmocleis avilapiresae,,Microhylidae,Anura,0
+Melanophryniscus tumifrons,,Bufonidae,Anura,0
+Hyla chrysoscelis,Cope's Gray Treefrog,Hylidae,Anura,1
+Rhacophorus exechopygus,,Rhacophoridae,Anura,0
+Arthroleptis poecilonotus,,Arthroleptidae,Anura,0
+Engystomops pustulatus,,Leptodactylidae,Anura,1
+Pristimantis cristinae,,Strabomantidae,Anura,0
+Sclerophrys mauritanica,Mauritanian Toad,Bufonidae,Anura,0
+Incilius mccoyi,McCoy's Toad,Bufonidae,Anura,0
+Pristimantis megalops,,Strabomantidae,Anura,0
+Pipa aspera,,Pipidae,Anura,0
+Duttaphrynus cyphosus,Projective-Occiputed Toad,Bufonidae,Anura,0
+Cardioglossa occidentalis,Western long-fingered frog,Arthroleptidae,Anura,0
+Niceforonia nigrovittata,,Strabomantidae,Anura,0
+Abavorana luctuosa,,Ranidae,Anura,0
+Rhacophorus rhodopus,,Rhacophoridae,Anura,1
+Boehmantis microtympanum,,Mantellidae,Anura,0
+Niceforonia dolops,,Strabomantidae,Anura,0
+Proceratophrys minuta,,Odontophrynidae,Anura,0
+Craugastor greggi,,Craugastoridae,Anura,0
+Pleurodema cinereum,,Leptodactylidae,Anura,0
+Pelobatrachus edwardinae,,Megophryidae,Anura,0
+Pseudophilautus puranappu,Puran Appu's Shrub Frog; Puran Appuge panduru madiya,Rhacophoridae,Anura,0
+Amazophrynella moisesii,,Bufonidae,Anura,0
+Crinia deserticola,Desert Froglet,Myobatrachidae,Anura,1
+Boophis pauliani,,Mantellidae,Anura,0
+Incilius melanochlorus,Wet Forest Toad,Bufonidae,Anura,0
+Pristimantis katoptroides,,Strabomantidae,Anura,0
+Leiopelma archeyi,Archey's Frog,Leiopelmatidae,Anura,0
+Ameerega ingeri,,Dendrobatidae,Anura,0
+Peltophryne lemur,Puerto Rican Toad,Bufonidae,Anura,0
+Litoria latopalmata,Broad-palmed Frog,Hylidae,Anura,1
+Pristimantis fallax,,Strabomantidae,Anura,0
+Heterixalus rutenbergi,,Hyperoliidae,Anura,1
+Polypedates teraiensis,,Rhacophoridae,Anura,0
+Peltophryne empusa,Cuban Small-eared Toad,Bufonidae,Anura,0
+Pristimantis reichlei,,Strabomantidae,Anura,0
+Leptodactylodon perreti,,Arthroleptidae,Anura,0
+Ischnocnema randorum,,Brachycephalidae,Anura,0
+Pseudophilautus auratus,,Rhacophoridae,Anura,0
+Leptodactylus stenodema,,Leptodactylidae,Anura,1
+Physalaemus olfersii,,Leptodactylidae,Anura,1
+Zhangixalus burmanus,,Rhacophoridae,Anura,0
+Pristimantis llanganati,Llanganates Rain Frog; Cutin de los Llanganates,Strabomantidae,Anura,0
+Bryophryne bustamantei,,Strabomantidae,Anura,0
+Kalophrynus nubicola,Blue-spotted Sticky Frog,Microhylidae,Anura,0
+Hemiphractus fasciatus,,Hemiphractidae,Anura,0
+Leptopelis grandiceps,,Arthroleptidae,Anura,0
+Limnonectes leporinus,,Dicroglossidae,Anura,0
+Rana kukunoris,,Ranidae,Anura,0
+Andinobates fulguritus,Yellow-bellied Poison Frog,Dendrobatidae,Anura,0
+Megophrys montana,Asian Horned Frog; Asian Spadefoot Toad,Megophryidae,Anura,0
+Cycloramphus fuliginosus,Tschudi's Button Frog,Cycloramphidae,Anura,0
+Physalaemus atlanticus,,Leptodactylidae,Anura,1
+Craugastor castanedai,,Craugastoridae,Anura,0
+Scinax curicica,,Hylidae,Anura,0
+Mantidactylus bellyi,,Mantellidae,Anura,1
+Kalophrynus palmatissimus,Web-footed Sticky Frog,Microhylidae,Anura,0
+Kurixalus idiootocus,Temple Tree Frog,Rhacophoridae,Anura,0
+Thoropa miliaris,,Cycloramphidae,Anura,0
+Anaxyrus americanus,American Toad,Bufonidae,Anura,0
+Hyperolius balfouri,,Hyperoliidae,Anura,0
+Pseudophilautus microtympanum,,Rhacophoridae,Anura,0
+Nyctixalus pictus,Peter's Tree Frog,Rhacophoridae,Anura,0
+Papurana grisea,,Ranidae,Anura,0
+Oreophryne matawan,,Microhylidae,Anura,1
+Tepuihyla exophthalma,,Hylidae,Anura,0
+Hoplobatrachus occipitalis,Crowned bullfrog,Dicroglossidae,Anura,1
+Hyloscirtus denticulentus,,Hylidae,Anura,0
+Leptobrachella arayai,,Megophryidae,Anura,0
+Chimerella mariaelenae,Maria Elena's Glassfrog,Centrolenidae,Anura,0
+Ameerega cainarachi,,Dendrobatidae,Anura,0
+Hyloxalus jacobuspetersi,,Dendrobatidae,Anura,0
+Scutiger wuguanfui,,Megophryidae,Anura,0
+Odontophrynus lavillai,,Odontophrynidae,Anura,0
+Hyperolius benguellensis,,Hyperoliidae,Anura,0
+Cochranella erminea,,Centrolenidae,Anura,0
+Sumaterana dabulescens,Gayo Cascade Frog,Ranidae,Anura,0
+Phyllomedusa tomopterna,Tiger-striped Leaf Frog,Hylidae,Anura,1
+Breviceps rosei,Rose's rain frog,Brevicipitidae,Anura,0
+Dendropsophus koechlini,Koechlin's Treefrog,Hylidae,Anura,0
+Pseudophryne major,Large Toadlet,Myobatrachidae,Anura,0
+Eleutherodactylus rufescens,,Eleutherodactylidae,Anura,0
+Raorchestes lechiya,Lechiyappan's bush frog,Rhacophoridae,Anura,0
+Rana berlandieri,Rio Grande Leopard Frog,Ranidae,Anura,1
+Leptodactylodon bicolor,,Arthroleptidae,Anura,0
+Litoria bicolor,Northern Dwarf Tree Frog,Hylidae,Anura,1
+Gephyromantis blanci,,Mantellidae,Anura,1
+Craugastor vocalis,,Craugastoridae,Anura,0
+Cyclorana occidentalis,Western Water-holding Frog,Hylidae,Anura,0
+Hyalinobatrachium pellucidum,Andean Glassfrog,Centrolenidae,Anura,0
+Microhyla perparva,,Microhylidae,Anura,0
+Rhombophryne matavy,,Microhylidae,Anura,0
+Kalophrynus eok,Eok Sticky Frog,Microhylidae,Anura,0
+Boana albonigra,,Hylidae,Anura,0
+Plectrohyla glandulosa,,Hylidae,Anura,0
+Rhinella sternosignata,,Bufonidae,Anura,0
+Osteocephalus fuscifacies,,Hylidae,Anura,0
+Excidobates mysteriosus,Marañón Poison Frog,Dendrobatidae,Anura,1
+Boana caingua,,Hylidae,Anura,1
+Triprion spinosus,Coronated Treefrog,Hylidae,Anura,0
+Megastomatohyla pellita,Oaxacan Yellow Treefrog,Hylidae,Anura,0
+Leptodactylodon erythrogaster,,Arthroleptidae,Anura,0
+Ansonia latidisca,,Bufonidae,Anura,0
+Pristimantis pardalis,,Strabomantidae,Anura,0
+Thoropa megatympanum,,Cycloramphidae,Anura,0
+Craugastor mexicanus,,Craugastoridae,Anura,0
+Atelopus hoogmoedi,,Bufonidae,Anura,0
+Hyla wrightorum,Arizona Treefrog,Hylidae,Anura,0
+Kalophrynus intermedius,Mengiong Sticky Frog,Microhylidae,Anura,0
+Dendropsophus microcephalus,Small-headed Dwarf Treefrog,Hylidae,Anura,0
+Hyla hallowellii,Hallowell's Tree Frog,Hylidae,Anura,0
+Callulina kisiwamsitu,,Brevicipitidae,Anura,0
+Ptychohyla hypomykter,,Hylidae,Anura,0
+Eleutherodactylus dilatus,,Eleutherodactylidae,Anura,0
+Dendropsophus delarivai,,Hylidae,Anura,0
+Rana clamitans,Bronze Frog,Ranidae,Anura,0
+Adenomus kelaartii,Kelaart`s Dwarf Toad,Bufonidae,Anura,0
+Breviceps poweri,Power's rain frog,Brevicipitidae,Anura,0
+Ptychadena delphina,,Ptychadenidae,Anura,0
+Afrixalus spinifrons,Natal Spiny Reed Frog,Hyperoliidae,Anura,0
+Ptychadena chrysogaster,,Ptychadenidae,Anura,0
+Ranitomeya reticulata,Red-backed Poison Frog,Dendrobatidae,Anura,0
+Isthmohyla picadoi,Volcan Barba Treefrog,Hylidae,Anura,0
+Ansonia albomaculata,,Bufonidae,Anura,0
+Spea multiplicata,Mexican Spadefoot,Scaphiopodidae,Anura,1
+Colostethus fraterdanieli,,Dendrobatidae,Anura,0
+Anaxyrus canorus,Yosemite Toad,Bufonidae,Anura,1
+Petropedetes euskircheni,,Petropedetidae,Anura,0
+Phyllomedusa bahiana,,Hylidae,Anura,0
+Bahius bilineatus,Two-lined Robber Frog,Strabomantidae,Anura,0
+Pristimantis salaputium,,Strabomantidae,Anura,0
+Pristimantis palmeri,,Strabomantidae,Anura,0
+Microhyla annectens,,Microhylidae,Anura,0
+Scinax altae,,Hylidae,Anura,0
+Rhacophorus orlovi,,Rhacophoridae,Anura,0
+Oreobates remotus,,Strabomantidae,Anura,0
+Zhangixalus owstoni,Owston's Green Tree Frog,Rhacophoridae,Anura,0
+Dendropsophus seniculus,,Hylidae,Anura,0
+Litoria tornieri,Tornier's Frog,Hylidae,Anura,0
+Amolops gerbillus,,Ranidae,Anura,0
+Scinax perereca,,Hylidae,Anura,0
+Fritziana fissilis,,Hemiphractidae,Anura,0
+Dendropsophus phlebodes,San Carlos Dwarf Treefrog,Hylidae,Anura,0
+Hyla meridionalis,Mediterranean Tree Frog,Hylidae,Anura,0
+Gastrotheca espeletia,,Hemiphractidae,Anura,0
+Hydrophylax bahuvistara,Wide-spread Fungoid Frog,Ranidae,Anura,0
+Chiasmocleis hudsoni,,Microhylidae,Anura,1
+Boophis liami,,Mantellidae,Anura,1
+Hyloxalus nexipus,,Dendrobatidae,Anura,0
+Gephyromantis salegy,Salegy forest frog,Mantellidae,Anura,1
+Leptodactylus bolivianus,Rana-Sapo boliviano,Leptodactylidae,Anura,1
+Plethodontohyla mihanika,,Microhylidae,Anura,0
+Trachycephalus atlas,,Hylidae,Anura,0
+Pseudopaludicola facureae,,Leptodactylidae,Anura,1
+Odorrana chloronota,,Ranidae,Anura,0
+Elachistocleis muiraquitan,,Microhylidae,Anura,0
+Scutiger spinosus,,Megophryidae,Anura,0
+Pristimantis atratus,,Strabomantidae,Anura,0
+Allobates granti,,Dendrobatidae,Anura,0
+Tomopterna luganga,,Pyxicephalidae,Anura,0
+Microhyla pineticola,Pine (pigmy) narrow-mouth frog; Nhai bau Thong (Vietnamese),Microhylidae,Anura,0
+Elachistocleis cesarii,,Microhylidae,Anura,1
+Leptopelis brevirostris,,Arthroleptidae,Anura,0
+Arthroleptis fichika,Hidden Squeaker Frog,Arthroleptidae,Anura,0
+Micrixalus kottigeharensis,Kottigehar Dancing Frog,Micrixalidae,Anura,0
+Scinax staufferi,Middle American Snouted Treefrog,Hylidae,Anura,0
+Arthroleptis sylvaticus,,Arthroleptidae,Anura,0
+Discoglossus scovazzi,Moroccan Painted Frog,Alytidae,Anura,0
+Melanophryniscus dorsalis,Red-Bellied Toad,Bufonidae,Anura,0
+Ischnocnema oea,,Brachycephalidae,Anura,0
+Dendropsophus novaisi,,Hylidae,Anura,0
+Zhangixalus smaragdinus,,Rhacophoridae,Anura,0
+Nyctibatrachus karnatakaensis,wrinkled frog,Nyctibatrachidae,Anura,0
+Xenopus clivii,,Pipidae,Anura,1
+Rana lenca,Lenca Leopard Frog,Ranidae,Anura,0
+Pseudopaludicola mineira,,Leptodactylidae,Anura,0
+Lepidobatrachus llanensis,,Ceratophryidae,Anura,0
+Cyclorana verrucosa,Rough Frog,Hylidae,Anura,1
+Agalychnis buckleyi,Warty Leaf Frog,Hylidae,Anura,0
+Rhinella veraguensis,,Bufonidae,Anura,0
+Gephyromantis corvus,,Mantellidae,Anura,1
+Hyloscirtus sarampiona,,Hylidae,Anura,0
+Ameerega hahneli,,Dendrobatidae,Anura,0
+Dendropsophus miyatai,,Hylidae,Anura,0
+Duttaphrynus parietalis,,Bufonidae,Anura,0
+Proceratophrys schirchi,,Odontophrynidae,Anura,0
+Pristimantis cruciocularis,,Strabomantidae,Anura,0
+Strongylopus grayii,Gray's stream frog,Pyxicephalidae,Anura,0
+Spicospina flammocaerulea,Sunset Frog,Myobatrachidae,Anura,0
+Rhacophorus bengkuluensis,,Rhacophoridae,Anura,0
+Physalaemus spiniger,,Leptodactylidae,Anura,0
+Boana boans,Rusty Treefrog,Hylidae,Anura,1
+Odontophrynus americanus,American Ground Frog,Odontophrynidae,Anura,1
+Pristimantis imitatrix,,Strabomantidae,Anura,0
+Odorrana livida,Tenasserim Odorfrog,Ranidae,Anura,0
+Celsiella vozmedianoi,,Centrolenidae,Anura,0
+Ranitomeya fantastica,Crowned Poison Frog,Dendrobatidae,Anura,0
+Rana forreri,Forrer's Grass Frog,Ranidae,Anura,0
+Eleutherodactylus michaelschmidi,Sierra Maestra Blotched Frog,Eleutherodactylidae,Anura,0
+Phyllodytes maculosus,,Hylidae,Anura,0
+Litoria barringtonensis,Barrington Tops Frog,Hylidae,Anura,0
+Sclerophrys villiersi,,Bufonidae,Anura,0
+Nanorana chayuensis,,Dicroglossidae,Anura,0
+Incilius aucoinae,,Bufonidae,Anura,0
+Amolops hongkongensis,,Ranidae,Anura,0
+Ecnomiohyla rabborum,Rabbs' Fringe-limbed Treefrog,Hylidae,Anura,0
+Pristimantis librarius,,Strabomantidae,Anura,0
+Lepidobatrachus laevis,Budgett's Frog,Ceratophryidae,Anura,0
+Scinax albicans,,Hylidae,Anura,0
+Chiasmocleis antenori,,Microhylidae,Anura,0
+Spinomantis microtis,,Mantellidae,Anura,0
+Hyloxalus sordidatus,,Dendrobatidae,Anura,0
+Eleutherodactylus martinicensis,Martinique Frog,Eleutherodactylidae,Anura,0
+Phyllomedusa chaparroi,,Hylidae,Anura,0
+Cycloramphus boraceiensis,Boraceia Button Frog,Cycloramphidae,Anura,0
+Cardioglossa venusta,,Arthroleptidae,Anura,0
+Oreophryne picticrus,,Microhylidae,Anura,1
+Hypopachus barberi,,Microhylidae,Anura,0
+Zhangixalus dennysi,,Rhacophoridae,Anura,1
+Leptopelis broadleyi,,Arthroleptidae,Anura,0
+Leptobrachella brevicrus,,Megophryidae,Anura,0
+Zhangixalus omeimontis,,Rhacophoridae,Anura,0
+Rhaebo olallai,,Bufonidae,Anura,0
+Heleioporus albopunctatus,Western Spotted Frog,Myobatrachidae,Anura,0
+Pristimantis balionotus,,Strabomantidae,Anura,0
+Hylomantis aspera,,Hylidae,Anura,0
+Phrynobatrachus dispar,Peters' River Frog,Phrynobatrachidae,Anura,0
+Hyloscirtus torrenticola,,Hylidae,Anura,0
+Callulina hanseni,,Brevicipitidae,Anura,0
+Hyloscirtus colymba,,Hylidae,Anura,0
+Pristimantis actites,,Strabomantidae,Anura,0
+Kurixalus baliogaster,,Rhacophoridae,Anura,0
+Rhacophorus robertingeri,,Rhacophoridae,Anura,0
+Scinax uruguayus,,Hylidae,Anura,0
+Crinia signifera,Common Froglet,Myobatrachidae,Anura,1
+Spea hammondii,Western Spadefoot,Scaphiopodidae,Anura,0
+Phyllobates vittatus,Golfo Dulce Poison-Dart Frog,Dendrobatidae,Anura,0
+Boophis burgeri,,Mantellidae,Anura,1
+Bokermannohyla napolii,,Hylidae,Anura,1
+Hyloscirtus simmonsi,,Hylidae,Anura,0
+Bokermannohyla caramaschii,,Hylidae,Anura,0
+Leptobrachium waysepuntiense,,Megophryidae,Anura,0
+Pipa arrabali,,Pipidae,Anura,0
+Philautus davidlabangi,,Rhacophoridae,Anura,0
+Ptychadena christyi,,Ptychadenidae,Anura,0
+Hyperolius fusciventris,,Hyperoliidae,Anura,0
+Oreobates cruralis,,Strabomantidae,Anura,0
+Ptychohyla macrotympanum,,Hylidae,Anura,0
+Bufotes pseudoraddei,Swat Green Toad,Bufonidae,Anura,0
+Rhinella lilyrodriguezae,Lily Rodriguez's Beaked Toad; Sapo picudo de Lily Rodriguezi,Bufonidae,Anura,0
+Lankanectes corrugatus,Corrugated water frog,Nyctibatrachidae,Anura,0
+Allobates flaviventris,Yellow-bellied Stream Frog,Dendrobatidae,Anura,1
+Rhinella pygmaea,,Bufonidae,Anura,1
+Amnirana albolabris,,Ranidae,Anura,0
+Phrynoglossus celebensis,,Dicroglossidae,Anura,0
+Chiasmocleis schubarti,,Microhylidae,Anura,0
+Sylvirana mortenseni,,Ranidae,Anura,0
+Boana marginata,,Hylidae,Anura,0
+Ameerega trivittata,Three-striped Poison Frog (English),Dendrobatidae,Anura,1
+Mantidactylus lugubris,,Mantellidae,Anura,1
+Incilius luetkenii,,Bufonidae,Anura,0
+Engystomops montubio,,Leptodactylidae,Anura,0
+Phyllomedusa trinitatis,Trinidad Leaf-nesting Frog,Hylidae,Anura,0
+Feihyla hansenae,,Rhacophoridae,Anura,0
+Scinax littoralis,,Hylidae,Anura,0
+Cyclorana novaehollandiae,New Holland Frog,Hylidae,Anura,1
+Rhombophryne testudo,,Microhylidae,Anura,1
+Osornophryne guacamayo,,Bufonidae,Anura,0
+Leptobrachium banae,,Megophryidae,Anura,0
+Amolops archotaphus,,Ranidae,Anura,0
+Leptodactylus rhodomerus,Red-thighed thin-toed frog,Leptodactylidae,Anura,0
+Pristimantis atillo,English: Atillo Rain Frog. Spanish: Cutín de Atillo.,Strabomantidae,Anura,0
+Hyperolius koehleri,,Hyperoliidae,Anura,0
+Nymphargus lasgralarias,Las Gralarias Glassfrog; Rana de cristal de Las Gralarias,Centrolenidae,Anura,0
+Gastrophryne elegans,Elegant Narrow-mouthed Toad,Microhylidae,Anura,0
+Kalophrynus heterochirus,Short-fingered Sticky Frog,Microhylidae,Anura,0
+Cyclorana longipes,Long-footed Frog,Hylidae,Anura,0
+Micryletta aishani,Northeast India Paddy Frog,Microhylidae,Anura,0
+Kaloula picta,Slender-Digit Chorus Frog,Microhylidae,Anura,0
+Limnonectes kiziriani,Kizirian’s Frog (English); Ếch nhẽo ki-zi-ri-an (Vietnamese).,Dicroglossidae,Anura,0
+Craugastor rupinius,,Craugastoridae,Anura,0
+Ansonia torrentis,,Bufonidae,Anura,0
+Smilisca baudinii,Common Mexican Treefrog,Hylidae,Anura,0
+Rana vaillanti,Vaillant's frog,Ranidae,Anura,0
+Chiromantis simus,,Rhacophoridae,Anura,0
+Eleutherodactylus atkinsi,Cuban Groin-spotted Frog,Eleutherodactylidae,Anura,0
+Phrynobatrachus steindachneri,,Phrynobatrachidae,Anura,0
+Phrynobatrachus alleni,,Phrynobatrachidae,Anura,0
+Ingerophrynus philippinicus,,Bufonidae,Anura,0
+Alsodes gargola,,Alsodidae,Anura,0
+Hypopachus pictiventris,Southern Narrow-mouthed Toad,Microhylidae,Anura,0
+Scinax similis,,Hylidae,Anura,1
+Amietia nutti,Nutt's River Frog,Pyxicephalidae,Anura,0
+Hyla cinerea,North American Green Treefrog,Hylidae,Anura,1
+Afrixalus quadrivittatus,,Hyperoliidae,Anura,0
+Pristimantis inusitatus,,Strabomantidae,Anura,0
+Boana rosenbergi,,Hylidae,Anura,0
+Ansonia thinthinae,Thin Thin's Stream Toad,Bufonidae,Anura,0
+Cyclorana maini,Main's Frog,Hylidae,Anura,0
+Pristimantis samaipatae,,Strabomantidae,Anura,0
+Cophyla noromalalae,,Microhylidae,Anura,0
+Limnodynastes tasmaniensis,Spotted Grass Frog,Myobatrachidae,Anura,1
+Arthroleptis variabilis,,Arthroleptidae,Anura,0
+Bokermannohyla sazimai,,Hylidae,Anura,1
+Rhacophorus translineatus,,Rhacophoridae,Anura,0
+Blommersia blommersae,,Mantellidae,Anura,1
+Microkayla adenopleura,,Strabomantidae,Anura,0
+Amietia delalandii,Delaland's River Frog,Pyxicephalidae,Anura,0
+Melanophryniscus admirabilis,,Bufonidae,Anura,0
+Rhinella pombali,sapo-cururu,Bufonidae,Anura,0
+Aplastodiscus cavicola,,Hylidae,Anura,0
+Dendrophryniscus berthalutzae,,Bufonidae,Anura,0
+Ranitomeya toraro,,Dendrobatidae,Anura,0
+Adelotus brevis,Tusked Frog,Myobatrachidae,Anura,0
+Agalychnis terranova,,Hylidae,Anura,0
+Theloderma vietnamense,South-Vietnamese Bug-Eyed Frog; Ech Cay San Viet Nam (Vietnamese),Rhacophoridae,Anura,0
+Brachycephalus pitanga,Red Pumpkin Toadlet,Brachycephalidae,Anura,0
+Gastrotheca nebulanastes,Kosñipata Marsupial Frog,Hemiphractidae,Anura,0
+Vandijkophrynus angusticeps,Sand Toad,Bufonidae,Anura,0
+Phyzelaphryne miriamae,Miriam's frog,Eleutherodactylidae,Anura,0
+Hyla annectans,,Hylidae,Anura,0
+Rana italica,,Ranidae,Anura,0
+Breviceps carruthersi,,Brevicipitidae,Anura,0
+Uperoleia daviesae,,Myobatrachidae,Anura,0
+Scarthyla vigilans,Maracaibo Basin Treefrog,Hylidae,Anura,0
+Anodonthyla rouxae,,Microhylidae,Anura,0
+Proceratophrys avelinoi,,Odontophrynidae,Anura,0
+Pelophylax nigromaculatus,Dark-Spotted Frog,Ranidae,Anura,0
+Dendropsophus melanargyreus,,Hylidae,Anura,0
+Mantidactylus mocquardi,,Mantellidae,Anura,0
+Rana macroglossa,,Ranidae,Anura,0
+Ranitomeya variabilis,Variable Poison Frog,Dendrobatidae,Anura,0
+Scinax pedromedinae,,Hylidae,Anura,0
+Pseudacris brachyphona,Mountain Chorus Frog,Hylidae,Anura,0
+Taudactylus eungellensis,Eungella Torrent frog,Myobatrachidae,Anura,0
+Holoaden bradei,,Strabomantidae,Anura,0
+Anaxyrus quercicus,Oak Toad,Bufonidae,Anura,0
+Adenomus kandianus,,Bufonidae,Anura,0
+Litoria citropa,Blue Mountains Tree Frog,Hylidae,Anura,0
+Hyperolius major,,Hyperoliidae,Anura,0
+Mantidactylus melanopleura,,Mantellidae,Anura,1
+Scinax argyreornatus,,Hylidae,Anura,0
+Anaxyrus monfontanus,Hot Creek Toad,Bufonidae,Anura,0
+Hyperolius montanus,,Hyperoliidae,Anura,0
+Hyalinobatrachium fleischmanni,Fleischmann's glass frog,Centrolenidae,Anura,0
+Physalaemus moreirae,Sorocaba Dwarf Frog,Leptodactylidae,Anura,1
+Litoria rothii,Roth's Tree Frog,Hylidae,Anura,1
+Heleophryne orientalis,Eastern Ghost Frog,Heleophrynidae,Anura,0
+Sumaterana crassiovis,,Ranidae,Anura,0
+Chiasmocleis anatipes,,Microhylidae,Anura,0
+Megaelosia goeldii,,Hylodidae,Anura,0
+Gastrotheca prasina,,Hemiphractidae,Anura,0
+Physalaemus barrioi,Bocaina Dwarf Frog,Leptodactylidae,Anura,1
+Gephyromantis leucocephalus,,Mantellidae,Anura,1
+Cardioglossa manengouba,,Arthroleptidae,Anura,0
+Minervarya teraiensis,,Dicroglossidae,Anura,0
+Hyperolius langi,,Hyperoliidae,Anura,0
+Boana picturata,,Hylidae,Anura,0
+Guibemantis wattersoni,Watterson’s tree frog,Mantellidae,Anura,0
+Minyobates steyermarki,Demonic Poison Frog,Dendrobatidae,Anura,0
+Geobatrachus walkeri,,Strabomantidae,Anura,0
+Silverstoneia flotator,,Dendrobatidae,Anura,0
+Amolops panhai,Peninsular Torrentfrog,Ranidae,Anura,0
+Diasporus gularis,,Eleutherodactylidae,Anura,0
+Lithodytes lineatus,Painted Ant-nest Frog,Leptodactylidae,Anura,1
+Boana nympha,,Hylidae,Anura,0
+Boophis picturatus,,Mantellidae,Anura,1
+Rhinoderma darwinii,Darwin's Frog,Rhinodermatidae,Anura,0
+Craugastor rugosus,,Craugastoridae,Anura,0
+Duttaphrynus melanostictus,Southeast Asian Toad,Bufonidae,Anura,1
+Bokermannohyla izecksohni,,Hylidae,Anura,0
+Micrixalus nelliyampathi,Nelliyampathi Dancing Frog,Micrixalidae,Anura,0
+Stumpffia huwei,,Microhylidae,Anura,1
+Pristimantis celator,,Strabomantidae,Anura,0
+Dyscophus antongilii,Tomato Frog,Microhylidae,Anura,1
+Uperodon systoma,Marbled Balloon Frog,Microhylidae,Anura,0
+Scaphiophryne marmorata,,Microhylidae,Anura,0
+Alsodes igneus,,Alsodidae,Anura,0
+Tomopterna delalandii,Delalande's sand frog,Pyxicephalidae,Anura,0
+Hoplobatrachus tigerinus,Indus Valley Bullfrog,Dicroglossidae,Anura,0
+Dendropsophus giesleri,,Hylidae,Anura,0
+Atelopus nahumae,,Bufonidae,Anura,0
+Rhinella arenarum,,Bufonidae,Anura,0
+Incilius mazatlanensis,,Bufonidae,Anura,0
+Leptobrachella macrops,Big-eyed litter frog; “Cóc mày mat to”.,Megophryidae,Anura,0
+Hyloxalus craspedoceps,,Dendrobatidae,Anura,0
+Stumpffia madagascariensis,,Microhylidae,Anura,1
+Sylvirana montosa,,Ranidae,Anura,0
+Rhinella inca,,Bufonidae,Anura,0
+Scaphiophryne menabensis,,Microhylidae,Anura,0
+Diasporus tinker,,Eleutherodactylidae,Anura,0
+Hyalinobatrachium chirripoi,Suretka glass frog,Centrolenidae,Anura,0
+Proceratophrys sanctaritae,,Odontophrynidae,Anura,0
+Guibemantis flavobrunneus,,Mantellidae,Anura,0
+Phyllobates bicolor,Black Leg Poison Dart Frog,Dendrobatidae,Anura,0
+Incilius porteri,,Bufonidae,Anura,0
+Odorrana indeprensa,,Ranidae,Anura,0
+Cardioglossa pulchra,,Arthroleptidae,Anura,0
+Agalychnis taylori,,Hylidae,Anura,0
+Zhangixalus schlegelii,Schlegel's Green Tree Frog,Rhacophoridae,Anura,0
+Limnonectes macrodon,,Dicroglossidae,Anura,0
+Boana xerophylla,Emerald-eyed Treefrog,Hylidae,Anura,0
+Myobatrachus gouldii,Turtle Frog,Myobatrachidae,Anura,0
+Oreophryne monticola,,Microhylidae,Anura,0
+Pristimantis muchimuk,Muchimuk rain frog; Ranita muchimuk,Strabomantidae,Anura,0
+Uperoleia crassa,Fat Toadlet,Myobatrachidae,Anura,0
+Boophis brachychir,,Mantellidae,Anura,1
+Philautus leitensis,Leyte Tree Frog,Rhacophoridae,Anura,0
+Rana amurensis,Siberian Wood Frog,Ranidae,Anura,0
+Hylarana latouchii,,Ranidae,Anura,0
+Ingerophrynus galeatus,,Bufonidae,Anura,0
+Pristimantis bearsei,,Strabomantidae,Anura,0
+Arthroleptis nguruensis,,Arthroleptidae,Anura,0
+Gephyromantis luteus,,Mantellidae,Anura,0
+Rana septentrionalis,Mink Frog,Ranidae,Anura,0
+Incilius holdridgei,Holdridge's Toad,Bufonidae,Anura,0
+Litoria nigropunctata,,Hylidae,Anura,0
+Litoria adelaidensis,Slender Tree Frog,Hylidae,Anura,0
+Craugastor melanostictus,Black-lined Robber Frog,Craugastoridae,Anura,0
+Blommersia grandisonae,,Mantellidae,Anura,1
+Litoria dahlii,Dahl's Aquatic Frog,Hylidae,Anura,0
+Kassina cassinoides,,Hyperoliidae,Anura,1
+Spinomantis guibei,,Mantellidae,Anura,1
+Hyperolius frontalis,,Hyperoliidae,Anura,0
+Leptodactylus flavopictus,,Leptodactylidae,Anura,0
+Allobates femoralis,,Dendrobatidae,Anura,1
+Pristimantis ardyae,,Strabomantidae,Anura,0
+Zhangixalus dulitensis,,Rhacophoridae,Anura,0
+Arthroleptis adolfifriederici,,Arthroleptidae,Anura,0
+Pristimantis nervicus,,Strabomantidae,Anura,1
+Pristimantis olivaceus,,Strabomantidae,Anura,0
+Sarcohyla siopela,,Hylidae,Anura,0
+Pristimantis alalocophus,,Strabomantidae,Anura,0
+Rana chaochiaoensis,,Ranidae,Anura,0
+Eleutherodactylus symingtoni,Western Spiny Frog,Eleutherodactylidae,Anura,0
+Sclerophrys kerinyagae,,Bufonidae,Anura,0
+Leptopelis cynnamomeus,Cinnamon tree frog,Arthroleptidae,Anura,0
+Scaphiopus hurterii,Hurter's Spadefoot,Scaphiopodidae,Anura,0
+Amietia fuscigula,Cape river frog,Pyxicephalidae,Anura,0
+Leptomantis cyanopunctatus,,Rhacophoridae,Anura,0
+Plectrohyla lacertosa,,Hylidae,Anura,0
+Phrynobatrachus auritus,,Phrynobatrachidae,Anura,0
+Ptychadena robeensis,,Ptychadenidae,Anura,0
+Boana maculateralis,Stained Treefrog,Hylidae,Anura,0
+Incilius cristatus,,Bufonidae,Anura,0
+Eleutherodactylus varleyi,Western Cuba Grassfrog,Eleutherodactylidae,Anura,0
+Pristimantis pseudoacuminatus,,Strabomantidae,Anura,0
+Hyloxalus awa,,Dendrobatidae,Anura,0
+Allobates marchesianus,,Dendrobatidae,Anura,1
+Nanorana pleskei,Tibetan frog,Dicroglossidae,Anura,0
+Strongylopus fasciatus,Striped Stream Frog,Pyxicephalidae,Anura,0
+Phantasmarana massarti,,Hylodidae,Anura,0
+Pristimantis prolatus,,Strabomantidae,Anura,0
+Rhinella scitula,,Bufonidae,Anura,0
+Boana almendarizae,Almendariz's Tree Frog,Hylidae,Anura,0
+Anodonthyla hutchisoni,,Microhylidae,Anura,0
+Atelopus certus,,Bufonidae,Anura,0
+Litoria verreauxii,Verreaux's Tree Frog,Hylidae,Anura,1
+Scythrophrys sawayae,,Leptodactylidae,Anura,0
+Mantidactylus ulcerosus,,Mantellidae,Anura,1
+Rhacophorus calcaneus,,Rhacophoridae,Anura,0
+Dendrobates tinctorius,Dyeing Poison Frog,Dendrobatidae,Anura,0
+Dendropsophus triangulum,,Hylidae,Anura,0
+Atelopus coynei,Faisanes Stubfoot Toad,Bufonidae,Anura,0
+Phyllomedusa tarsius,,Hylidae,Anura,1
+Litoria dentata,Bleating Tree Frog,Hylidae,Anura,0
+Smilisca sordida,Drab Treefrog,Hylidae,Anura,0
+Ecnomiohyla miliaria,Cope's Brown Treefrog,Hylidae,Anura,0
+Pseudacris nigrita,Southern Chorus Frog,Hylidae,Anura,0
+Phasmahyla cochranae,Chocolatefoot Leaf Frog,Hylidae,Anura,1
+Litoria daviesae,Davies' Tree Frog,Hylidae,Anura,0
+Indirana leithii,Matheran Leaping Frog,Ranixalidae,Anura,0
+Breviceps gibbosus,Giant rain frog,Brevicipitidae,Anura,0
+Zhangixalus taipeianus,Taipei Green Tree Frog,Rhacophoridae,Anura,0
+Afrixalus paradorsalis,,Hyperoliidae,Anura,0
+Rana brownorum,Central American Waterfrog,Ranidae,Anura,0
+Papurana elberti,,Ranidae,Anura,0
+Hyloscirtus piceigularis,,Hylidae,Anura,0
+Nyctimantis rugiceps,,Hylidae,Anura,0
+Aparasphenodon arapapa,Bahia’s Broad-snout Casque-headed Tree Frog,Hylidae,Anura,0
+Hyla sarda,Sardinian Tree Frog,Hylidae,Anura,0
+Vitreorana eurygnatha,Rio Glass Frog; ra-de-vidro,Centrolenidae,Anura,0
+Ansonia teneritas,Gracile Slender Toad,Bufonidae,Anura,0
+Eleutherodactylus tonyi,Cabo Cruz Frog,Eleutherodactylidae,Anura,0
+Engystomops pustulosus,Túngara frog,Leptodactylidae,Anura,1
+Oreobates yanucu,,Strabomantidae,Anura,0
+Diasporus vocator,,Eleutherodactylidae,Anura,0
+Ameerega bassleri,,Dendrobatidae,Anura,0
+Smilisca phaeota,Masked Tree Frog,Hylidae,Anura,1
+Scinax skaios,,Hylidae,Anura,0
+Trachycephalus resinifictrix,Boatman Frog,Hylidae,Anura,1
+Gephyromantis tandroka,,Mantellidae,Anura,1
+Litoria moorei,Western Green and Golden Bell Frog,Hylidae,Anura,0
+Rulyrana flavopunctata,Yellow-spotted Glassfrog,Centrolenidae,Anura,0
+Litoria thesaurensis,,Hylidae,Anura,0
+Adenomera diptyx,,Leptodactylidae,Anura,0
+Ghatophryne rubigina,,Bufonidae,Anura,0
+Boana pardalis,,Hylidae,Anura,1
+Raorchestes menglaensis,,Rhacophoridae,Anura,0
+Guibemantis bicalcaratus,,Mantellidae,Anura,0
+Eleutherodactylus guantanamera,Guantanamera Frog,Eleutherodactylidae,Anura,0
+Fejervarya limnocharis,Alpine Cricket Frog,Dicroglossidae,Anura,1
+Hyloxalus anthracinus,,Dendrobatidae,Anura,0
+Litoria pronimia,,Hylidae,Anura,0
+Smilisca sila,,Hylidae,Anura,0
+Phrynobatrachus ungujae,,Phrynobatrachidae,Anura,0
+Limnonectes leytensis,,Dicroglossidae,Anura,0
+Leiopelma hochstetteri,Hochstetter's Frog,Leiopelmatidae,Anura,0
+Pelobatrachus stejnegeri,,Megophryidae,Anura,0
+Phrynobatrachus calcaratus,,Phrynobatrachidae,Anura,0
+Phyllomedusa perinesos,,Hylidae,Anura,0
+Pseudacris fouquettei,Cajun Chorus Frog,Hylidae,Anura,1
+Boophis praedictus,,Mantellidae,Anura,0
+Philautus hosii,,Rhacophoridae,Anura,0
+Eleutherodactylus glamyrus,Turquino Fern Frog,Eleutherodactylidae,Anura,0
+Stumpffia dolchi,,Microhylidae,Anura,0
+Alytes maurus,Moroccan Midwife Toad,Alytidae,Anura,0
+Amnirana asperrima,,Ranidae,Anura,0
+Thoropa taophora,,Cycloramphidae,Anura,1
+Spinomantis massi,,Mantellidae,Anura,1
+Stumpffia spandei,,Microhylidae,Anura,1
+Amnirana longipes,,Ranidae,Anura,0
+Cyclorana alboguttata,Striped Burrowing Frog,Hylidae,Anura,1
+Dendropsophus elegans,,Hylidae,Anura,0
+Stefania ginesi,,Hemiphractidae,Anura,0
+Litoria xanthomera,Orange-thighed Frog,Hylidae,Anura,1
+Anaxyrus debilis,Green Toad,Bufonidae,Anura,1
+Eleutherodactylus rubrimaculatus,,Eleutherodactylidae,Anura,0
+Exerodonta sumichrasti,,Hylidae,Anura,0
+Bombina variegata,Yellow-Bellied Toad,Bombinatoridae,Anura,0
+Atelopus senex,,Bufonidae,Anura,0
+Bokermannohyla astartea,,Hylidae,Anura,0
+Scinax perpusillus,Bandeirantes Snouted Treefrog,Hylidae,Anura,0
+Bokermannohyla martinsi,,Hylidae,Anura,0
+Pristimantis savagei,,Strabomantidae,Anura,0
+Leptodactylus melanonotus,Reddish-brown White-lipped Frog,Leptodactylidae,Anura,0
+Pristimantis nephophilus,,Strabomantidae,Anura,0
+Melanophryniscus macrogranulosus,,Bufonidae,Anura,0
+Xenophrys vegrandis,,Megophryidae,Anura,0
+Stumpffia makira,,Microhylidae,Anura,0
+Oophaga arborea,Polkadot Poison Frog,Dendrobatidae,Anura,0
+Pristimantis peruvianus,,Strabomantidae,Anura,0
+Epidalea calamita,Natterjack Toad,Bufonidae,Anura,1
+Leptobrachium montanum,Mountain Spadefoot Toad,Megophryidae,Anura,0
+Phyllomedusa tetraploidea,,Hylidae,Anura,1
+Cochranella granulosa,Granular Glassfrog,Centrolenidae,Anura,0
+Rhinella crucifer,,Bufonidae,Anura,0
+Eleutherodactylus wightmanae,Puerto Rican Melodius Frog,Eleutherodactylidae,Anura,0
+Eleutherodactylus klinikowskii,Barred Rockfrog,Eleutherodactylidae,Anura,0
+Hemiphractus bubalus,,Hemiphractidae,Anura,0
+Litoria raniformis,Southern Bell Frog,Hylidae,Anura,1
+Leptodactylus didymus,,Leptodactylidae,Anura,0
+Hyloscirtus lascinius,,Hylidae,Anura,0
+Nymphargus bejaranoi,,Centrolenidae,Anura,0
+Ameerega parvula,Ruby Poison Frog,Dendrobatidae,Anura,0
+Pristimantis erythroinguinis,,Strabomantidae,Anura,0
+Hylorina sylvatica,Emerald Forest Frog,Batrachylidae,Anura,0
+Dendropsophus bogerti,,Hylidae,Anura,0
+Gastrotheca lateonota,,Hemiphractidae,Anura,0
+Arthroleptis wahlbergii,Bush squeaker,Arthroleptidae,Anura,0
+Peltophryne gundlachi,Cuban High-crested Toad,Bufonidae,Anura,0
+Pseudophilautus zorro,,Rhacophoridae,Anura,1
+Boophis ankaratra,,Mantellidae,Anura,1
+Rana grylio,Pig Frog,Ranidae,Anura,0
+Rana yavapaiensis,Lowland Leopard Frog,Ranidae,Anura,1
+Eleutherodactylus melacara,Dark-faced Bromeliad Frog,Eleutherodactylidae,Anura,0
+Conraua robusta,,Conrauidae,Anura,0
+Colostethus inguinalis,,Dendrobatidae,Anura,0
+Chacophrys pierottii,,Ceratophryidae,Anura,0
+Physalaemus maculiventris,,Leptodactylidae,Anura,0
+Boophis laurenti,,Mantellidae,Anura,1
+Amolops hainanensis,Hainan Torrent Frog,Ranidae,Anura,0
+Boophis schuboeae,,Mantellidae,Anura,1
+Uperoleia borealis,Northern Toadlet,Myobatrachidae,Anura,0
+Pristimantis espedeus,,Strabomantidae,Anura,1
+Proceratophrys boiei,Boie's Frog,Odontophrynidae,Anura,1
+Congolius robustus,,Hyperoliidae,Anura,0
+Cyclorana brevipes,Short-footed Frog,Hylidae,Anura,1
+Heterixalus madagascariensis,,Hyperoliidae,Anura,1
+Boana pugnax,,Hylidae,Anura,1
+Pristimantis buccinator,,Strabomantidae,Anura,0
+Pristimantis eremitus,,Strabomantidae,Anura,0
+Stumpffia hara,,Microhylidae,Anura,0
+Eleutherodactylus limbatus,Yellow-striped Dwarf Frog,Eleutherodactylidae,Anura,0
+Ptychadena mutinondoensis,Mutinondo Grass Frog,Ptychadenidae,Anura,0
+Nymphargus posadae,Posada’s Glassfrog,Centrolenidae,Anura,0
+Pristimantis racemus,,Strabomantidae,Anura,0
+Boana semilineata,,Hylidae,Anura,0
+Sechellophryne gardineri,Gardiner's Seychelles Frog,Sooglossidae,Anura,0
+Rana miadis,Little Corn Island Frog,Ranidae,Anura,0
+Rana kobai,Amami-Aka-gaeru,Ranidae,Anura,0
+Pulchrana similis,,Ranidae,Anura,0
+Cophyla maharipeo,,Microhylidae,Anura,0
+Ptychadena beka,,Ptychadenidae,Anura,0
+Ptychadena anchietae,Anchieta's ridged frog,Ptychadenidae,Anura,0
+Nectophrynoides viviparus,,Bufonidae,Anura,0
+Hyloxalus aeruginosus,,Dendrobatidae,Anura,0
+Trachycephalus mesophaeus,,Hylidae,Anura,0
+Platypelis tuberifera,,Microhylidae,Anura,1
+Pristimantis erythropleura,,Strabomantidae,Anura,0
+Hyalinobatrachium pallidum,,Centrolenidae,Anura,0
+Pseudacris maculata,Boreal Chorus Frog,Hylidae,Anura,0
+Cophixalus saxatilis,Black Mountain Boulder Frog,Microhylidae,Anura,0
+Alcalus sariba,,Ceratobatrachidae,Anura,0
+Leptobrachium huashen,,Megophryidae,Anura,0
+Atelopus palmatus,,Bufonidae,Anura,0
+Batrachyla leptopus,,Batrachylidae,Anura,0
+Nyctibatrachus sylvaticus,,Nyctibatrachidae,Anura,0
+Duellmanohyla rufioculis,,Hylidae,Anura,0
+Leptodactylus macrosternum,,Leptodactylidae,Anura,0
+Guibemantis kathrinae,,Mantellidae,Anura,0
+Austrochaperina robusta,Robust Frog,Microhylidae,Anura,1
+Dendropsophus sanborni,,Hylidae,Anura,1
+Breviceps mossambicus,Mozambique rain frog,Brevicipitidae,Anura,0
+Scinax eurydice,,Hylidae,Anura,0
+Pristimantis lindae,,Strabomantidae,Anura,0
+Oreophryne inornata,,Microhylidae,Anura,1
+Wolterstorffina parvipalmata,,Bufonidae,Anura,0
+Notaden weigeli,Weigel's Toad,Myobatrachidae,Anura,0
+Pristimantis pleurostriatus,,Strabomantidae,Anura,1
+Charadrahyla altipotens,Yellowbelly Voiceless Treefrog,Hylidae,Anura,0
+Boophis roseipalmatus,,Mantellidae,Anura,0
+Sclerophrys garmani,Garman's Toad,Bufonidae,Anura,0
+Boophis doulioti,,Mantellidae,Anura,1
+Phrynoglossus sumatranus,Sumatran Puddle Frog,Dicroglossidae,Anura,0
+Microhyla neglecta,English: Neglected narrow-mouth frog; Russian: Nezamechennyi Uzkorot; Vietnamese: Nhái bầu quên lãng,Microhylidae,Anura,0
+Centrolene robledoi,,Centrolenidae,Anura,0
+Zhangixalus yinggelingensis,,Rhacophoridae,Anura,0Pristimantis mindo,,Strabomantidae,Anura,0
+Pelodytes punctatus,Parsley Frog,Pelodytidae,Anura,0
+Eleutherodactylus iberia,Monte Iberia Dwarf Frog,Eleutherodactylidae,Anura,0
+Melanophryniscus klappenbachi,,Bufonidae,Anura,0
+Philautus macroscelis,,Rhacophoridae,Anura,0
+Microhyla mymensinghensis,,Microhylidae,Anura,0
+Pristimantis labiosus,,Strabomantidae,Anura,0
+Stefania scalae,,Hemiphractidae,Anura,0
+Oophaga granulifera,Granular Poison Frog,Dendrobatidae,Anura,1
+Chiromantis inexpectatus,Bornean Opposite-fingered Tree Frog,Rhacophoridae,Anura,0
+Afrixalus delicatus,Delicate Spiny Reed Frog,Hyperoliidae,Anura,0
+Leptodactylodon bueanus,,Arthroleptidae,Anura,0
+Boana leptolineata,,Hylidae,Anura,0
+Anaxyrus speciosus,Texas Toad,Bufonidae,Anura,0
+Leptopelis bocagii,Bocage's Tree Frog,Arthroleptidae,Anura,0
+Pristimantis stictoboubonus,,Strabomantidae,Anura,0
+Ptychohyla leonhardschultzei,,Hylidae,Anura,0
+Allobates ornatus,,Dendrobatidae,Anura,0
+Eleutherodactylus cuneatus,Oriente Streamside Frog,Eleutherodactylidae,Anura,0
+Dendrophryniscus proboscideus,Beaked Toad,Bufonidae,Anura,0
+Limnonectes ingeri,,Dicroglossidae,Anura,0
+Micrixalus niluvasei,Niluvase Dancing Frog,Micrixalidae,Anura,0
+Heterixalus variabilis,,Hyperoliidae,Anura,1
+Uperoleia saxatilis,Pilbara Toadlet,Myobatrachidae,Anura,0
+Eleutherodactylus cystignathoides,Rio Grande Chirping Frog,Eleutherodactylidae,Anura,1
+Arthroleptis bioko,Bioko Squeaker Frog,Arthroleptidae,Anura,0
+Hyperolius burgessi,,Hyperoliidae,Anura,0
+Eleutherodactylus portoricensis,Puerto Rican White-eyed Frog,Eleutherodactylidae,Anura,0
+Cornufer boulengeri,Boulenger's Wrinkled Ground Frog,Ceratobatrachidae,Anura,0
+Dermatonotus muelleri,Muller's Termite Frog,Microhylidae,Anura,1
+Craugastor gulosus,,Craugastoridae,Anura,0
+Mantidactylus tricinctus,,Mantellidae,Anura,1
+Boana albopunctata,,Hylidae,Anura,1
+Gephyromantis plicifer,,Mantellidae,Anura,1
+Bufo stejnegeri,Stejneger's Toad,Bufonidae,Anura,0
+Limnonectes selatan,,Dicroglossidae,Anura,0
+Physalaemus lateristriga,,Leptodactylidae,Anura,0
+Leptodactylus colombiensis,,Leptodactylidae,Anura,0
+Odorrana hosii,Green Odorfrog,Ranidae,Anura,0
+Afrixalus lacteus,Cameroon Banana Frog,Hyperoliidae,Anura,0
+Plethodontohyla fonetana,,Microhylidae,Anura,0
+Hyla savignyi,Lemon-Yellow Tree Frog,Hylidae,Anura,1
+Cochranella euhystrix,,Centrolenidae,Anura,0
+Centrolene buckleyi,Buckley’s Glassfrog,Centrolenidae,Anura,0
+Ecnomiohyla sukia,Shaman Fringe-limbed Frog,Hylidae,Anura,0
+Stumpffia sorata,,Microhylidae,Anura,0
+Leptodactylus griseigularis,,Leptodactylidae,Anura,0
+Leptodactylodon wildi,,Arthroleptidae,Anura,0
+Microhyla mukhlesuri,Mukhlesur's Narrow-mouthed Frog,Microhylidae,Anura,0
+Pseudophilautus ocularis,,Rhacophoridae,Anura,0
+Centrolene quindianum,,Centrolenidae,Anura,0
+Pelodytes ibericus,Iberian parsley frog,Pelodytidae,Anura,0
+Phyllomedusa burmeisteri,,Hylidae,Anura,1
+Pristimantis carranguerorum,,Strabomantidae,Anura,0
+Eleutherodactylus amplinympha,Dominica Frog,Eleutherodactylidae,Anura,0
+Craugastor sandersoni,,Craugastoridae,Anura,0
+Chiromantis dudhwaensis,,Rhacophoridae,Anura,0
+Pulchrana fantastica,Splendid Stream Frogs,Ranidae,Anura,0
+Chiasmocleis carvalhoi,,Microhylidae,Anura,0
+Itapotihyla langsdorffii,,Hylidae,Anura,1
+Scinax castroviejoi,,Hylidae,Anura,0
+Boana jimenezi,,Hylidae,Anura,0
+Neobatrachus sudellae,Painted Burrowing Frog,Myobatrachidae,Anura,0
+Guibemantis woosteri,Wooster’s Malagasy Pandanus Frog,Mantellidae,Anura,0
+Pelobatrachus kobayashii,,Megophryidae,Anura,0
+Scinax granulatus,,Hylidae,Anura,0
+Mantidactylus opiparis,,Mantellidae,Anura,1
+Aubria subsigillata,,Pyxicephalidae,Anura,0
+Mixophyes schevilli,Northern Barred Frog,Myobatrachidae,Anura,1
+Proceratophrys melanopogon,Horned Frog,Odontophrynidae,Anura,0
+Metaphrynella sundana,Borneo Tree-hole frog,Microhylidae,Anura,0
+Leptodactylus oreomantis,,Leptodactylidae,Anura,1
+Incilius epioticus,,Bufonidae,Anura,0
+Phrynobatrachus versicolor,,Phrynobatrachidae,Anura,0
+Pipa pipa,Surinam Toad,Pipidae,Anura,0
+Mannophryne herminae,,Dendrobatidae,Anura,0
+Rana pyrenaica,Pyrenean frog,Ranidae,Anura,0
+Atelopus pulcher,,Bufonidae,Anura,0
+Flectonotus fitzgeraldi,Dwarf Marsupial Frog,Hemiphractidae,Anura,0
+Hypopachus guancasco,Lenca sheep frog,Microhylidae,Anura,0
+Nyctibatrachus athirappillyensis,Athirappilly Night Frog,Nyctibatrachidae,Anura,0
+Nymphargus mariae,María’s Glassfrog,Centrolenidae,Anura,0
+Pseudopaludicola pocoto,,Leptodactylidae,Anura,0
+Rhinella horribilis,Giant Toad,Bufonidae,Anura,0
+Litoria spenceri,Spotted Tree Frog,Hylidae,Anura,0
+Dendropsophus carnifex,,Hylidae,Anura,0
+Exerodonta abdivita,,Hylidae,Anura,0
+Ameerega simulans,,Dendrobatidae,Anura,0
+Rhacophorus pseudomalabaricus,Anaimalai Flying Frog,Rhacophoridae,Anura,0
+Cruziohyla sylviae,Sylvia's Tree Frog; Rana arbórea de Sylvia,Hylidae,Anura,0
+Bombina maxima,Large-webbed Bell Toad,Bombinatoridae,Anura,0
+Pristimantis nicefori,,Strabomantidae,Anura,1
+Scinax elaeochrous,Olive tree frog,Hylidae,Anura,0
+Gephyromantis decaryi,,Mantellidae,Anura,1
+Limnonectes fragilis,,Dicroglossidae,Anura,0
+Hyperolius horstockii,Horstock's Reed Frog,Hyperoliidae,Anura,0
+Uperodon mormorata,Indian Dot Frog,Microhylidae,Anura,0
+Aplastodiscus albosignatus,Bocaina Tree Frog,Hylidae,Anura,0
+Leptobrachella gracilis,,Megophryidae,Anura,0
+Callulina kreffti,,Brevicipitidae,Anura,0
+Isthmohyla lancasteri,,Hylidae,Anura,0
+Nyctimystes kubori,,Hylidae,Anura,0
+Sphaerotheca pluvialis,,Dicroglossidae,Anura,0
+Philautus mjobergi,,Rhacophoridae,Anura,0
+Pristimantis rhabdolaemus,,Strabomantidae,Anura,0
+Hyperolius guttulatus,,Hyperoliidae,Anura,0
+Barbarophryne brongersmai,,Bufonidae,Anura,0
+Rulyrana spiculata,,Centrolenidae,Anura,0
+Leptobrachella laui,Lau's Leaf-litter Toad,Megophryidae,Anura,0
+Craugastor pozo,,Craugastoridae,Anura,0
+Dendropsophus labialis,Green Dotted Treefrog,Hylidae,Anura,0
+Odorrana tiannanensis,,Ranidae,Anura,0
+Pristimantis orpacobates,,Strabomantidae,Anura,0
+Rana vibicaria,Green-eyed Frog,Ranidae,Anura,0
+Physalaemus cicada,,Leptodactylidae,Anura,0
+Hyperolius tuberilinguis,Tinker Reed Frog,Hyperoliidae,Anura,0
+Limnomedusa macroglossa,,Alsodidae,Anura,0
+Rhacophorus lateralis,,Rhacophoridae,Anura,0
+Mixophyes balbus,Stuttering Frog,Myobatrachidae,Anura,0
+Nymphargus prasinus,,Centrolenidae,Anura,0
+Pseudophilautus amboli,,Rhacophoridae,Anura,0
+Scaphiophryne madagascariensis,,Microhylidae,Anura,1
+Craugastor bransfordii,,Craugastoridae,Anura,0
+Craugastor noblei,,Craugastoridae,Anura,0
+Peltophryne longinasus,Western Cuba Long-nosed Toad,Bufonidae,Anura,0
+Hyperolius pseudargus,,Hyperoliidae,Anura,0
+Eleutherodactylus gryllus,Puerto Rican Green Frog,Eleutherodactylidae,Anura,0
+Pseudophilautus kani,,Rhacophoridae,Anura,0
+Afrixalus vibekensis,,Hyperoliidae,Anura,0
+Rana maculata,,Ranidae,Anura,0
+Philautus abditus,,Rhacophoridae,Anura,0
+Micrixalus saxicola,Wayanad Dancing Frog,Micrixalidae,Anura,1
+Boana stenocephala,,Hylidae,Anura,0
+Batrachyla antartandica,,Batrachylidae,Anura,0
+Eleutherodactylus guanahacabibes,Guanahacabibes Frog,Eleutherodactylidae,Anura,0
+Scinax canastrensis,,Hylidae,Anura,1
+Rulyrana adiazeta,,Centrolenidae,Anura,0
+Kalophrynus honbaensis,Hon Ba sticky frog,Microhylidae,Anura,0
+Leiopelma hamiltoni,Hamilton's Frog,Leiopelmatidae,Anura,0
+Pseudophilautus tanu,,Rhacophoridae,Anura,0
+Hydrolaetare caparu,,Leptodactylidae,Anura,0
+Pseudophilautus femoralis,Round-snout pygmy frog,Rhacophoridae,Anura,0
+Nyctibatrachus kumbara,Kumbara night frog,Nyctibatrachidae,Anura,0
+Rana johni,,Ranidae,Anura,0
+Lynchius parkeri,,Strabomantidae,Anura,0
+Pelophryne signata,,Bufonidae,Anura,0
+Eleutherodactylus modestus,,Eleutherodactylidae,Anura,0
+Dendropsophus rhodopeplus,,Hylidae,Anura,0
+Tomopterna natalensis,Natal sand frog,Pyxicephalidae,Anura,0
+Leptodactylus ventrimaculatus,,Leptodactylidae,Anura,0
+Megastomatohyla nubicola,,Hylidae,Anura,0
+Cardioglossa melanogaster,,Arthroleptidae,Anura,0
+Leptobrachium gunungense,,Megophryidae,Anura,0
+Hyperolius platyceps,,Hyperoliidae,Anura,0
+Blommersia kely,,Mantellidae,Anura,1
+Rhacophorus reinwardtii,Reinwardt's Flying Frog,Rhacophoridae,Anura,0
+Boana cordobae,,Hylidae,Anura,0
+Leptobrachella fritinniens,Twittering Litter Frog,Megophryidae,Anura,0
+Leptodactylus notoaktites,,Leptodactylidae,Anura,0
+Rana pustulosa,,Ranidae,Anura,0
+Eleutherodactylus planirostris,Cuban Flat-headed Frog,Eleutherodactylidae,Anura,1
+Uperoleia minima,Small Toadlet,Myobatrachidae,Anura,0
+Phrynomantis annectens,Marbled rubber frog,Microhylidae,Anura,0
+Leptopelis kivuensis,,Arthroleptidae,Anura,0
+Craugastor evanesco,,Craugastoridae,Anura,0
+Nanorana aenea,,Dicroglossidae,Anura,0
+Eleutherodactylus blairhedgesi,Canasi Frog,Eleutherodactylidae,Anura,0
+Pristimantis simonsii,,Strabomantidae,Anura,0
+Rana warszewitschii,Warszewitsch's Frog,Ranidae,Anura,0
+Spinomantis fimbriatus,,Mantellidae,Anura,1
+Atelognathus nitoi,,Batrachylidae,Anura,0
+Phrynoidis aspera,River Toad,Bufonidae,Anura,1
+Ameerega pepperi,,Dendrobatidae,Anura,0
+Eleutherodactylus bresslerae,Maisi Frog,Eleutherodactylidae,Anura,0
+Vandijkophrynus amatolicus,Amatola Toad,Bufonidae,Anura,0
+Rana pseudodalmatina,,Ranidae,Anura,1
+Guibemantis timidus,,Mantellidae,Anura,1
+Hyla walkeri,,Hylidae,Anura,0
+Bokermannohyla hylax,,Hylidae,Anura,1
+Microhyla zeylanica,Sri Lankan narrow-mouthed frog,Microhylidae,Anura,0
+Rhaebo ceratophrys,,Bufonidae,Anura,0
+Pristimantis carmelitae,,Strabomantidae,Anura,0
+Osteocephalus leprieurii,,Hylidae,Anura,0
+Hyperolius sylvaticus,,Hyperoliidae,Anura,0
+Ophryophryne koui,Zhushihe Mountain Toad,Megophryidae,Anura,0
+Leptodactylus insularum,Caribbean Ditchfrog,Leptodactylidae,Anura,0
+Boophis albilabris,,Mantellidae,Anura,1
+Diasporus igneus,,Eleutherodactylidae,Anura,1
+Stumpffia megsoni,,Microhylidae,Anura,0
+Minervarya kudremukhensis,Kudremukh Cricket Frog,Dicroglossidae,Anura,0
+Cycloramphus duseni,Ypiranga Button Frog,Cycloramphidae,Anura,0
+Bokermannohyla lucianae,,Hylidae,Anura,0
+Mantella pulchra,,Mantellidae,Anura,1
+Ecnomiohyla bailarina,Ballerina Fringe-limbed Treefrog,Hylidae,Anura,0
+Phrynoglossus baluensis,,Dicroglossidae,Anura,0
+Nymphargus siren,Siren Glassfrog,Centrolenidae,Anura,0
+Microhyla pulchra,,Microhylidae,Anura,0
+Phyllomedusa oreades,,Hylidae,Anura,0
+Aromobates haydeeae,,Dendrobatidae,Anura,0
+Paratelmatobius lutzii,,Leptodactylidae,Anura,0
+Craugastor bocourti,,Craugastoridae,Anura,0
+Incilius signifer,,Bufonidae,Anura,0
+Leptodactylus chaquensis,,Leptodactylidae,Anura,1
+Rana tarahumarae,Tarahumara Frog,Ranidae,Anura,0
+Epipedobates anthonyi,Anthony's Poison Arrow Frog,Dendrobatidae,Anura,0
+Sphaerotheca rolandae,Marbled Sand Frog,Dicroglossidae,Anura,0
+Dendropsophus mathiassoni,,Hylidae,Anura,0
+Atelopus bomolochos,,Bufonidae,Anura,0
+Papurana milleti,Millet's Forestfrog,Ranidae,Anura,0
+Flectonotus pygmaeus,,Hemiphractidae,Anura,0
+Physalaemus soaresi,,Leptodactylidae,Anura,0
+Chiromantis xerampelina,Gray Tree Frog,Rhacophoridae,Anura,0
+Eleutherodactylus dimidiatus,Miniature Robber Frog,Eleutherodactylidae,Anura,0
+Papurana daemeli,Wood Frog,Ranidae,Anura,1
+Alytes muletensis,Mallorcan Midwife Toad,Alytidae,Anura,0
+Engystomops freibergi,,Leptodactylidae,Anura,0
+Sooglossus sechellensis,,Sooglossidae,Anura,0
+Taudactylus liemi,Liem's Tinker Frog,Myobatrachidae,Anura,0
+Pristimantis chalceus,,Strabomantidae,Anura,0
+Boophis lichenoides,Liken treefrog,Mantellidae,Anura,0
+Boophis haematopus,,Mantellidae,Anura,1
+Hyalinobatrachium esmeralda,,Centrolenidae,Anura,0
+Guibemantis punctatus,,Mantellidae,Anura,0
+Hylarana montivaga,,Ranidae,Anura,0
+Lysapsus laevis,,Hylidae,Anura,0
+Phrynomedusa marginata,,Hylidae,Anura,0
+Kassina lamottei,,Hyperoliidae,Anura,0
+Hyloxalus fuliginosus,,Dendrobatidae,Anura,0
+Minervarya nilagirica,,Dicroglossidae,Anura,0
+Ingerophrynus macrotis,,Bufonidae,Anura,0
+Rhinella ocellata,,Bufonidae,Anura,0
+Incilius tacanensis,,Bufonidae,Anura,0
+Zhangixalus arvalis,Farmland green flying frog,Rhacophoridae,Anura,0
+Boophis goudotii,,Mantellidae,Anura,0
+Limnonectes bannaensis,,Dicroglossidae,Anura,0
+Leptophryne cruentata,Bleeding Toad,Bufonidae,Anura,0
+Leptobrachella hamidi,,Megophryidae,Anura,0
+Litoria caerulea,Green Tree Frog,Hylidae,Anura,1
+Kurixalus appendiculatus,Rough-Armed Tree Frog,Rhacophoridae,Anura,1
+Raorchestes luteolus,Coorg Yellow Bush Frog,Rhacophoridae,Anura,0
+Hyloscirtus antioquia,,Hylidae,Anura,0
+Platymantis guentheri,Guenther's Forest Frog,Ceratobatrachidae,Anura,0
+Craugastor stejnegerianus,,Craugastoridae,Anura,0
+Atelopus zeteki,Panamanian Golden Frog,Bufonidae,Anura,1
+Hyloxalus yasuni,,Dendrobatidae,Anura,0
+Agalychnis dacnicolor,Mexican Giant Tree Frog,Hylidae,Anura,0
+Sylvirana spinulosa,,Ranidae,Anura,0
+Limnodynastes peronii,Striped Marsh Frog,Myobatrachidae,Anura,1
+Litoria spaldingi,Northern Creek Frog,Hylidae,Anura,0
+Leptobrachella bourreti,,Megophryidae,Anura,0
+Pristimantis duellmani,,Strabomantidae,Anura,0
+Craugastor mimus,,Craugastoridae,Anura,0
+Eleutherodactylus turquinensis,Turquino Streamfrog,Eleutherodactylidae,Anura,0
+Barbourula busuangensis,Philippine Flat-headed Frog,Bombinatoridae,Anura,0
+Zhangixalus duboisi,,Rhacophoridae,Anura,0
+Litoria nasuta,Rocket Frog,Hylidae,Anura,1
+Pseudophilautus schneideri,,Rhacophoridae,Anura,0
+Epipedobates darwinwallacei,,Dendrobatidae,Anura,0
+Siamophryne troglodytes,Tenasserim Cave Frog,Microhylidae,Anura,0
+Pseudophryne guentheri,Günther's Toadlet,Myobatrachidae,Anura,0
+Boophis mandraka,,Mantellidae,Anura,1
+Boana balzani,,Hylidae,Anura,0
+Boophis erythrodactylus,,Mantellidae,Anura,1
+Polypedates megacephalus,White-spotted Thigh Treefrog,Rhacophoridae,Anura,0
+Phyllomedusa iheringii,,Hylidae,Anura,0
+Astylosternus fallax,,Arthroleptidae,Anura,0
+Scinax nasicus,,Hylidae,Anura,0
+Minervarya sahyadris,,Dicroglossidae,Anura,0
+Scinax camposseabrai,,Hylidae,Anura,0
+Hyloscirtus phyllognathus,,Hylidae,Anura,0
+Uperoleia rugosa,Wrinkled Toadlet,Myobatrachidae,Anura,0
+Uperoleia lithomoda,Stonemason's Toadlet,Myobatrachidae,Anura,1
+Hyperolius wermuthi,,Hyperoliidae,Anura,0
+Liuixalus hainanus,,Rhacophoridae,Anura,0
+Ptychohyla erythromma,,Hylidae,Anura,0
+Craugastor lauraster,,Craugastoridae,Anura,0
+Rana taylori,Peralta frog,Ranidae,Anura,0
+Hyla intermedia,,Hylidae,Anura,0
+Eleutherodactylus angustidigitorum,,Eleutherodactylidae,Anura,0
+Isthmohyla angustilineata,,Hylidae,Anura,0
+Hyloscirtus charazani,,Hylidae,Anura,0
+Abavorana nazgul,Gunung Jerai Black Stream-Frog,Ranidae,Anura,0
+Diasporus hylaeformis,,Eleutherodactylidae,Anura,0
+Gastrotheca argenteovirens,,Hemiphractidae,Anura,0
+Leptodactylus rhodomystax,,Leptodactylidae,Anura,1
+Crossodactylodes septentrionalis,,Leptodactylidae,Anura,0
+Craugastor crassidigitus,Isla Bonita Robber Frog,Craugastoridae,Anura,0
+Osteocephalus cabrerai,,Hylidae,Anura,0
+Pseudacris clarkii,Spotted Chorus Frog,Hylidae,Anura,0
+Pristimantis divnae,,Strabomantidae,Anura,0
+Ptychadena tournieri,,Ptychadenidae,Anura,1
+Isthmohyla insolita,,Hylidae,Anura,0
+Eleutherodactylus orientalis,Baracoa Dwarf Frog,Eleutherodactylidae,Anura,0
+Pithecopus araguaius,,Hylidae,Anura,1
+Leptodactylus furnarius,,Leptodactylidae,Anura,1
+Eleutherodactylus pipilans,Whistling Chirping Frog,Eleutherodactylidae,Anura,0
+Corythomantis greeningi,,Hylidae,Anura,0
+Oreolalax major,Large Toothed Toad,Megophryidae,Anura,0
+Physalaemus cuqui,,Leptodactylidae,Anura,0
+Phrynobatrachus schioetzi,Schiøtz's Puddle Frog,Phrynobatrachidae,Anura,0
+Leptodactylus albilabris,Antillean White-lipped Frog,Leptodactylidae,Anura,0
+Melanophryniscus devincenzii,,Bufonidae,Anura,0
+Gastrotheca excubitor,Abra Acanacu Marsupial Frog,Hemiphractidae,Anura,0
+Rhinophrynus dorsalis,Mexican Burrowing Toad,Rhinophrynidae,Anura,0
+Eleutherodactylus cundalli,Jamaican Rockfrog,Eleutherodactylidae,Anura,0
+Leptopelis fiziensis,,Arthroleptidae,Anura,0
+Rhacophorus borneensis,Bornean Smaller Gliding Frog,Rhacophoridae,Anura,0
+Allobates zaparo,Sanguine Poison-arrow Frog,Dendrobatidae,Anura,0
+Pseudophilautus abundus,Labungama Shrub Frog,Rhacophoridae,Anura,0
+Mixophyes iteratus,Giant Barred-Frog,Myobatrachidae,Anura,0
+Physalaemus crombiei,,Leptodactylidae,Anura,0
+Incilius nebulifer,Gulf Coast Toad,Bufonidae,Anura,1
+Phyllomedusa megacephala,,Hylidae,Anura,0
+Rhacophorus kio,Asian Black-webbed Treefrog,Rhacophoridae,Anura,0
+Phyllomedusa bicolor,Waxy-Monkey Treefrog,Hylidae,Anura,1
+Peltophryne cataulaciceps,Cuban Pineland Toad,Bufonidae,Anura,0
+Pedostibes tuberculosus,Malabar Tree Toad,Bufonidae,Anura,0
+Hymenochirus boettgeri,Zaire Dwarf Clawed Frog,Pipidae,Anura,0
+Scinax nebulosus,,Hylidae,Anura,0
+Tachycnemis seychellensis,Seychelles Tree Frog,Hyperoliidae,Anura,0
+Microkayla iatamasi,,Strabomantidae,Anura,0
+Stumpffia gimmeli,,Microhylidae,Anura,1
+Macrogenioglottus alipioi,,Odontophrynidae,Anura,0
+Mantidactylus argenteus,,Mantellidae,Anura,1
+Boophis blommersae,,Mantellidae,Anura,1
+Dendrobates truncatus,,Dendrobatidae,Anura,0
+Gephyromantis tahotra,,Mantellidae,Anura,0
+Xenopus lenduensis,Lendu Plateau clawed frog,Pipidae,Anura,1
+Rana omeimontis,,Ranidae,Anura,0
+Pseudacris ornata,Ornate Chorus Frog,Hylidae,Anura,0
+Aromobates meridensis,,Dendrobatidae,Anura,0
+Aplastodiscus perviridis,,Hylidae,Anura,1
+Hylarana taipehensis,Taipei frog,Ranidae,Anura,1
+Eupsophus emiliopugini,,Alsodidae,Anura,0
+Hyalinobatrachium iaspidiense,,Centrolenidae,Anura,0
+Craugastor rhodopis,,Craugastoridae,Anura,0
+Breviceps fuscus,Black rain frog,Brevicipitidae,Anura,0
+Crinia parinsignifera,Eastern Sign-bearing Froglet,Myobatrachidae,Anura,1
+Chiromantis nongkhorensis,,Rhacophoridae,Anura,0
+Guibemantis depressiceps,,Mantellidae,Anura,1
+Pristimantis pulvinatus,,Strabomantidae,Anura,0
+Guibemantis pulcher,,Mantellidae,Anura,0
+Boophis andrangoloaka,,Mantellidae,Anura,0
+Pseudophilautus fergusonianus,Ferguson's Tree Frog,Rhacophoridae,Anura,0
+Osteocephalus taurinus,Manaus Slender-Legged Treefrog,Hylidae,Anura,1
+Pristimantis cosnipatae,,Strabomantidae,Anura,0
+Rana boylii,Foothill Yellow-legged Frog,Ranidae,Anura,1
+Mantella expectata,Blue-legged mantella,Mantellidae,Anura,1
+Osteocephalus mutabor,,Hylidae,Anura,0
+Mantidactylus zipperi,,Mantellidae,Anura,1
+Rhaebo blombergi,,Bufonidae,Anura,0
+Tomopterna tuberculosa,Rough sand frog,Pyxicephalidae,Anura,0
+Boophis axelmeyeri,,Mantellidae,Anura,1
+Limnonectes kenepaiensis,,Dicroglossidae,Anura,0
+Sphaenorhynchus prasinus,,Hylidae,Anura,0
+Pseudophilautus popularis,,Rhacophoridae,Anura,0
+Stumpffia pardus,,Microhylidae,Anura,1
+Pristimantis cruentus,Chiriqui Robber Frog,Strabomantidae,Anura,0
+Chimerella corleone,,Centrolenidae,Anura,0
+Boana ornatissima,,Hylidae,Anura,0
+Eleutherodactylus simulans,Oriente Mottled Frog,Eleutherodactylidae,Anura,0
+Pelobatrachus baluensis,,Megophryidae,Anura,0
+Hyperolius cystocandicans,,Hyperoliidae,Anura,0
+Gracixalus quangi,Quang's Tree Frog,Rhacophoridae,Anura,0
+Pseudopaludicola mystacalis,,Leptodactylidae,Anura,1
+Scinax ruber,Common Snouted Treefrog,Hylidae,Anura,1
+Pristimantis percultus,,Strabomantidae,Anura,0
+Ptychadena doro,,Ptychadenidae,Anura,0
+Boophis pyrrhus,,Mantellidae,Anura,1
+Eleutherodactylus goini,Guaniguanico Yellow-mottled Frog,Eleutherodactylidae,Anura,0
+Pristimantis phoxocephalus,,Strabomantidae,Anura,0
+Tomopterna marmorata,Marbled sand frog,Pyxicephalidae,Anura,0
+Bokermannohyla sapiranga,,Hylidae,Anura,0
+Nymphargus ignotus,,Centrolenidae,Anura,0
+Physalaemus aguirrei,,Leptodactylidae,Anura,0
+Atelopus epikeisthos,,Bufonidae,Anura,0
+Telmatobufo venustus,Chile Mountains False Toad,Calyptocephalellidae,Anura,0
+Nyctibatrachus humayuni,Bombay Night Frog,Nyctibatrachidae,Anura,1
+Bufo bankorensis,Taiwan Common Toad,Bufonidae,Anura,0
+Sclerophrys kisoloensis,Kisolo Toad,Bufonidae,Anura,0
+Leptopelis vermiculatus,,Arthroleptidae,Anura,0
+Afrixalus aureus,Golden Dwarf Reed Frog,Hyperoliidae,Anura,0
+Scinax wandae,,Hylidae,Anura,0
+Cornufer hedigeri,,Ceratobatrachidae,Anura,0
+Dendropsophus norandinus,,Hylidae,Anura,0
+Litoria wilcoxii,,Hylidae,Anura,0
+Uperoleia fusca,Dusky Toadlet,Myobatrachidae,Anura,0
+Pelophylax shqipericus,,Ranidae,Anura,0
+Chiasmocleis altomontana,,Microhylidae,Anura,0
+Ischnocnema guentheri,Steindachner's Robber Frog; ra-da-mata,Brachycephalidae,Anura,1
+Mixophyes fleayi,Fleay’s Barred-Frog,Myobatrachidae,Anura,1
+Arthroleptis palava,Problem Squeaker Frog,Arthroleptidae,Anura,0
+Oreophryne philosylleptoris,,Microhylidae,Anura,1
+Boophis elenae,,Mantellidae,Anura,1
+Chalcorana chalconota,,Ranidae,Anura,0
+Odontophrynus juquinha,,Odontophrynidae,Anura,1
+Leptodactylus guianensis,,Leptodactylidae,Anura,0
+Engystomops randi,,Leptodactylidae,Anura,0
+Ophryophryne hansi,,Megophryidae,Anura,0
+Leptomantis harrissoni,,Rhacophoridae,Anura,0
+Geocrinia victoriana,Eastern Smooth Frog,Myobatrachidae,Anura,0
+Scinax rostratus,,Hylidae,Anura,0
+Allophryne ruthveni,Tukeit-Hill Frog,Allophrynidae,Anura,0
+Atympanophrys gigantica,,Megophryidae,Anura,0
+Scaphiophryne brevis,Brown Rain Frog,Microhylidae,Anura,1
+Limnonectes finchi,Finch's Wart Frog,Dicroglossidae,Anura,0
+Pristimantis pirrensis,,Strabomantidae,Anura,0
+Eleutherodactylus ricordii,Oriente Yellow-mottled Frog,Eleutherodactylidae,Anura,0
+Craugastor podiciferus,,Craugastoridae,Anura,0
+Physalaemus kroyeri,,Leptodactylidae,Anura,0
+Isthmohyla xanthosticta,,Hylidae,Anura,0
+Rhinella vellardi,,Bufonidae,Anura,0
+Leptobrachium abbotti,Lowland Litter Frog,Megophryidae,Anura,0
+Pelophylax ridibundus,Marsh Frog,Ranidae,Anura,1
+Ptychadena amharensis,,Ptychadenidae,Anura,0
+Hyperolius castaneus,,Hyperoliidae,Anura,0
+Nidirana pleuraden,,Ranidae,Anura,0
+Phlyctimantis verrucosus,,Hyperoliidae,Anura,0
+Incilius leucomyos,,Bufonidae,Anura,0
+Eleutherodactylus longipes,Rana chirriadora de la Huasteca,Eleutherodactylidae,Anura,0
+Atelopus cruciger,Rancho Grande Harlequin Frog,Bufonidae,Anura,0
+Odorrana chapaensis,Chapa Torrent Frog,Ranidae,Anura,0
+Pristimantis lancinii,Ranita de Lancinii,Strabomantidae,Anura,0
+Heterixalus betsileo,,Hyperoliidae,Anura,1
+Charadrahyla esperancensis,Espernza Treefrog,Hylidae,Anura,0
+Gephyromantis sculpturatus,,Mantellidae,Anura,1
+Pristimantis antisuyu,,Strabomantidae,Anura,0
+Odorrana hmongorum,,Ranidae,Anura,0
+Rhacophorus pardalis,Harlequin Tree Frog,Rhacophoridae,Anura,0
+Panophrys minor,,Megophryidae,Anura,0
+Pristimantis mendax,,Strabomantidae,Anura,0
+Agalychnis psilopygion,,Hylidae,Anura,0
+Bokermannohyla saxicola,,Hylidae,Anura,0
+Pristimantis lividus,,Strabomantidae,Anura,0
+Rhinella atacamensis,,Bufonidae,Anura,0
+Boana guentheri,,Hylidae,Anura,0
+Leptopelis ragazzii,,Arthroleptidae,Anura,0
+Trachycephalus dibernardoi,,Hylidae,Anura,1
+Ceratophrys ornata,Bell's Horned Frog,Ceratophryidae,Anura,0
+Ameerega berohoka,,Dendrobatidae,Anura,1
+Rana pipiens,Northern Leopard Frog,Ranidae,Anura,0
+Sylvirana nigrovittata,Black-sided Woodfrog,Ranidae,Anura,1
+Andinobates dorisswansonae,,Dendrobatidae,Anura,0
+Buergeria japonica,Ryukyu Kajika Frog,Rhacophoridae,Anura,0
+Mantidactylus brevipalmatus,,Mantellidae,Anura,1
+Meristogenys kinabaluensis,,Ranidae,Anura,0
+Pelobatrachus ligayae,Palawan Horned Frog,Megophryidae,Anura,0
+Hyperolius lamottei,,Hyperoliidae,Anura,0
+Leptobrachella pyrrhops,,Megophryidae,Anura,0
+Wakea madinika,,Mantellidae,Anura,0
+Pristimantis anolirex,,Strabomantidae,Anura,0
+Raorchestes tuberohumerus,,Rhacophoridae,Anura,0
+Anomaloglossus breweri,,Dendrobatidae,Anura,0
+Boophis boehmei,,Mantellidae,Anura,1
+Mantidactylus charlotteae,,Mantellidae,Anura,0
+Ctenophryne geayi,,Microhylidae,Anura,0
+Limnodynastes dorsalis,Western Bullfrog,Myobatrachidae,Anura,0
+Rana sakuraii,Stream Brown Frog,Ranidae,Anura,0
+Raorchestes ochlandrae,Ochlandra shrub frog,Rhacophoridae,Anura,0
+Rentapia flavomaculata,,Bufonidae,Anura,0
+Ptychadena nana,,Ptychadenidae,Anura,0
+Scotobleps gabonicus,,Arthroleptidae,Anura,0
+Pristimantis petersi,,Strabomantidae,Anura,0
+Beduka koynayensis,Humbali Village Toad,Bufonidae,Anura,0
+Fritziana goeldii,,Hemiphractidae,Anura,0
+Microkayla ankohuma,,Strabomantidae,Anura,0
+Eleutherodactylus adelus,Cuban Dwarf Grassfrog,Eleutherodactylidae,Anura,0
+Duttaphrynus hololius,Günther’s toad or rock toad,Bufonidae,Anura,0
+Pseudophilautus regius,,Rhacophoridae,Anura,0
+Proceratophrys moratoi,,Odontophrynidae,Anura,1
+Pristimantis sagittulus,,Strabomantidae,Anura,0
+Theloderma auratum,Golden Bug-eyed Frog; ´Êch Cây Sân Vàng.,Rhacophoridae,Anura,0
+Scinax melanodactylus,,Hylidae,Anura,0
+Glandirana rugosa,Wrinkled Frog,Ranidae,Anura,0
+Xenopus longipes,Lake Oku Clawed Frog,Pipidae,Anura,0
+Phyllomedusa neildi,,Hylidae,Anura,0
+Bokermannohyla itapoty,,Hylidae,Anura,0
+Hyloxalus azureiventris,Sky Blue Poison Dart Frog,Dendrobatidae,Anura,0
+Ischnocnema surda,,Brachycephalidae,Anura,0
+Indirana beddomii,Beddomes Leaping Frog,Ranixalidae,Anura,0
+Crinia tinnula,Wallum froglet,Myobatrachidae,Anura,0
+Leptobrachella rowleyae,Rowley’s litter frog,Megophryidae,Anura,0
+Anaxyrus kelloggi,Little Mexican Toad,Bufonidae,Anura,0
+Cornufer vitianus,Fiji Ground Frog,Ceratobatrachidae,Anura,0
+Hyperolius chelaensis,Chela Mountain reed frog,Hyperoliidae,Anura,0
+Eleutherodactylus zeus,Cuban Giant Frog,Eleutherodactylidae,Anura,0
+Sylvirana maosonensis,,Ranidae,Anura,0
+Polypedates mutus,,Rhacophoridae,Anura,0
+Aglyptodactylus laticeps,,Mantellidae,Anura,1
+Raorchestes munnarensis,,Rhacophoridae,Anura,0
+Blommersia transmarina,,Mantellidae,Anura,0
+Hyperolius molleri,,Hyperoliidae,Anura,0
+Huia cavitympanum,Hole-in-the-head Frog,Ranidae,Anura,0
+Leptodactylus viridis,,Leptodactylidae,Anura,0
+Pseudis paradoxa,Paradox Frog,Hylidae,Anura,0
+Bryophryne phuyuhampatu,,Strabomantidae,Anura,0
+Plectrohyla matudai,Matuda’s Spikethumb Frog,Hylidae,Anura,0
+Amolops cremnobatus,,Ranidae,Anura,0
+Amietia angolensis,Angola River Frog,Pyxicephalidae,Anura,0
+Alsodes norae,,Alsodidae,Anura,0
+Tlalocohyla smithii,,Hylidae,Anura,0
+Pristimantis multicolor,English: Multicolored Rain Frog. Spanish: Cutín multicolor.,Strabomantidae,Anura,0
+Raorchestes chalazodes,Chalazodes Bubble Nest Frog,Rhacophoridae,Anura,1
+Allobates niputidea,,Dendrobatidae,Anura,0
+Scinax fuscomarginatus,,Hylidae,Anura,1
+Pseudophryne covacevichae,Magnificent Brood Frog,Myobatrachidae,Anura,0
+Leptodactylus mystaceus,,Leptodactylidae,Anura,1
+Gracixalus yunnanensis,,Rhacophoridae,Anura,0
+Eleutherodactylus syristes,,Eleutherodactylidae,Anura,0
+Panophrys hoanglienensis,Hoang Lien horned frog (English); Ếch sừng hoàng liên (Vietnamese),Megophryidae,Anura,0
+Limnonectes paramacrodon,,Dicroglossidae,Anura,0
+Boana tetete,Tetete's treefrog,Hylidae,Anura,0
+Atelopus nocturnus,Nocturnal Harlequin Toad,Bufonidae,Anura,0
+Limnonectes palavanensis,Palawan Wart Frog,Dicroglossidae,Anura,0
+Boana multifasciata,,Hylidae,Anura,0
+Platypelis milloti,,Microhylidae,Anura,1
+Paratelmatobius cardosoi,,Leptodactylidae,Anura,0
+Craugastor gollmeri,,Craugastoridae,Anura,0
+Metaphrynella pollicaris,,Microhylidae,Anura,1
+Rana temporaria,Common Frog,Ranidae,Anura,0
+Gastrotheca pacchamama,,Hemiphractidae,Anura,0
+Amnirana galamensis,Galam white-lipped frog,Ranidae,Anura,1
+Afrixalus stuhlmanni,,Hyperoliidae,Anura,0
+Ptychohyla sanctaecrucis,,Hylidae,Anura,0
+Microkayla illampu,,Strabomantidae,Anura,0
+Scinax longilineus,,Hylidae,Anura,0
+Ameerega planipaleae,,Dendrobatidae,Anura,0
+Limnonectes larvaepartus,,Dicroglossidae,Anura,0
+Phyllodytes melanomystax,,Hylidae,Anura,0
+Eleutherodactylus cooki,Puerto Rican Cave Frog,Eleutherodactylidae,Anura,0
+Amolops daiyunensis,,Ranidae,Anura,0
+Bufotes oblongus,,Bufonidae,Anura,1
+Bufotes luristanicus,,Bufonidae,Anura,1
+Spinomantis aglavei,,Mantellidae,Anura,1
+Pristimantis kichwarum,,Strabomantidae,Anura,0
+Xenopus borealis,,Pipidae,Anura,0
+Andinobates tolimensis,,Dendrobatidae,Anura,0
+Hyperolius pictus,Variable Reed Frog,Hyperoliidae,Anura,0
+Boana punctata,Dotted Treefrog,Hylidae,Anura,0
+Boophis occidentalis,Western white lipped treefrog,Mantellidae,Anura,0
+Sarcohyla arborescandens,,Hylidae,Anura,0
+Polypedates macrotis,Brown-Striped Tree Frog,Rhacophoridae,Anura,0
+Staurois tuberilinguis,,Ranidae,Anura,0
+Melanophryniscus stelzneri,,Bufonidae,Anura,0
+Centrolene huilense,Huila Glassfrog,Centrolenidae,Anura,0
+Duellmanohyla ignicolor,Sierra Juarez Brook Frog,Hylidae,Anura,0
+Opisthothylax immaculatus,Gray-eyed Frog,Hyperoliidae,Anura,0
+Dendropsophus rubicundulus,Lagoa Santa's Tree Frog,Hylidae,Anura,1
+Gastrotheca guentheri,,Hemiphractidae,Anura,0
+Pristimantis serendipitus,,Strabomantidae,Anura,0
+Craugastor talamancae,Almirante Robber Frog,Craugastoridae,Anura,0
+Boophis viridis,,Mantellidae,Anura,1
+Stumpffia yanniki,,Microhylidae,Anura,0
+Craugastor ranoides,,Craugastoridae,Anura,0
+Proceratophrys bigibbosa,,Odontophrynidae,Anura,0
+Gephyromantis eiselti,,Mantellidae,Anura,1
+Atelopus tricolor,Tri-Colored Harlequin frog,Bufonidae,Anura,0
+Anilany helenae,,Microhylidae,Anura,1
+Pristimantis dorsopictus,,Strabomantidae,Anura,0
+Leptodactylus rugosus,,Leptodactylidae,Anura,0
+Phyllomedusa azurea,,Hylidae,Anura,0
+Hyloxalus subpunctatus,,Dendrobatidae,Anura,0
+Astylosternus ranoides,,Arthroleptidae,Anura,0
+Nymphargus rosada,,Centrolenidae,Anura,0
+Dendropsophus columbianus,,Hylidae,Anura,0
+Oreophryne equus,,Microhylidae,Anura,1
+Rhinella poeppigii,,Bufonidae,Anura,0
+Strauchbufo raddei,Mongolian Toad,Bufonidae,Anura,0
+Glyphoglossus capsus,Bornean Chili Frog,Microhylidae,Anura,0
+Adelophryne mucronatus,,Eleutherodactylidae,Anura,0
+Sclerophrys perreti,,Bufonidae,Anura,0
+Craugastor yucatanensis,,Craugastoridae,Anura,0
+Leptobrachium hasseltii,Hasselt's Toad,Megophryidae,Anura,0
+Ascaphus montanus,Rocky Mountain Tailed Frog,Ascaphidae,Anura,0
+Rana aurora,Northern Red-legged Frog,Ranidae,Anura,1
+Hymenochirus curtipes,,Pipidae,Anura,0
+Boana raniceps,,Hylidae,Anura,1
+Boophis tephraeomystax,,Mantellidae,Anura,1
+Litoria brevipalmata,Green-thighed Frog,Hylidae,Anura,0
+Mantella betsileo,,Mantellidae,Anura,0
+Kaloula latidisca,Wide-Disked Narrow-mouthed Frog,Microhylidae,Anura,0
+Ranitomeya vanzolinii,Spotted Poison Frog,Dendrobatidae,Anura,0
+Hyperolius quinquevittatus,Five-striped Reed Frog,Hyperoliidae,Anura,0
+Elachistocleis erythrogaster,,Microhylidae,Anura,0
+Ptychadena goweri,,Ptychadenidae,Anura,0
+Ptychadena subpunctata,Spotted ridged frog,Ptychadenidae,Anura,0
+Petropedetes johnstoni,,Petropedetidae,Anura,0
+Glyphoglossus minutus,,Microhylidae,Anura,0
+Mantella baroni,,Mantellidae,Anura,1
+Pristimantis bromeliaceus,,Strabomantidae,Anura,0
+Pristimantis quinquagesimus,,Strabomantidae,Anura,0
+Boophis miniatus,,Mantellidae,Anura,1
+Zhangixalus moltrechti,,Rhacophoridae,Anura,0
+Guibemantis albomaculatus,White-spotted Malagasy Pandanus Frog,Mantellidae,Anura,0
+Leptodactylus longirostris,,Leptodactylidae,Anura,1
+Pristimantis proserpens,,Strabomantidae,Anura,0
+Hyperolius puncticulatus,Spotted Reed Frog,Hyperoliidae,Anura,0
+Oophaga vicentei,,Dendrobatidae,Anura,0
+Bromeliohyla bromeliacia,Bromeliad Treefrog,Hylidae,Anura,0
+Ischnocnema penaxavantinho,,Brachycephalidae,Anura,1
+Proceratophrys palustris,,Odontophrynidae,Anura,0
+Atlantihyla spinipollex,Ceiba Stream Frog,Hylidae,Anura,0
+Nyctibatrachus kempholeyensis,,Nyctibatrachidae,Anura,0
+Phrynobatrachus latifrons,,Phrynobatrachidae,Anura,1
+Pseudopaludicola ternetzi,,Leptodactylidae,Anura,1
+Astylosternus diadematus,,Arthroleptidae,Anura,0
+Hyalinobatrachium viridissimum,,Centrolenidae,Anura,0
+Craugastor emcelae,,Craugastoridae,Anura,0
+Boana atlantica,,Hylidae,Anura,0
+Lynchius flavomaculatus,,Strabomantidae,Anura,0
+Chiasmocleis capixaba,,Microhylidae,Anura,0
+Zhangixalus arboreus,Kinugasa Flying Frog,Rhacophoridae,Anura,0
+Boana heilprini,Hispaniolan Green Treefrog,Hylidae,Anura,0
+Xenopus amieti,,Pipidae,Anura,1
+Allobates pittieri,,Dendrobatidae,Anura,0
+Rhinella spinulosa,,Bufonidae,Anura,0
+Leptopelis rufus,,Arthroleptidae,Anura,0
+Pristimantis molybrignus,,Strabomantidae,Anura,0
+Pristimantis altamnis,,Strabomantidae,Anura,0
+Melanophryniscus moreirae,,Bufonidae,Anura,0
+Leptopelis occidentalis,,Arthroleptidae,Anura,0
+Ranitomeya flavovittata,,Dendrobatidae,Anura,0
+Sallywalkerana phrynoderma,Warty-skinned Leaping Frog,Ranixalidae,Anura,0
+Nidirana okinavana,Ryukyu Brown Frog,Ranidae,Anura,0
+Gastrotheca testudinea,,Hemiphractidae,Anura,0
+Leptodactylus validus,Garman's thin-toed frog,Leptodactylidae,Anura,0
+Xenopus eysoole,Bamiléké Clawed Frog,Pipidae,Anura,1
+Ischnocnema abdita,,Brachycephalidae,Anura,0
+Cophixalus hinchinbrookensis,Hinchinbrook Island Nursery-frog,Microhylidae,Anura,0
+Leptobrachella ardens,,Megophryidae,Anura,0
+Sclerophrys capensis,Ranger's Toad,Bufonidae,Anura,0
+Chiasmocleis crucis,,Microhylidae,Anura,0
+Rana magnaocularis,,Ranidae,Anura,0
+Boana sibleszi,,Hylidae,Anura,0
+Afrixalus knysnae,Knysna Spiny Reed Frog,Hyperoliidae,Anura,0
+Phrynobatrachus africanus,,Phrynobatrachidae,Anura,0
+Blythophryne beryet,Andaman Bush Toad,Bufonidae,Anura,0
+Gephyromantis ventrimaculatus,,Mantellidae,Anura,1
+Chiasmocleis ventrimaculata,,Microhylidae,Anura,0
+Pristimantis leoni,,Strabomantidae,Anura,0
+Raorchestes anili,Anil's Bush Frog,Rhacophoridae,Anura,0
+Mini mum,,Microhylidae,Anura,0
+Pristimantis koehleri,,Strabomantidae,Anura,0
+Vitreorana antisthenesi,,Centrolenidae,Anura,0
+Hyloscirtus platydactylus,,Hylidae,Anura,0
+Dendropsophus praestans,,Hylidae,Anura,0
+Dendropsophus mapinguari,Mapinguari Clown Tree Frog,Hylidae,Anura,0
+Pristimantis bacchus,,Strabomantidae,Anura,0
+Limnonectes nitidus,,Dicroglossidae,Anura,0
+Heterixalus boettgeri,,Hyperoliidae,Anura,1
+Phrynobatrachus minutus,,Phrynobatrachidae,Anura,0
+Plectrohyla avia,,Hylidae,Anura,0
+Brachytarsophrys carinense,Broad-Headed Short-Legged Toad (in English) / Kuan Tou Duan Tui Chan 宽头短腿蟾,Megophryidae,Anura,0
+Nanorana parkeri,High Himalaya Frog,Dicroglossidae,Anura,0
+Pristimantis conservatio,Conservation landfrog; Ranita nublada de los conservacionistas,Strabomantidae,Anura,0
+Oreobates gemcare,,Strabomantidae,Anura,0
+Pseudophilautus hallidayi,Halliday's Shrub Frog,Rhacophoridae,Anura,0
+Andinobates geminisae,Poison Dart Frog,Dendrobatidae,Anura,1
+Rulyrana saxiscandens,,Centrolenidae,Anura,0
+Espadarana durrellorum,Durrell’s Glassfrog,Centrolenidae,Anura,0
+Scarthyla goinorum,,Hylidae,Anura,0
+Pristimantis peraticus,,Strabomantidae,Anura,0
+Tepuihyla rodriguezi,,Hylidae,Anura,0
+Pristimantis calcarulatus,,Strabomantidae,Anura,0
+Afrixalus fulvovittatus,,Hyperoliidae,Anura,0
+Meristogenys orphnocnemis,,Ranidae,Anura,0
+Allobates insperatus,,Dendrobatidae,Anura,0
+Incilius ibarrai,,Bufonidae,Anura,0
+Microhyla orientalis,,Microhylidae,Anura,0
+Mantidactylus grandidieri,,Mantellidae,Anura,0
+Scinax cardosoi,,Hylidae,Anura,0
+Leptodactylus elenae,,Leptodactylidae,Anura,0
+Ptychadena taenioscelis,Small ridged frog,Ptychadenidae,Anura,0
+Werneria bambutensis,Bamboutos Smalltongue Toad,Bufonidae,Anura,0
+Hyperolius acutirostris,,Hyperoliidae,Anura,0
+Cycloramphus eleutherodactylus,Alto Button Frog,Cycloramphidae,Anura,0
+Gastrotheca megacephala,,Hemiphractidae,Anura,0
+Centrolene sabini,Sabin's Glassfrog,Centrolenidae,Anura,0
+Leptodactylus sertanejo,,Leptodactylidae,Anura,1
+Leptobrachium tengchongense,,Megophryidae,Anura,0
+Gastrotheca pseustes,,Hemiphractidae,Anura,0
+Osteocephalus castaneicola,,Hylidae,Anura,0
+Anodonthyla eximia,,Microhylidae,Anura,0
+Anaxyrus exsul,Black Toad,Bufonidae,Anura,1
+Pristimantis nigrogriseus,,Strabomantidae,Anura,0
+Anomaloglossus roraima,Roraima Rocket Frog,Dendrobatidae,Anura,0
+Platypelis pollicaris,,Microhylidae,Anura,1
+Boana pulchella,,Hylidae,Anura,0
+Lepidobatrachus asper,,Ceratophryidae,Anura,0
+Adenomera simonstuarti,,Leptodactylidae,Anura,0
+Craugastor xucanebi,,Craugastoridae,Anura,0
+Meristogenys amoropalamus,,Ranidae,Anura,0
+Odontophrynus carvalhoi,,Odontophrynidae,Anura,0
+Amietia hymenopus,Phofung River Frog,Pyxicephalidae,Anura,0
+Pseudacris ocularis,Little Grass Frog,Hylidae,Anura,0
+Clinotarsus curtipes,,Ranidae,Anura,1
+Kaloula baleata,Smooth-Fingered Narrow-Mouthed Frog,Microhylidae,Anura,0
+Pristimantis juanchoi,,Strabomantidae,Anura,0
+Gastrotheca peruana,,Hemiphractidae,Anura,0
+Ischnocnema parva,,Brachycephalidae,Anura,1
+Pipa myersi,Myers' Surinam Toad,Pipidae,Anura,0
+Nyctimystes cheesmani,,Hylidae,Anura,0
+Sanguirana sanguinea,Southeast Asian Wood Frog,Ranidae,Anura,0
+Phyllomedusa palliata,,Hylidae,Anura,0
+Hydrophylax leptoglossa,,Ranidae,Anura,0
+Osteocephalus vilmae,,Hylidae,Anura,0
+Pristimantis chloronotus,,Strabomantidae,Anura,0
+Stumpffia kibomena,,Microhylidae,Anura,1
+Phrynoidis juxtasper,,Bufonidae,Anura,0
+Hyalinobatrachium carlesvilai,,Centrolenidae,Anura,0
+Adenomera andreae,,Leptodactylidae,Anura,1
+Raorchestes ponmudi,Large Ponmudi Bush Frog,Rhacophoridae,Anura,0
+Nyctibatrachus pillaii,Pillai's Night Frog,Nyctibatrachidae,Anura,0
+Osteocephalus heyeri,,Hylidae,Anura,0
+Allobates olfersioides,Rio Rocket Frog,Dendrobatidae,Anura,0
+Leptobrachella pluvialis,,Megophryidae,Anura,0
+Ptychohyla euthysanota,,Hylidae,Anura,0
+Litoria watsoni,,Hylidae,Anura,0
+Litoria nannotis,Waterfall Frog,Hylidae,Anura,1
+Odorrana yizhangensis,,Ranidae,Anura,0
+Euphlyctis ehrenbergii,,Dicroglossidae,Anura,0
+Pristimantis eriphus,,Strabomantidae,Anura,0
+Stumpffia roseifemoralis,,Microhylidae,Anura,1
+Allobates amissibilis,,Dendrobatidae,Anura,0
+Microhyla heymonsi,Black-sided Narrow-mouth Frog,Microhylidae,Anura,1
+Craugastor taurus,,Craugastoridae,Anura,0
+Eleutherodactylus eileenae,Cuban Two-note Frog,Eleutherodactylidae,Anura,0
+Eleutherodactylus locustus,Puerto Rican Small-eared Frog,Eleutherodactylidae,Anura,0
+Phrynobatrachus mababiensis,Mababe puddle frog,Phrynobatrachidae,Anura,0
+Hemiphractus kaylockae,,Hemiphractidae,Anura,0
+Craugastor polymniae,,Craugastoridae,Anura,0
+Rhinella icterica,Yellow Cururu Toad,Bufonidae,Anura,1
+Amietia vertebralis,Large-mouthed frog,Pyxicephalidae,Anura,0
+Litoria graminea,,Hylidae,Anura,0
+Atelopus balios,,Bufonidae,Anura,0
+Pristimantis leptolophus,,Strabomantidae,Anura,0
+Afrixalus dorsalis,Striped Spiny Reed Frog,Hyperoliidae,Anura,1
+Microkayla pinguis,,Strabomantidae,Anura,0
+Anaxyrus punctatus,Red-Spotted Toad,Bufonidae,Anura,1
+Pristimantis parvillus,,Strabomantidae,Anura,0
+Leptobrachium smithi,Southern Bicolor-eyed Toadfrog,Megophryidae,Anura,0
+Limnonectes kohchangae,,Dicroglossidae,Anura,0
+Elachistocleis ovalis,Northern Oval Frog,Microhylidae,Anura,1
+Oreobates zongoensis,,Strabomantidae,Anura,0
+Spea bombifrons,Plains Spadefoot,Scaphiopodidae,Anura,0
+Centrolene daidalea,,Centrolenidae,Anura,0
+Buergeria buergeri,Kajika frog,Rhacophoridae,Anura,0
+Dendropsophus ebraccatus,Hourglass Treefrog,Hylidae,Anura,0
+Poyntonia paludicola,Montane Marsh Frog,Pyxicephalidae,Anura,0
+Stereocyclops histrio,,Microhylidae,Anura,0
+Arthroleptis pyrrhoscelis,,Arthroleptidae,Anura,0
+Phrynobatrachus cornutus,,Phrynobatrachidae,Anura,0
+Schismaderma carens,Red Toad,Bufonidae,Anura,0
+Semnodactylus wealii,Weale's running frog,Hyperoliidae,Anura,0
+Pristimantis gryllus,Andean cricket frog,Strabomantidae,Anura,0
+Charadrahyla taeniopus,Porthole Treefrog,Hylidae,Anura,0
+Raorchestes resplendens,,Rhacophoridae,Anura,0
+Plectrohyla ixil,,Hylidae,Anura,0
+Hyla suweonensis,Suweon treefrog,Hylidae,Anura,0
+Mertensophryne taitana,Taita Toad,Bufonidae,Anura,0
+Arthroleptis xenochirus,Plain squeaker,Arthroleptidae,Anura,0
+Xenopus wittei,,Pipidae,Anura,1
+Philoria pughi,,Myobatrachidae,Anura,0
+Pulchrana glandulosa,,Ranidae,Anura,0
+Noblella pygmaea,,Strabomantidae,Anura,0
+Pleurodema kriegi,,Leptodactylidae,Anura,0
+Rhombophryne coudreaui,,Microhylidae,Anura,0
+Sarcohyla cyclada,,Hylidae,Anura,0
+Proceratophrys carranca,,Odontophrynidae,Anura,0
+Mantidactylus aerumnalis,,Mantellidae,Anura,0
+Pristimantis jimenezi,English: Jiménez de la Espada’s Rain Frog. Spanish: Cutín de Jiménez de la Espada.,Strabomantidae,Anura,0
+Boana bischoffi,,Hylidae,Anura,1
+Hyla perrini,,Hylidae,Anura,0
+Physalaemus camacan,,Leptodactylidae,Anura,0
+Kassina fusca,,Hyperoliidae,Anura,1
+Nymphargus grandisonae,Red-spotted Glassfrog,Centrolenidae,Anura,1
+Hyperolius tuberculatus,,Hyperoliidae,Anura,0
+Pristimantis carvalhoi,,Strabomantidae,Anura,0
+Isthmohyla zeteki,,Hylidae,Anura,0
+Leptodactylus labyrinthicus,Pepper frog,Leptodactylidae,Anura,1
+Colostethus pratti,,Dendrobatidae,Anura,0
+Xenopus epitropicalis,Southern tropical platanna,Pipidae,Anura,1
+Pristimantis paisa,,Strabomantidae,Anura,0
+Ischnocnema holti,,Brachycephalidae,Anura,1
+Liurana medogensis,,Ceratobatrachidae,Anura,0
+Aplastodiscus ehrhardti,,Hylidae,Anura,0
+Hyla squirella,Squirrel Treefrog,Hylidae,Anura,1
+Niceforonia fallaciosa,,Strabomantidae,Anura,0
+Arthroleptides yakusini,,Petropedetidae,Anura,0
+Phasmahyla cruzi,,Hylidae,Anura,0
+Hamptophryne alios,,Microhylidae,Anura,0
+Pseudophilautus poppiae,,Rhacophoridae,Anura,0
+Stumpffia iharana,,Microhylidae,Anura,0
+Leptodactylus plaumanni,,Leptodactylidae,Anura,0
+Isthmohyla pictipes,,Hylidae,Anura,0
+Pristimantis fenestratus,,Strabomantidae,Anura,1
+Physalaemus feioi,,Leptodactylidae,Anura,0
+Uperoleia altissima,Montane Toadlet,Myobatrachidae,Anura,0
+Fejervarya cancrivora,Crab-eating Frog,Dicroglossidae,Anura,1
+Scinax constrictus,,Hylidae,Anura,0
+Afrixalus osorioi,Osorio's Spiny Reed Frog,Hyperoliidae,Anura,0
+Pristimantis spinosus,,Strabomantidae,Anura,0
+Ansonia latiffi,,Bufonidae,Anura,0
+Craugastor saltator,,Craugastoridae,Anura,0
+Pseudophilautus steineri,,Rhacophoridae,Anura,0
+Gracixalus quyeti,,Rhacophoridae,Anura,0
+Cruziohyla craspedopus,,Hylidae,Anura,0
+Chalcorana megalonesa,,Ranidae,Anura,0
+Leptopelis mossambicus,Mozambique tree frog,Arthroleptidae,Anura,0
+Chrysobatrachus cupreonitens,,Hyperoliidae,Anura,0
+Anaxyrus nelsoni,Amargosa Toad,Bufonidae,Anura,1
+Hyperolius pusillus,Water Lily Reed Frog,Hyperoliidae,Anura,0
+Allobates chalcopis,Martinique Volcano Frog,Dendrobatidae,Anura,0
+Petropedetes juliawurstnerae,,Petropedetidae,Anura,0
+Pseudacris regilla,Pacific Treefrog,Hylidae,Anura,1
+Rana sylvatica,Wood Frog,Ranidae,Anura,0
+Phyllomedusa boliviana,,Hylidae,Anura,0
+Ameerega braccata,,Dendrobatidae,Anura,0
+Nanorana minica,,Dicroglossidae,Anura,0
+Exerodonta perkinsi,,Hylidae,Anura,0
+Eupsophus migueli,Miguel's Toad,Alsodidae,Anura,0
+Sclerophrys gutturalis,Guttural Toad,Bufonidae,Anura,0
+Atelopus ignescens,Jambato Toad,Bufonidae,Anura,0
+Leptobrachella sungi,Sung’s Litter Toad,Megophryidae,Anura,0
+Rhinella stanlaii,,Bufonidae,Anura,0
+Cycloramphus bolitoglossus,Blumenau Button Frog,Cycloramphidae,Anura,0
+Elachistocleis helianneae,,Microhylidae,Anura,0
+Pseudopaludicola ceratophyes,Leticia Swamp Frog,Leptodactylidae,Anura,0
+Leptobrachella graminicola,English name: Mount Pu Ta Leng leaf-litter frog; Vietnamese name: Cóc mày lá cỏ,Megophryidae,Anura,0
+Hyperolius kuligae,,Hyperoliidae,Anura,0
+Nectophryne afra,,Bufonidae,Anura,0
+Wolterstorffina mirei,,Bufonidae,Anura,0
+Physalaemus ephippifer,Steindachner's dwarf frog,Leptodactylidae,Anura,0
+Bokermannohyla vulcaniae,,Hylidae,Anura,0
+Rhombophryne serratopalpebrosa,,Microhylidae,Anura,0
+Cochranella resplendens,Resplendent Glassfrog,Centrolenidae,Anura,0
+Atlantihyla melissa,,Hylidae,Anura,0
+Leucostethus jota,,Dendrobatidae,Anura,0
+Amnirana lepus,,Ranidae,Anura,0
+Dendropsophus haraldschultzi,,Hylidae,Anura,0
+Leptobrachella juliandringi,Dring's Dwarf Litter Frog,Megophryidae,Anura,0
+Rhinella festae,Valle Santiago Beaked Toad,Bufonidae,Anura,0
+Centrolene savagei,Savage's Glass Frog,Centrolenidae,Anura,0
+Wolterstorffina chirioi,,Bufonidae,Anura,0
+Exerodonta catracha,,Hylidae,Anura,0
+Ameerega flavopicta,,Dendrobatidae,Anura,1
+Sphaenorhynchus lacteus,Ghost Frog,Hylidae,Anura,0
+Leptopelis anebos,Young Itombwe Forest Treefrog,Arthroleptidae,Anura,0
+Philautus aurantium,,Rhacophoridae,Anura,0
+Boana lanciformis,Rocket Treefrog,Hylidae,Anura,1
+Allobates trilineatus,,Dendrobatidae,Anura,0
+Litoria eucnemis,Fringed Tree Frog,Hylidae,Anura,0
+Hyperolius bopeleti,,Hyperoliidae,Anura,0
+Minervarya agricola,,Dicroglossidae,Anura,0
+Scaphiophryne spinosa,,Microhylidae,Anura,1
+Spinomantis bertini,,Mantellidae,Anura,1
+Osteocephalus mimeticus,,Hylidae,Anura,0
+Boophis calcaratus,,Mantellidae,Anura,0
+Pristimantis ridens,Pygmy Rain Frog,Strabomantidae,Anura,0
+Incilius coccifer,,Bufonidae,Anura,0
+Ptychadena newtoni,Newton's Grassland Frog,Ptychadenidae,Anura,0
+Gastrotheca walkeri,,Hemiphractidae,Anura,0
+Amnirana amnicola,,Ranidae,Anura,0
+Trachycephalus jordani,,Hylidae,Anura,0
+Dendrophryniscus oreites,,Bufonidae,Anura,0
+Rana macrocnemis,Iranian Long-Legged Frog,Ranidae,Anura,0
+Adelphobates castaneoticus,Brazil-nut Poison Frog,Dendrobatidae,Anura,0
+Minervarya gomantaki,goan fejervarya,Dicroglossidae,Anura,0
+Mercurana myristicapalustris,Myristica Swamp Treefrog,Rhacophoridae,Anura,0
+Phlyctimantis keithae,,Hyperoliidae,Anura,0
+Rhinella centralis,,Bufonidae,Anura,0
+Boana gladiator,Gladiator Frog,Hylidae,Anura,0
+Gephyromantis zavona,,Mantellidae,Anura,1
+Hemisus marmoratus,Shovel-nosed frog,Hemisotidae,Anura,1
+Clinotarsus alticola,,Ranidae,Anura,0
+Tepuihyla warreni,,Hylidae,Anura,0
+Atelopus ebenoides,,Bufonidae,Anura,0
+Stumpffia contumelia,,Microhylidae,Anura,1
+Chaperina fusca,Yellow-Spotted Narrow-Mouthed Frog,Microhylidae,Anura,0
+Alsodes nodosus,,Alsodidae,Anura,0
+Arthroleptis aureoli,,Arthroleptidae,Anura,0
+Ranitomeya imitator,Imitating Poison Frog,Dendrobatidae,Anura,0
+Sarcohyla celata,,Hylidae,Anura,0
+Nyctixalus spinosum,Spiny Tree Frog,Rhacophoridae,Anura,0
+Osteocephalus verruciger,,Hylidae,Anura,0
+Boophis sandrae,,Mantellidae,Anura,0
+Pristimantis riveti,,Strabomantidae,Anura,0
+Pristimantis padiali,,Strabomantidae,Anura,0
+Boophis entingae,,Mantellidae,Anura,0
+Pristimantis platydactylus,,Strabomantidae,Anura,0
+Gastrotheca trachyceps,Cerro Munchique Marsupial Frog,Hemiphractidae,Anura,0
+Leptodactylus jolyi,,Leptodactylidae,Anura,1
+Hyla chinensis,Chinese Tree Toad,Hylidae,Anura,0
+Arcovomer passarellii,,Microhylidae,Anura,1
+Physalaemus orophilus,,Leptodactylidae,Anura,0
+Aplastodiscus sibilatus,,Hylidae,Anura,0
+Asterophrys turpicola,New Guinea Bush Frog,Microhylidae,Anura,0
+Boophis lilianae,,Mantellidae,Anura,0
+Ischnocnema lactea,,Brachycephalidae,Anura,0
+Phyllomedusa ecuatoriana,,Hylidae,Anura,0
+Atelopus spumarius,Pebas Stubfoot Toad,Bufonidae,Anura,1
+Bryophryne hanssaueri,,Strabomantidae,Anura,0
+Ptychadena bibroni,,Ptychadenidae,Anura,1
+Allobates caeruleodactylus,,Dendrobatidae,Anura,0
+Xenophrys longipes,,Megophryidae,Anura,0
+Uperodon nagaoi,Nagao's Globular Frog,Microhylidae,Anura,0
+Chiasmocleis mantiqueira,,Microhylidae,Anura,0
+Hyperolius bobirensis,,Hyperoliidae,Anura,0
+Platyplectrum spenceri,Spencer's Burrowing Frog,Myobatrachidae,Anura,0
+Litoria fallax,Eastern Dwarf Tree Frog,Hylidae,Anura,1
+Hyla femoralis,Pine Woods Treefrog,Hylidae,Anura,0
+Pristimantis caryophyllaceus,La Loma Robber Frog,Strabomantidae,Anura,0
+Pristimantis diaphonus,,Strabomantidae,Anura,0
+Rhinella inopina,,Bufonidae,Anura,0
+Haddadus aramunha,,Craugastoridae,Anura,0
+Hyla andersonii,Pine Barrens Treefrog,Hylidae,Anura,0
+Alytes dickhilleni,Midwife Toad of Hillenius,Alytidae,Anura,0
+Scinax juncae,,Hylidae,Anura,0
+Litoria sanguinolenta,,Hylidae,Anura,0
+Gastrotheca weinlandii,,Hemiphractidae,Anura,0
+Uperoleia inundata,Flood Plain Toadlet,Myobatrachidae,Anura,0
+Acris crepitans,Northern Cricket Frog,Hylidae,Anura,1
+Hyperolius phantasticus,,Hyperoliidae,Anura,0
+Platymantis insulatus,Island Forest Frog,Ceratobatrachidae,Anura,0
+Noblella myrmecoides,,Strabomantidae,Anura,0
+Rana sangzhiensis,,Ranidae,Anura,0
+Chiasmocleis cordeiroi,,Microhylidae,Anura,0
+Limnonectes visayanus,,Dicroglossidae,Anura,0
+Hylarana erythraea,Green Paddy Frog,Ranidae,Anura,0
+Papurana florensis,,Ranidae,Anura,0
+Boophis septentrionalis,,Mantellidae,Anura,1
+Leucostethus argyrogaster,Imaza Rocket Frog,Dendrobatidae,Anura,0
+Hyperolius discodactylus,Highland Reed Frog,Hyperoliidae,Anura,0
+Pseudopaludicola saltica,,Leptodactylidae,Anura,0
+Boana cipoensis,,Hylidae,Anura,0
+Boophis microtympanum,,Mantellidae,Anura,1
+Allobates brunneus,,Dendrobatidae,Anura,0
+Rhaebo glaberrimus,,Bufonidae,Anura,0
+Incilius campbelli,,Bufonidae,Anura,0
+Occidozyga lima,Gray-green Puddlefrog,Dicroglossidae,Anura,0
+Pseudis bolbodactyla,,Hylidae,Anura,1
+Arthroleptis affinis,,Arthroleptidae,Anura,0
+Craugastor berkenbuschii,,Craugastoridae,Anura,0
+Ansonia malayana,,Bufonidae,Anura,0
+Cyclorana australis,Giant Frog,Hylidae,Anura,0
+Pelophylax bergeri,,Ranidae,Anura,0
+Hyperolius tanneri,,Hyperoliidae,Anura,0
+Arenophryne xiphorhyncha,Southern Sandhill Frog,Myobatrachidae,Anura,0
+Scinax flavoguttatus,,Hylidae,Anura,0
+Pristimantis lanthanites,,Strabomantidae,Anura,0
+Leptobrachella baluensis,,Megophryidae,Anura,0
+Kassinula wittei,De Witte's Clicking Frog,Hyperoliidae,Anura,0
+Kaloula borealis,Boreal Digging Frog,Microhylidae,Anura,0
+Rhinella lescurei,,Bufonidae,Anura,0
+Rhacophorus nigropalmatus,Wallace's Flying Frog,Rhacophoridae,Anura,0
+Leptopelis susanae,,Arthroleptidae,Anura,0
+Eleutherodactylus brittoni,Puerto Rican Grassfrog,Eleutherodactylidae,Anura,0
+Litoria lorica,Armoured Mistfrog,Hylidae,Anura,0
+Noblella lynchi,,Strabomantidae,Anura,0
+Leptodactylus gracilis,,Leptodactylidae,Anura,0
+Osteocephalus festae,,Hylidae,Anura,0
+Scutiger boulengeri,Xizang Alpine Toad,Megophryidae,Anura,0
+Gephyromantis ambohitra,,Mantellidae,Anura,1
+Xenophrys major,,Megophryidae,Anura,0
+Quasipaa verrucospinosa,,Dicroglossidae,Anura,0
+Incilius spiculatus,,Bufonidae,Anura,0
+Craugastor polyptychus,,Craugastoridae,Anura,0
+Gastrotheca dendronastes,,Hemiphractidae,Anura,0
+Xenophrys dringi,,Megophryidae,Anura,0
+Sarcohyla pentheter,,Hylidae,Anura,0
+Duttaphrynus himalayanus,Himalayan Toad,Bufonidae,Anura,0
+Melanophryniscus cupreuscapularis,,Bufonidae,Anura,0
+Rana latastei,,Ranidae,Anura,0
+Bufo torrenticola,Japanese Stream Toad,Bufonidae,Anura,0
+Leptobrachium bompu,,Megophryidae,Anura,0
+Hyloxalus insulatus,,Dendrobatidae,Anura,0
+Atelopus pachydermus,,Bufonidae,Anura,0
+Phrynomantis microps,,Microhylidae,Anura,1
+Scaphiophryne calcarata,,Microhylidae,Anura,0
+Gastrotheca ernestoi,,Hemiphractidae,Anura,0
+Hydrolaetare schmidti,,Leptodactylidae,Anura,0
+Leptodactylus spixi,,Leptodactylidae,Anura,0
+Eleutherodactylus cochranae,Puerto Rican Whistling Frog,Eleutherodactylidae,Anura,0
+Pleurodema bufoninum,,Leptodactylidae,Anura,0
+Stumpffia be,,Microhylidae,Anura,0
+Phlyctimantis leonardi,,Hyperoliidae,Anura,0
+Centrolene pipilatum,Peeping Glassfrog,Centrolenidae,Anura,0
+Andinobates claudiae,,Dendrobatidae,Anura,1
+Microbatrachella capensis,Micro frog,Pyxicephalidae,Anura,0
+Latonia nigriventer,Hula Painted Frog,Alytidae,Anura,0
+Andinobates opisthomelas,,Dendrobatidae,Anura,0
+Incilius occidentalis,,Bufonidae,Anura,0
+Pulchrana moellendorffi,,Ranidae,Anura,0
+Pristimantis malkini,,Strabomantidae,Anura,0
+Plectrohyla exquisita,,Hylidae,Anura,0
+Pristimantis incanus,,Strabomantidae,Anura,0
+Tlalocohyla picta,,Hylidae,Anura,0
+Hyloscirtus larinopygion,,Hylidae,Anura,0
+Raorchestes charius,,Rhacophoridae,Anura,0
+Arthroleptis reichei,Poroto Screeching Frog,Arthroleptidae,Anura,0
+Boophis narinsi,,Mantellidae,Anura,0
+Boana pellucens,,Hylidae,Anura,0
+Ansonia echinata,,Bufonidae,Anura,0
+Pelophylax saharicus,Sahara Frog,Ranidae,Anura,0
+Aglyptodactylus australis,,Mantellidae,Anura,0
+Blommersia wittei,,Mantellidae,Anura,1
+Anomaloglossus rufulus,,Dendrobatidae,Anura,0
+Isthmohyla graceae,,Hylidae,Anura,0
+Uperodon anamalaiensis,,Microhylidae,Anura,0
+Kurixalus verrucosus,,Rhacophoridae,Anura,0
+Boana phaeopleura,,Hylidae,Anura,0
+Leptodactylus petersii,,Leptodactylidae,Anura,1
+Aplastodiscus ibirapitanga,,Hylidae,Anura,0
+Rhinella dorbignyi,,Bufonidae,Anura,0
+Rhinella granulosa,,Bufonidae,Anura,1
+Quasipaa exilispinosa,Lesser Spiny Frog,Dicroglossidae,Anura,1
+Nyctibates corrugatus,,Arthroleptidae,Anura,0
+Panophrys frigida,English Name: Mount Ky Quan San horned frog; Vietnamese Name: Cóc sừng Ky Quan San,Megophryidae,Anura,0
+Oreophryne meliades,,Microhylidae,Anura,1
+Phyllomedusa venusta,,Hylidae,Anura,0
+Nidirana lini,,Ranidae,Anura,0
+Zhangixalus leucofasciatus,White-striped Treefrog,Rhacophoridae,Anura,0
+Stumpffia betampona,,Microhylidae,Anura,0
+Spinomantis elegans,,Mantellidae,Anura,0
+Blommersia dejongi,,Mantellidae,Anura,0
+Zhangixalus jodiae,Jodi’s Treefrog (English) and Ếch cây jô-đi (Vietnamese),Rhacophoridae,Anura,0
+Bufotes latastii,Ladakh Toad,Bufonidae,Anura,0
+Pristimantis cajamarcensis,,Strabomantidae,Anura,0
+Leptobrachella dringi,,Megophryidae,Anura,0
+Scinax x-signatus,Venezuelan Snouted Treefrog,Hylidae,Anura,0
+Rana draytonii,California Red-legged Frog,Ranidae,Anura,1
+Allobates paleovarzensis,Amazonian Nurse-Frog,Dendrobatidae,Anura,0
+Austrochaperina pluvialis,Rain Frog,Microhylidae,Anura,1
+Hyalinobatrachium talamancae,Green-striped Glass Frog,Centrolenidae,Anura,0
+Rhinella proboscidea,,Bufonidae,Anura,1
+Leptobrachella maura,,Megophryidae,Anura,0
+Pristimantis roseus,,Strabomantidae,Anura,0
+Dendropsophus joannae,,Hylidae,Anura,0
+Hyperolius mitchelli,Mitchell's Reed Frog,Hyperoliidae,Anura,0
+Phasmahyla timbo,Serra do Timbó Leaf Frog,Hylidae,Anura,0
+Hyla arborea,Common Tree Frog,Hylidae,Anura,1
+Dendropsophus marmoratus,,Hylidae,Anura,0
+Nidirana chapaensis,,Ranidae,Anura,0
+Leptobrachium xanthospilum,,Megophryidae,Anura,0
+Bufotes balearicus,,Bufonidae,Anura,0
+Ophryophryne synoria,,Megophryidae,Anura,0
+Pristimantis acatallelus,,Strabomantidae,Anura,0
+Afrixalus laevis,,Hyperoliidae,Anura,0
+Pristimantis galdi,,Strabomantidae,Anura,0
+Callulina stanleyi,Stanley’s Warty Frog,Brevicipitidae,Anura,0
+Ceratophrys calcarata,Venezuelan Horned Frog,Ceratophryidae,Anura,0
+Zhangixalus feae,,Rhacophoridae,Anura,0
+Hyalinobatrachium taylori,,Centrolenidae,Anura,0
+Physalaemus nattereri,,Leptodactylidae,Anura,1
+Kurixalus bisacculus,Taylor’s Rough-armed Treefrog,Rhacophoridae,Anura,0
+Hyla molleri,Iberian Tree Frog,Hylidae,Anura,0
+Pristimantis adnus,,Strabomantidae,Anura,0
+Chalcorana rufipes,,Ranidae,Anura,0
+Sclerophrys gracilipes,,Bufonidae,Anura,0
+Polypedates ranwellai,Ranwella's Spined Treefrog (English),Rhacophoridae,Anura,0
+Rhinella schneideri,Cururu Toad,Bufonidae,Anura,1
+Arthroleptides martiensseni,,Petropedetidae,Anura,0
+Allobates grillisimilis,,Dendrobatidae,Anura,0
+Andinobates minutus,,Dendrobatidae,Anura,0
+Petropedetes perreti,,Petropedetidae,Anura,0
+Hylodes pipilans,,Hylodidae,Anura,0
+Pleurodema borellii,,Leptodactylidae,Anura,0
+Ameerega panguana,Panguana Poison Frog,Dendrobatidae,Anura,0
+Triprion petasatus,Yucatecan Casquehead Treefrog,Hylidae,Anura,0
+Discoglossus pictus,Painted frog,Alytidae,Anura,0
+Plectrohyla teuchestes,,Hylidae,Anura,0
+Sclerophrys pantherina,Western Leopard Toad,Bufonidae,Anura,0
+Cornufer guppyi,,Ceratobatrachidae,Anura,0
+Boophis madagascariensis,,Mantellidae,Anura,1
+Ansonia kraensis,Malayan Stream Toad,Bufonidae,Anura,0
+Plectrohyla guatemalensis,Guatemala Spikethumb frog,Hylidae,Anura,0
+Pulchrana banjarana,,Ranidae,Anura,0
+Hylodes japi,,Hylodidae,Anura,0
+Astylosternus batesi,,Arthroleptidae,Anura,0
+Leptobrachium liui,,Megophryidae,Anura,0
+Pseudophilautus simba,,Rhacophoridae,Anura,0
+Rhacophorus spelaeus,,Rhacophoridae,Anura,0
+Aplastodiscus cochranae,,Hylidae,Anura,0
+Parapelophryne scalpta,,Bufonidae,Anura,1
+Rhaebo haematiticus,,Bufonidae,Anura,0
+Raorchestes signatus,,Rhacophoridae,Anura,0
+Alytes cisternasii,Iberian Midwife Toad,Alytidae,Anura,0
+Euphlyctis cyanophlyctis,Common Skittering Frog,Dicroglossidae,Anura,1
+Pelophylax lateralis,,Ranidae,Anura,0
+Oreobates granulosus,,Strabomantidae,Anura,0
+Nymphargus ocellatus,,Centrolenidae,Anura,0
+Chiromantis rufescens,,Rhacophoridae,Anura,0
+Cycloramphus acangatan,,Cycloramphidae,Anura,0
+Xenopus petersii,Peter's Platanna,Pipidae,Anura,0
+Kurixalus naso,,Rhacophoridae,Anura,0
+Gephyromantis leucomaculatus,,Mantellidae,Anura,1
+Sarcohyla hazelae,,Hylidae,Anura,0
+Gephyromantis redimitus,,Mantellidae,Anura,1
+Scaphiophryne boribory,,Microhylidae,Anura,1
+Pseudis platensis,,Hylidae,Anura,0
+Pristimantis kelephas,,Strabomantidae,Anura,0
+Stumpffia mamitika,,Microhylidae,Anura,1
+Mantidactylus betsileanus,,Mantellidae,Anura,1
+Rana arvalis,Moor Frog,Ranidae,Anura,0
+Microkayla kempffi,,Strabomantidae,Anura,0
+Pseudis tocantins,,Hylidae,Anura,0
+Platyplectrum ornatum,Ornate Burrowing Frog,Myobatrachidae,Anura,1
+Mantella crocea,,Mantellidae,Anura,1
+Proceratophrys subguttata,,Odontophrynidae,Anura,0
+Incilius cavifrons,,Bufonidae,Anura,0
+Papurana celebensis,,Ranidae,Anura,0
+Anaxyrus woodhousii,Woodhouse's Toad,Bufonidae,Anura,1
+Leptodactylus sabanensis,,Leptodactylidae,Anura,0
+Feihyla kajau,,Rhacophoridae,Anura,0
+Limnodynastes dumerilii,Bullfrog,Myobatrachidae,Anura,1
+Staurois guttatus,,Ranidae,Anura,0
+Capensibufo deceptus,Deception Peak Mountain Toadlet,Bufonidae,Anura,0
+Ansonia muelleri,Mueller's Toad,Bufonidae,Anura,0
+Pristimantis pinguis,,Strabomantidae,Anura,0
+Philautus acutus,,Rhacophoridae,Anura,0
+Afrixalus equatorialis,,Hyperoliidae,Anura,0
+Hyalinobatrachium bergeri,,Centrolenidae,Anura,0
+Nanorana conaensis,,Dicroglossidae,Anura,0
+Dendropsophus leali,,Hylidae,Anura,0
+Ischnocnema izecksohni,,Brachycephalidae,Anura,0
+Xenopus poweri,,Pipidae,Anura,1
+Buergeria robusta,Strong Stream Treefrog,Rhacophoridae,Anura,0
+Litoria ewingii,Whistling Tree Frog,Hylidae,Anura,1
+Boana prasina,Burmeister's Treefrog,Hylidae,Anura,1
+Ameerega boliviana,,Dendrobatidae,Anura,0
+Nannophrys naeyakai,Sri Lanka Tribal Rock Frog,Dicroglossidae,Anura,0
+Litoria personata,Masked Frog,Hylidae,Anura,0
+Xenopus tropicalis,Tropical Clawed Frogs,Pipidae,Anura,1
+Spinomantis phantasticus,,Mantellidae,Anura,1
+Cochranella mache,Ecuadorian Blue Glass Frog,Centrolenidae,Anura,0
+Litoria aurea,Green and Golden Bell Frog,Hylidae,Anura,0
+Panophrys fansipanensis,Mount Fansipan horned frog (English); Ếch sừng phan xi păng (Vietnamese),Megophryidae,Anura,0
+Rhombophryne coronata,,Microhylidae,Anura,1
+Pristimantis simoterus,,Strabomantidae,Anura,0
+Scinax garbei,,Hylidae,Anura,1
+Rana fisheri,Las Vegas Valley Leopard Frog,Ranidae,Anura,0
+Hyperolius pickersgilli,,Hyperoliidae,Anura,0
+Limnonectes hikidai,,Dicroglossidae,Anura,0
+Hyla gratiosa,Barking Treefrog,Hylidae,Anura,0
+Boophis xerophilus,,Mantellidae,Anura,1
+Pseudopaludicola atragula,,Leptodactylidae,Anura,0
+Pseudophilautus semiruber,,Rhacophoridae,Anura,0
+Boophis jaegeri,,Mantellidae,Anura,1
+Mantidactylus femoralis,,Mantellidae,Anura,0
+Odontobatrachus natator,Saber-toothed frog,Odontobatrachidae,Anura,0
+Minervarya rufescens,,Dicroglossidae,Anura,0
+Phrynobatrachus ukingensis,,Phrynobatrachidae,Anura,0
+Ptychohyla salvadorensis,,Hylidae,Anura,0
+Boophis andohahela,,Mantellidae,Anura,1
+Lysapsus limellum,Uruguay harlequin frog,Hylidae,Anura,0
+Pristimantis gladiator,,Strabomantidae,Anura,0
+Atelopus petersi,,Bufonidae,Anura,0
+Scinax brieni,,Hylidae,Anura,0
+Kassina maculosa,,Hyperoliidae,Anura,0
+Eleutherodactylus verrucipes,,Eleutherodactylidae,Anura,0
+Eleutherodactylus monensis,Mona Frog,Eleutherodactylidae,Anura,0
+Anaxyrus californicus,Arroyo Toad,Bufonidae,Anura,1
+Litoria cooloolensis,Cooloola Sedgefrog,Hylidae,Anura,0
+Rana coreana,Korean Brown Frog,Ranidae,Anura,0
+Humerana humeralis,,Ranidae,Anura,0
+Cophixalus kulakula,Kutini Boulder-frog,Microhylidae,Anura,0
+Pristimantis skydmainos,,Strabomantidae,Anura,0
+Leptobrachium hendricksoni,Spotted Litter Frog,Megophryidae,Anura,1
+Niceforonia elassodisca,,Strabomantidae,Anura,0
+Pristimantis bicumulus,,Strabomantidae,Anura,0
+Philautus gunungensis,,Rhacophoridae,Anura,0
+Nyctibatrachus manalari,Manalar night Frog,Nyctibatrachidae,Anura,0
+Odorrana andersonii,,Ranidae,Anura,0
+Scinax kautskyi,,Hylidae,Anura,0
+Dendropsophus aperomeus,,Hylidae,Anura,0
+Rhinella diptycha,Cope's Toad,Bufonidae,Anura,0
+Pristimantis permixtus,,Strabomantidae,Anura,0
+Oreobates saxatilis,,Strabomantidae,Anura,0
+Epipedobates boulengeri,,Dendrobatidae,Anura,0
+Beddomixalus bijui,,Rhacophoridae,Anura,0
+Pseudophilautus silus,,Rhacophoridae,Anura,0
+Scutiger occidentalis,,Megophryidae,Anura,0
+Phrynopus bracki,,Strabomantidae,Anura,0
+Hyloxalus idiomelus,,Dendrobatidae,Anura,0
+Craugastor megacephalus,,Craugastoridae,Anura,0
+Xenopus gilli,Cape Clawed Toad,Pipidae,Anura,1
+Eleutherodactylus intermedius,Pico Turquino Robber Frog,Eleutherodactylidae,Anura,0
+Crossodactylus gaudichaudii,,Hylodidae,Anura,0
+Anomaloglossus stepheni,,Dendrobatidae,Anura,1
+Pristimantis muricatus,,Strabomantidae,Anura,0
+Capensibufo magistratus,Landdroskop Mountain Toadlet,Bufonidae,Anura,0
+Rhinella limensis,,Bufonidae,Anura,0
+Hyalinobatrachium anachoretus,,Centrolenidae,Anura,0
+Dendropsophus anataliasiasi,,Hylidae,Anura,1
+Boana geographica,Map Treefrog,Hylidae,Anura,1
+Pseudopaludicola falcipes,,Leptodactylidae,Anura,0
+Anhydrophryne rattrayi,Rattray's frog,Pyxicephalidae,Anura,0
+Boana freicanecae,,Hylidae,Anura,0
+Minervarya keralensis,,Dicroglossidae,Anura,0
+Heterixalus luteostriatus,,Hyperoliidae,Anura,1
+Rana palustris,Pickerel Frog,Ranidae,Anura,0
+Raorchestes manohari,,Rhacophoridae,Anura,0
+Anaxyrus terrestris,Southern Toad,Bufonidae,Anura,0
+Phrynobatrachus krefftii,,Phrynobatrachidae,Anura,0
+Pseudacris cadaverina,California Treefrog,Hylidae,Anura,1
+Mixophyes coggeri,,Myobatrachidae,Anura,0
+Hyperolius viridis,,Hyperoliidae,Anura,0
+Elachistocleis panamensis,,Microhylidae,Anura,0
+Oophaga sylvatica,Little-devil poison frog,Dendrobatidae,Anura,0
+Kurixalus odontotarsus,,Rhacophoridae,Anura,0
+Pristimantis attenboroughi,Attenborough's Rubber Frog; Rana cutin Attenborough,Strabomantidae,Anura,0
+Melanophryniscus atroluteus,,Bufonidae,Anura,0
+Hyloxalus eleutherodactylus,,Dendrobatidae,Anura,0
+Hyalinobatrachium vireovittatum,Starrett's Glass Frog,Centrolenidae,Anura,0
+Theloderma rhododiscus,,Rhacophoridae,Anura,0
+Sphaenorhynchus caramaschii,,Hylidae,Anura,1
+Phasmahyla spectabilis,,Hylidae,Anura,0
+Hyla eximia,Mountain Treefrog,Hylidae,Anura,1
+Litoria pearsoniana,Cascade Tree Frog,Hylidae,Anura,0
+Duttaphrynus microtympanum,,Bufonidae,Anura,0
+Stumpffia garraffoi,,Microhylidae,Anura,0
+Arthroleptis xenodactyloides,Dwarf squeaker,Arthroleptidae,Anura,0
+Gastrotheca helenae,,Hemiphractidae,Anura,1
+Hypopachus variolosus,Sheep Frog,Microhylidae,Anura,0
+Eleutherodactylus guttilatus,Spotted Chirping Frog,Eleutherodactylidae,Anura,0
+Phrynobatrachus leveleve,,Phrynobatrachidae,Anura,0
+Osteopilus septentrionalis,Cuban Treefrog,Hylidae,Anura,0
+Uperodon globulosus,,Microhylidae,Anura,0
+Scinax cuspidatus,,Hylidae,Anura,0
+Hypopachus ustus,Two-spaded Narrow-mouthed Toad,Microhylidae,Anura,0
+Ansonia spinulifer,,Bufonidae,Anura,0
+Atelopus patazensis,Harlequin frog,Bufonidae,Anura,0
+Pelobates fuscus,Common Spadefoot,Pelobatidae,Anura,0
+Anodonthyla nigrigularis,,Microhylidae,Anura,1
+Melanophryniscus krauczuki,,Bufonidae,Anura,0
+Boophis solomaso,,Mantellidae,Anura,0
+Minervarya andamanensis,,Dicroglossidae,Anura,0
+Dendropsophus leucophyllatus,Clown Tree Frog,Hylidae,Anura,0
+Odontophrynus maisuma,,Odontophrynidae,Anura,0
+Aromobates ornatissimus,Ornate cloud frog,Dendrobatidae,Anura,0
+Litoria rubella,Desert Tree Frog,Hylidae,Anura,1
+Eleutherodactylus riparius,Cuban Streamside Frog,Eleutherodactylidae,Anura,0
+Kassina senegalensis,Senegal kassina,Hyperoliidae,Anura,1
+Polypedates occidentalis,,Rhacophoridae,Anura,0
+Paratelmatobius poecilogaster,,Leptodactylidae,Anura,0
+Leptodactylus pustulatus,,Leptodactylidae,Anura,0
+Duttaphrynus dhufarensis,,Bufonidae,Anura,0
+Gastrotheca gracilis,,Hemiphractidae,Anura,1
+Brachycephalus hermogenesi,,Brachycephalidae,Anura,0
+Allobates subfolionidificans,,Dendrobatidae,Anura,0
+Atlantihyla panchoi,,Hylidae,Anura,0
+Triprion spatulatus,Mexican Shovel-headed Treefrog,Hylidae,Anura,0
+Nasikabatrachus sahyadrensis,Purple Frog,Nasikabatrachidae,Anura,0
+Anomaloglossus baeobatrachus,,Dendrobatidae,Anura,0
+Synapturanus salseri,Timbo Disc Frog,Microhylidae,Anura,1
+Ecnomiohyla fimbrimembra,Fringe-limbed Treefrog,Hylidae,Anura,0
+Pristimantis corrugatus,,Strabomantidae,Anura,0
+Cardioglossa schioetzi,,Arthroleptidae,Anura,0
+Rhaebo guttatus,,Bufonidae,Anura,0
+Minervarya nepalensis,Nepal Warty Frog,Dicroglossidae,Anura,0
+Amolops loloensis,,Ranidae,Anura,0
+Meristogenys jerboa,,Ranidae,Anura,0
+Scaphiopus holbrookii,Eastern Spadefoot,Scaphiopodidae,Anura,0
+Incilius periglenes,Sapo Dorado,Bufonidae,Anura,0
+Afrixalus vittiger,,Hyperoliidae,Anura,1
+Phantasmarana boticariana,,Hylodidae,Anura,0
+Crossodactylus timbuhy,,Hylodidae,Anura,0
+Dendropsophus sartori,,Hylidae,Anura,0
+Proceratophrys brauni,,Odontophrynidae,Anura,0
+Proceratophrys renalis,,Odontophrynidae,Anura,0
+Uperodon taprobanicus,Sri Lankan Bullfrog,Microhylidae,Anura,1
+Rana virgatipes,Carpenter Frog,Ranidae,Anura,0
+Panophrys palpebralespinosa,,Megophryidae,Anura,0
+Leptodactylus discodactylus,,Leptodactylidae,Anura,0
+Leptodactylus pentadactylus,Smoky Jungle Frog,Leptodactylidae,Anura,1
+Phrynobatrachus bibita,Bibita Mountain dwarf puddle frog,Phrynobatrachidae,Anura,0
+Cardioglossa trifasciata,,Arthroleptidae,Anura,0
+Excidobates captivus,Santiago Poison Frog,Dendrobatidae,Anura,1
+Phrynopus anancites,,Strabomantidae,Anura,0
+Amolops ricketti,,Ranidae,Anura,0
+Bromeliohyla dendroscarta,,Hylidae,Anura,0
+Leptobrachium nigrops,,Megophryidae,Anura,0
+Duttaphrynus olivaceus,Olive Toad,Bufonidae,Anura,1
+Noblella carrascoicola,,Strabomantidae,Anura,0
+Amolops spinapectoralis,,Ranidae,Anura,0
+Bombina pachypus,Apennine Yellow-bellied Toad,Bombinatoridae,Anura,0
+Leptodactylus bufonius,,Leptodactylidae,Anura,0
+Discoglossus montalentii,Corsican painted frog,Alytidae,Anura,0
+Breviceps sylvestris,Forest rain frog,Brevicipitidae,Anura,0
+Ecnomiohyla minera,,Hylidae,Anura,0
+Osteopilus vastus,Hispaniolan Giant Treefrog,Hylidae,Anura,0
+Micrixalus fuscus,Kalakkad Dancing Frog,Micrixalidae,Anura,0
+Hyla arenicolor,Canyon Treefrog,Hylidae,Anura,1
+Rana capito,Carolina Gopher Frog,Ranidae,Anura,0
+Pristimantis devillei,,Strabomantidae,Anura,0
+Nyctibatrachus pulivijayani,Vijayan's Night Frog,Nyctibatrachidae,Anura,0
+Cacosternum plimptoni,Plimpton's Dainty Frog,Pyxicephalidae,Anura,0
+Ptychadena oxyrhynchus,Sharp-nosed ridged frog,Ptychadenidae,Anura,0
+Hyperolius argus,,Hyperoliidae,Anura,0
+Hyloxalus elachyhistus,,Dendrobatidae,Anura,0
+Pelobates syriacus,Eastern Spadefoot,Pelobatidae,Anura,0
+Leptopelis parbocagii,,Arthroleptidae,Anura,0
+Litoria tyleri,Tyler's Tree Frog,Hylidae,Anura,0
+Phrynobatrachus guineensis,,Phrynobatrachidae,Anura,0
+Litoria longirostris,Sharp-snouted Frog,Hylidae,Anura,0
+Odorrana grahami,,Ranidae,Anura,0
+Pristimantis philipi,,Strabomantidae,Anura,0
+Oophaga anchicayensis,,Dendrobatidae,Anura,0
+Nymphargus pluvialis,,Centrolenidae,Anura,0
+Pseudophilautus stuarti,Stuart's Shrub Frog,Rhacophoridae,Anura,0
+Rana pretiosa,Oregon Spotted Frog,Ranidae,Anura,1
+Rana dybowskii,Dybovsky's Frog,Ranidae,Anura,0
+Phrynobatrachus asper,,Phrynobatrachidae,Anura,0
+Osteocephalus oophagus,,Hylidae,Anura,1
+Pseudophilautus macropus,Webtoe tree frog,Rhacophoridae,Anura,0
+Pristimantis lacrimosus,,Strabomantidae,Anura,0
+Amolops ottorum,Son La Sucker Frog,Ranidae,Anura,0
+Fritziana ohausi,,Hemiphractidae,Anura,0
+Hyperolius minutissimus,,Hyperoliidae,Anura,0
+Hemisus guttatus,Spotted Snout-Burrower,Hemisotidae,Anura,0
+Oreophryne penelopeia,,Microhylidae,Anura,1
+Sphaerotheca pashchima,,Dicroglossidae,Anura,0
+Raorchestes silentvalley,Silent Valley bush frog,Rhacophoridae,Anura,0
+Ptychadena nilotica,,Ptychadenidae,Anura,0
+Nyctimystes pulcher,,Hylidae,Anura,0
+Boophis luteus,,Mantellidae,Anura,1
+Proceratophrys rotundipalpebra,,Odontophrynidae,Anura,1
+Ptychadena harenna,,Ptychadenidae,Anura,0
+Rhacophorus edentulus,Celebes Flying Frog,Rhacophoridae,Anura,0
+Polypedates impresus,,Rhacophoridae,Anura,0
+Atelopus chiriquiensis,Chiriqui Harlequin Frog,Bufonidae,Anura,0
+Chiasmocleis royi,,Microhylidae,Anura,0
+Werneria tandyi,,Bufonidae,Anura,0
+Gephyromantis moseri,,Mantellidae,Anura,1
+Cophixalus monticola,,Microhylidae,Anura,1
+Mantella nigricans,,Mantellidae,Anura,1
+Oreobates amarakaeri,,Strabomantidae,Anura,0
+Allobates tinae,,Dendrobatidae,Anura,0
+Limnodynastes salmini,Salmon-striped Frog,Myobatrachidae,Anura,0
+Kalophrynus orangensis,Indian Striped Sticky Frog,Microhylidae,Anura,0
+Litoria nudidigitus,Leaf Green Tree Frog,Hylidae,Anura,0
+Centrolene sanchezi,Sánchez’s Glassfrog,Centrolenidae,Anura,0
+Blommersia sarotra,,Mantellidae,Anura,1
+Minervarya syhadrensis,Southern cricket frog,Dicroglossidae,Anura,0
+Panophrys spinata,,Megophryidae,Anura,0
+Ranitomeya benedicta,,Dendrobatidae,Anura,1
+Microhyla malang,,Microhylidae,Anura,0
+Gephyromantis schilfi,,Mantellidae,Anura,1
+Ptychohyla acrochorda,,Hylidae,Anura,0
+Oreobates crepitans,,Strabomantidae,Anura,0
+Oreobates madidi,,Strabomantidae,Anura,0
+Polypedates cruciger,Common hour-glass tree frog,Rhacophoridae,Anura,0
+Incilius pisinnus,,Bufonidae,Anura,0
+Eleutherodactylus barlagnei,Guadeloupe Streamfrog,Eleutherodactylidae,Anura,0
+Raorchestes akroparallagi,,Rhacophoridae,Anura,0
+Ansonia minuta,,Bufonidae,Anura,0
+Pristimantis huicundo,,Strabomantidae,Anura,0
+Eleutherodactylus acmonis,Cuban Red-rumped Frog,Eleutherodactylidae,Anura,0
+Rhinella alata,,Bufonidae,Anura,0
+Anaxyrus houstonensis,Houston Toad,Bufonidae,Anura,0
+Pristimantis llojsintuta,,Strabomantidae,Anura,0
+Vandijkophrynus gariepensis,Karoo Toad,Bufonidae,Anura,0
+Dendropsophus pelidna,,Hylidae,Anura,0
+Vitreorana castroviejoi,,Centrolenidae,Anura,0
+Austrochaperina gracilipes,Slender Frog,Microhylidae,Anura,0
+Atelopus flavescens,,Bufonidae,Anura,0
+Exerodonta bivocata,Chiapan Highlands Treefrog,Hylidae,Anura,0
+Dendropsophus rossalleni,,Hylidae,Anura,0
+Pelophryne guentheri,,Bufonidae,Anura,0
+Mantella bernhardi,,Mantellidae,Anura,1
+Stumpffia jeannoeli,,Microhylidae,Anura,1
+Stumpffia achillei,,Microhylidae,Anura,1
+Odontophrynus monachus,,Odontophrynidae,Anura,0
+Pseudophilautus alto,,Rhacophoridae,Anura,0
+Scaphiophryne gottlebei,Gottlebe's Narrow-mouthed Frog; Sahon'orana (in Malagasy),Microhylidae,Anura,0
+Phrynobatrachus plicatus,,Phrynobatrachidae,Anura,0
+Hemiphractus scutatus,,Hemiphractidae,Anura,0
+Exerodonta smaragdina,,Hylidae,Anura,0
+Ischnocnema octavioi,,Brachycephalidae,Anura,0
+Microhyla arboricola,Tree-dwelling (pigmy) narrow-mouth frog; Nhai bau cay (Vietnamese),Microhylidae,Anura,0
+Hyloscirtus bogotensis,,Hylidae,Anura,0
+Proceratophrys salvatori,,Odontophrynidae,Anura,0
+Nannophryne corynetes,,Bufonidae,Anura,0
+Boana roraima,,Hylidae,Anura,0
+Stumpffia pygmaea,,Microhylidae,Anura,1
+Plethodontohyla tuberata,,Microhylidae,Anura,0
+Scinax crospedospilus,,Hylidae,Anura,1
+Megastomatohyla mixomaculata,,Hylidae,Anura,0
+Plethodontohyla brevipes,,Microhylidae,Anura,0
+Pristimantis ockendeni,,Strabomantidae,Anura,1
+Phrynobatrachus batesii,,Phrynobatrachidae,Anura,0
+Anaxyrus retiformis,Sonoran Green Toad,Bufonidae,Anura,1
+Kaloula indochinensis,,Microhylidae,Anura,0
+Pristimantis pugnax,,Strabomantidae,Anura,0
+Callulina laphami,,Brevicipitidae,Anura,0
+Anomaloglossus leopardus,Leopard Rocket Frog,Dendrobatidae,Anura,0
+Chiasmocleis bassleri,,Microhylidae,Anura,0
+Pristimantis colodactylus,,Strabomantidae,Anura,0
+Stumpffia psologlossa,,Microhylidae,Anura,1
+Pristimantis ornatissimus,,Strabomantidae,Anura,0
+Pristimantis glandulosus,,Strabomantidae,Anura,0
+Hyla versicolor,Eastern Gray Treefrog,Hylidae,Anura,0
+Scinax oreites,,Hylidae,Anura,0
+Tepuihyla edelcae,,Hylidae,Anura,0
+Eleutherodactylus leprus,,Eleutherodactylidae,Anura,0
+Leptodactylus wagneri,,Leptodactylidae,Anura,0
+Allobates alessandroi,,Dendrobatidae,Anura,0
+Bokermannohyla luctuosa,Reservoir Treefrog,Hylidae,Anura,1
+Hyperolius viridigulosus,,Hyperoliidae,Anura,0
+Leptopelis palmatus,,Arthroleptidae,Anura,0
+Micrixalus adonis,Beautiful Dancing Frog,Micrixalidae,Anura,0
+Dendropsophus subocularis,,Hylidae,Anura,0
+Plectrohyla acanthodes,,Hylidae,Anura,0
+Odorrana amamiensis,Amami Hanasakigaeru,Ranidae,Anura,0
+Rhinella macrorhina,,Bufonidae,Anura,0
+Hadromophryne natalensis,Natal Ghost Frog,Heleophrynidae,Anura,0
+Guibemantis tornieri,,Mantellidae,Anura,1
+Platymantis polillensis,,Ceratobatrachidae,Anura,0
+Adelphobates galactonotus,Splash-Backed Poison Frog,Dendrobatidae,Anura,0
+Pseudophilautus schmarda,Conical wart pygmy tree frog,Rhacophoridae,Anura,0
+Boana polytaenia,,Hylidae,Anura,0
+Heterixalus alboguttatus,,Hyperoliidae,Anura,1
+Pristimantis pluvialis,,Strabomantidae,Anura,0
+Agalychnis hulli,,Hylidae,Anura,0
+Boana diabolica,,Hylidae,Anura,0
+Microhyla palmipes,Palmated Chorus Frog,Microhylidae,Anura,0
+Pristimantis capitonis,,Strabomantidae,Anura,0
+Acris gryllus,Southern Cricket Frog,Hylidae,Anura,1
+Scinax strigilatus,,Hylidae,Anura,0
+Microhyla butleri,Butler's Narrow-mouth Frog,Microhylidae,Anura,1
+Plethodontohyla alluaudi,,Microhylidae,Anura,1
+Dendropsophus schubarti,,Hylidae,Anura,0
+Mantidactylus cowanii,,Mantellidae,Anura,0
+Sphaenorhynchus surdus,,Hylidae,Anura,0
+Boophis majori,,Mantellidae,Anura,1
+Bufo eichwaldi,Eichwald's Toad,Bufonidae,Anura,1
+Craugastor escoces,,Craugastoridae,Anura,0
+Gephyromantis malagasius,,Mantellidae,Anura,1
+Mannophryne yustizi,,Dendrobatidae,Anura,0
+Craugastor spatulatus,,Craugastoridae,Anura,0
+Litoria lesueurii,Lesueur's Frog,Hylidae,Anura,1
+Craugastor longirostris,,Craugastoridae,Anura,0
+Chrysopaa sternosignata,Karez frog,Dicroglossidae,Anura,0
+Arthroleptis brevipes,,Arthroleptidae,Anura,0
+Arthroleptis nikeae,Nike’s squeaker frog,Arthroleptidae,Anura,0
+Litoria revelata,Whirring Tree Frog,Hylidae,Anura,1
+Pristimantis lucasi,,Strabomantidae,Anura,0
+Phyllodytes praeceptor,,Hylidae,Anura,0
+Eleutherodactylus nitidus,,Eleutherodactylidae,Anura,0
+Gephyromantis thelenae,,Mantellidae,Anura,1
+Raorchestes chromasynchysi,,Rhacophoridae,Anura,0
+Pristimantis rufoviridis,,Strabomantidae,Anura,0
+Theloderma asperum,Hill Garden Bug-eyed Frog,Rhacophoridae,Anura,1
+Pseudophilautus mooreorum,,Rhacophoridae,Anura,0
+Gastrotheca aureomaculata,,Hemiphractidae,Anura,0
+Anomaloglossus degranvillei,,Dendrobatidae,Anura,0
+Osteopilus crucialis,Jamaican Snoring Treefrog,Hylidae,Anura,0
+Nyctibatrachus dattatreyaensis,,Nyctibatrachidae,Anura,0
+Boophis rappiodes,,Mantellidae,Anura,1
+Hyloscirtus princecharlesi,Prince Charles Stream Tree Frog,Hylidae,Anura,0
+Indosylvirana flavescens,Yellowish Golden-backed frog,Ranidae,Anura,0
+Craugastor campbelli,,Craugastoridae,Anura,0
+Pelobates varaldii,Moroccan Spadefoot,Pelobatidae,Anura,0
+Afrixalus enseticola,,Hyperoliidae,Anura,0
+Agalychnis callidryas,Red-eyed Multicolored Treefrog,Hylidae,Anura,1
+Cornufer pelewensis,Palau Frog,Ceratobatrachidae,Anura,0
+Gephyromantis granulatus,,Mantellidae,Anura,1
+Sphaenorhynchus planicola,,Hylidae,Anura,0
+Platypelis ranjomena,,Microhylidae,Anura,0
+Adenomera hylaedactyla,Dark-spotted Thin-toed Frog,Leptodactylidae,Anura,1
