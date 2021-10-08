@@ -27,7 +27,7 @@ class fishManager:
         f.close()
 
         fish = fish_r[numFish]
-        fish = str(fish[0:len(fish)-1]) + " peixe"
+        fish = str(fish[0:len(fish)-1])
 
         return fish
 
@@ -35,7 +35,7 @@ class fishManager:
         #QUERY SEARCH
         gis = GoogleImagesSearch(API_KEY, PROJECT_KEY)
         _search_params = {
-            'q': query,
+            'q': query + '"peixe"',
             'num': 1,
             'searchType': 'image',
             'safe': 'off',
@@ -74,8 +74,3 @@ class fishManager:
                 f.write(str(conts[1]))
         f.close()
 
-        if os.path.exists(path+'1.jpg'):
-            os.remove(path + '1.jpg')
-
-        if os.path.exists(path):
-            shutil.rmtree(path)
