@@ -1,6 +1,3 @@
-import os
-import shutil
-from google_images_search import GoogleImagesSearch
 
 path = 'image/'
 
@@ -19,7 +16,6 @@ class fishManager:
 
         return conts
 
-
     def fishSelector(numFish):
         #READ FISHES FILE
         with open("files/fishes.txt","r",encoding="utf8") as f:
@@ -30,40 +26,6 @@ class fishManager:
         fish = str(fish[0:len(fish)-1])
 
         return fish
-
-    def fishImage(query, API_KEY, PROJECT_KEY):
-        #QUERY SEARCH
-        gis = GoogleImagesSearch(API_KEY, PROJECT_KEY)
-        _search_params = {
-            'q': query + '"peixe"',
-            'num': 1,
-            'searchType': 'image',
-            'safe': 'off',
-            'imgType': 'photo',
-            'fileType': 'jpg',
-            'orTerms': 'peixe|fish|pesca|pescaria|rio|isca|nadando|nadar|água|mar|anzol'
-        }
-
-        #limit google API request in 5
-        i = 0
-        images = []
-        gis.search(search_params=_search_params, path_to_dir = path)
-        while gis.results() == [] and i < 5:
-            try:
-                gis.next_page()
-            except:
-                print('page '+i+' nothing found')
-            i=i+1
-
-        if os.path.exists(path):
-            filename = os.listdir(path)
-            os.rename(path + filename[0], path + 'post.jpg')
-
-        if os.path.exists(path+'post.jpg'):
-            images.append(path + 'post.jpg')
-
-        return images
-
 
     def fishUpdate(conts,response):
         with open("files/cont.txt","w",encoding="utf8") as f:
