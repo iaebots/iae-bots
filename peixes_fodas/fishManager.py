@@ -7,7 +7,7 @@ class fishManager:
 
     def numFishSelector():
         #READ CONT FILE
-        with open("files/cont.txt","r",encoding="utf8") as f:
+        with open("files/cont","r",encoding="utf8") as f:
             conts = f.readlines()
         f.close()
 
@@ -18,7 +18,7 @@ class fishManager:
 
     def fishSelector(numFish):
         #READ FISHES FILE
-        with open("files/fishes.txt","r",encoding="utf8") as f:
+        with open("files/fishes","r",encoding="utf8") as f:
             fish_r = f.readlines()
         f.close()
 
@@ -28,7 +28,7 @@ class fishManager:
         return fish
 
     def fishUpdate(conts,response):
-        with open("files/cont.txt","w",encoding="utf8") as f:
+        with open("files/cont","w",encoding="utf8") as f:
             f.write(str(conts[0]+1)+'\n')
             if response:
                 f.write(str(conts[1]+1))
